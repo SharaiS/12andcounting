@@ -1,13 +1,9 @@
--- to upload the shapfiles in postgis
--- NLD-roads `(for debugging -W "UTF-8" )`
 --  Run in terminal
 shp2pgsql -I -s 4326 -W "UTF-8" '*/NLD_roads.shp' public.NLD_roads | psql -h localhost -d <databasename> -U <username>
 -- NLD-cities
 shp2pgsql -I -s 4326 -W "UTF-8" '*/NLD_adm/NLD_adm2.shp' public.NLD_cities | psql -h localhost -d <databasename> -U <username>
 
 -- In PgAdmin Run the following
-
--- Create the bounding box(clipping area) for Amsterdam
 
 CREATE TABLE public.amsterdam AS
 SELECT * FROM Public.nld_cities1
@@ -16,6 +12,9 @@ WHERE name_2 ='Amsterdam';
 
 -- Check if postgis is installed
 CREATE EXTENSION IF NOT EXISTS postgis;
+-- Create the bounding box(clipping area) for Amsterdam
+
+
 -- The following will clip the roads in amsterdam using the bounding box ... 
 
 -- We make use of ST_Intersection(r.geom, c.geom) from postgis.
