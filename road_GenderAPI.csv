@@ -1,0 +1,5470 @@
+road_name,gender,country,probability,found_name
+'S-Gravelandse Veer,male,IN,99,veer
+A. Moen straat,male,NL,100,moen
+Akkerwinde weg,male,NL,100,weg
+Akoleien straat,null,null,null,null
+Alexander straat,male,NL,99,alexander
+Alfred DöBlin straat,male,NL,100,alfred
+Soenda straat,male,ID,100,soenda
+Amundsen weg,male,BR,100,amundsen
+Anfieldroad,male,JP,100,anfieldroad
+Anielewicz singel,male,NL,100,singel
+Ankerplaats,null,null,null,null
+Spook steeg,male,US,70,spook
+Antwerpen baan,male,BE,67,antwerpen
+Appel weg,male,ID,60,appel
+Archief straat,female,NL,100,archief
+Arend Bontekoe plantsoen,male,NL,99,arend
+Aster laan,female,US,65,laan
+Avalon,male,NL,50,avalon
+Avenhorn straat,null,null,null,null
+Avercamp straat,null,null,null,null
+Avogadro straat,null,null,null,null
+Azalea straat,female,MX,98,azalea
+Boom steeg,male,TH,57,boom
+Boom straat,male,TH,57,boom
+Boorder straat,null,null,null,null
+Boot straat,male,TH,69,boot
+Starrenbosch,null,null,null,null
+Azart plein,female,FR,100,plein
+AziëHaven weg,male,NL,100,weg
+Badhuis weg,female,BE,100,badhuis
+Bakkerswaal,null,null,null,null
+Baron De Coubertin laan,female,US,65,laan
+Bartholomeus Ruloffs straat,male,ID,100,bartholomeus
+'S-Gravendijk dreef,null,null,null,null
+'S-Gravenhekje,null,null,null,null
+Bavink hof,female,NL,100,hof
+Bawean straat,male,ID,100,bawean
+Beatrix park,female,NL,89,beatrix
+Beeckenstein,null,null,null,null
+Beek En Hoff,male,US,82,hoff
+Beemdgras straat,null,null,null,null
+Beetskoog straat,null,null,null,null
+Begijnen steeg,null,null,null,null
+Bellamydwars straat,null,null,null,null
+Berg straat,male,BR,97,berg
+Bertha Von Suttner straat,male,NL,50,von
+Beuken weg,male,MX,100,beuken
+Bijlmerring kade,male,US,59,kade
+Binair straat,null,null,null,null
+Blindeman steeg,null,null,null,null
+'S-Gravesande plein,female,FR,100,plein
+Boor straat,female,FI,67,boor
+Bosboom Toussaint straat,male,NL,100,toussaint
+'S-Gravesande straat,null,null,null,null
+Boterbloem straat,null,null,null,null
+'T Hol,male,US,58,hol
+'T Kleine Loop veld,male,US,76,loop
+'T Nopeind,null,null,null,null
+'T Voorwerf,null,null,null,null
+10,null,null,null,null
+1e Glans hof,male,AE,100,glans
+1e Helmers straat,null,null,null,null
+Brand Dirk Ochse park,male,NL,99,dirk
+Breughel straat,male,JP,100,breughel
+1e Keker straat,female,MY,100,keker
+2e Glans hof,male,AE,100,glans
+2e Helmers straat,null,null,null,null
+3e Helmers straat,null,null,null,null
+A,null,null,null,null
+A. Evers plein,female,FR,100,plein
+A. Reitsma kade,male,US,59,kade
+A.A. De Lannoy-Willems straat,male,BE,100,lannoy
+A.A.H. Struijcken kade,male,US,59,kade
+A.J. Koejemans straat,null,null,null,null
+A.J. Kropholler straat,null,null,null,null
+A.M. De Jong straat,male,NL,67,jong
+A.S. Onderwijzer hof,female,NL,100,hof
+Aaf Bouber straat,female,NL,100,aaf
+Aagtdorper pad,female,TH,52,pad
+Aak hof,male,ID,91,aak
+Aak pad,male,ID,91,aak
+Aak straat,male,ID,91,aak
+Aalberse straat,null,null,null,null
+Aalsmeer plein,female,FR,100,plein
+Aalsmeer weg,male,NL,100,weg
+Aambeeld straat,null,null,null,null
+Aandammer brug,male,PY,100,brug
+Aandewind,null,null,null,null
+Aardbei straat,female,BE,100,aardbei
+Aarschot pad,female,TH,52,pad
+Aart Klein hof,male,NL,99,aart
+Aart Van Der Leeuw straat,male,NL,99,aart
+Abbenes straat,null,null,null,null
+Abberdaan,null,null,null,null
+Borger straat,male,CH,100,borger
+Eerste Boerhaave straat,male,BE,67,eerste
+Buiten Kadijken,male,null,100,buiten
+Burman straat,male,ID,90,burman
+Borggraaf,null,null,null,null
+Borgloon straat,null,null,null,null
+Catharina Boudewijns hof,female,NL,100,catharina
+Abcouder pad,female,TH,52,pad
+Abcouderstraat weg,male,NL,100,weg
+Abe Lenstra laan,female,US,65,laan
+Abebe Bikila laan,female,US,65,laan
+Abelen laan,female,US,65,laan
+Abidjan weg,female,US,100,abidjan
+Abraham De Haan straat,male,US,67,haan
+Abraham Kuyper plein,male,NL,100,abraham
+Boris Pasternak straat,male,NL,100,boris
+Cesar Willem Ittman pad,male,NL,100,willem
+Abraham Kuyper straat,male,NL,100,abraham
+Charlie Parker straat,male,US,88,parker
+Chocolade weg,male,NL,100,weg
+Christoffelkruid straat,null,null,null,null
+Clarissen hof,female,NL,100,hof
+Abraham Staalman plein,male,NL,100,abraham
+Abraham Van Der Hart straat,male,NL,65,van
+Abram Dudok Van Heel straat,male,NL,65,van
+Colnot En Poons hof,female,NL,100,hof
+Columbus straat,female,NL,100,columbus
+Consience brug,male,PY,100,brug
+Abrikozen straat,null,null,null,null
+Abtswoude pad,female,TH,52,pad
+Accason,null,null,null,null
+Coornhert straat,null,null,null,null
+Copernicus straat,male,ES,100,copernicus
+Coppelstock straat,null,null,null,null
+Cor Van Der Hart brug,male,NL,100,cor
+Cornelis Drebbel straat,male,NL,100,cornelis
+Dirham pad,female,TH,52,pad
+Dirk Bons straat,male,NL,99,dirk
+Cornelis Schuurman hof,male,NL,100,cornelis
+Cosmarium straat,null,null,null,null
+Couhornerhoek,null,null,null,null
+Count Basie straat,male,ZA,83,basie
+Courbet straat,null,null,null,null
+Crabschuyt straat,null,null,null,null
+Dadel straat,null,null,null,null
+Daelenbroek,null,null,null,null
+Dageraads brug,male,PY,100,brug
+Dahlia laan,female,US,65,laan
+Accra weg,male,NG,100,accra
+Accumulator weg,male,NL,100,weg
+Achilles straat,male,NL,100,achilles
+Achter Oosteinde,null,null,null,null
+Achterdek,null,null,null,null
+De Dubbele Klap brug,male,NL,100,klap
+Achtergouwtje,null,null,null,null
+Achter gracht,null,null,null,null
+Achter laan,female,US,65,laan
+Achtersteven,null,null,null,null
+Ad Windig hof,female,NL,100,hof
+Adam Smith plein,male,US,86,smith
+Adam Van Germez hof,male,NL,100,adam
+Adama Van Scheltema plein,male,NL,65,van
+Adamello,null,null,null,null
+Daguerre straat,null,null,null,null
+De Lier hof,male,MY,64,lier
+De Ontdekkers brug,male,PY,100,brug
+Adelaars weg,male,NL,100,weg
+Adingerdorp hof,female,NL,100,hof
+Dalstein dreef,null,null,null,null
+Dalton straat,male,NL,100,dalton
+De-Grote-Geus plein,female,FR,100,plein
+Borneo kade,male,US,59,kade
+Borneo laan,male,ID,88,borneo
+Diepen,null,null,null,null
+Digitaal straat,null,null,null,null
+Dijle hof,female,TR,95,dijle
+Borneosteiger,null,null,null,null
+Dirk Witte hof,male,NL,99,dirk
+Display straat,male,TH,78,display
+Doklaantje,null,null,null,null
+Dirk Deutekom pad,male,NL,99,dirk
+Dirk Hartogh straat,male,NL,99,dirk
+Dirk SchäFer straat,male,NL,99,dirk
+Borneo straat,male,ID,88,borneo
+Bornhout,null,null,null,null
+Borrendamme hof,female,NL,100,hof
+Borssenburg plein,female,FR,100,plein
+Borssenburg straat,null,null,null,null
+Duivendrechtse laan,female,US,65,laan
+Dwars Spinhuis steeg,null,null,null,null
+Eckehart hof,female,NL,100,hof
+Dirk Sonoy straat,male,NL,99,dirk
+Eerste Tuindwars straat,male,BE,67,eerste
+Elseneur brug,male,PY,100,brug
+Dirk Van Hasselts steeg,male,NL,99,dirk
+Eerste Boomdwars straat,male,BE,67,eerste
+Eerste Breeuwers straat,male,BE,67,eerste
+Eerste Ceram straat,male,BE,67,eerste
+Eerste Coehoorn straat,male,BE,67,eerste
+AustraliëHaven weg,male,NL,100,weg
+B&W Allee,female,US,90,allee
+Dirk Vreeken straat,male,NL,99,dirk
+Essen laan,female,TR,63,essen
+Ethosa,null,null,null,null
+B. Merkelbach singel,male,NL,100,singel
+Baanakkers pad,female,TH,52,pad
+Baan brug,male,NL,100,baan
+Baanbrug steeg,null,null,null,null
+Griselde straat,female,BE,100,griselde
+Baarsjes weg,male,NL,100,weg
+Baars straat,male,US,100,baars
+Baas Gansendonck straat,male,NL,100,baas
+First straat,male,NL,100,first
+Bach plein,male,US,82,bach
+Bach straat,male,US,82,bach
+Formosa straat,female,AO,80,formosa
+Back-Up straat,male,NL,100,back
+Dirkshorn plantsoen,null,null,null,null
+Frans De Vreng pad,male,NL,100,frans
+Fresia straat,female,NL,100,fresia
+Frissenstein,null,null,null,null
+Discus straat,male,NL,100,discus
+Diskette weg,male,NL,100,weg
+Distelachter straat,null,null,null,null
+Distel kade,male,US,59,kade
+Hondsdraf pad,female,TH,52,pad
+Dam,male,NL,67,dam
+Damlopers pad,female,TH,52,pad
+Distelkruis straat,null,null,null,null
+Distel laan,female,US,65,laan
+Eerste Coentunnel,male,BE,67,eerste
+Gageldonk,null,null,null,null
+Distel plein,male,RO,80,distel
+Distelvoor straat,null,null,null,null
+Geert Geertsen brug,male,NL,100,geert
+Eerste Ringdijk straat,male,BE,67,eerste
+Eerste Rozendwars straat,male,BE,67,eerste
+George Gershwin plein,male,NL,99,george
+Eerste Schinkel straat,male,BE,67,eerste
+Gerrit Mannoury straat,male,NL,99,gerrit
+Eerste Sweelinck straat,male,BE,67,eerste
+Eerste Van Der Helst straat,male,NL,65,van
+Gloriant straat,male,BH,100,gloriant
+Grevelingen straat,null,null,null,null
+Bos En Lommer plantsoen,male,NL,100,bos
+Ekingen straat,null,null,null,null
+Bos En Lommer plein,female,FR,100,plein
+Eksteenfontein,null,null,null,null
+Ekster laan,female,US,65,laan
+Ekster straat,null,null,null,null
+Gustav Leonhardt brug,male,US,71,leonhardt
+Guus Trestorff straat,male,NL,98,guus
+Damrak,null,null,null,null
+Damrak steeg,null,null,null,null
+Dam straat,male,NL,67,dam
+Hagenau,null,null,null,null
+Burgemeester Vening Meinesz laan,female,US,65,laan
+Burgersdijk straat,null,null,null,null
+Burgersweer hof,female,NL,100,hof
+Burmandwars straat,null,null,null,null
+Hato straat,male,JP,67,hato
+Busken Huet straat,male,FR,100,huet
+Buskenblaser straat,null,null,null,null
+Busstation Elands gracht,null,null,null,null
+Heintje Hoeks steeg,male,ID,100,heintje
+Bussum straat,null,null,null,null
+Henk Hiensch straat,male,NL,100,henk
+DaniëL De Lange straat,male,NL,100,daniël
+Butaan weg,male,NL,100,weg
+Butskop weg,male,NL,100,weg
+Buys kade,male,US,59,kade
+Buys pad,female,TH,52,pad
+Buziau straat,null,null,null,null
+ Hof Van Groenen,male,NL,65,van
+BöHler pad,female,TH,52,pad
+C. Kruyswijk straat,null,null,null,null
+DaniëL Defoe laan,male,NL,100,daniël
+Emma plein,female,NL,99,emma
+Hollandse Iep brug,female,NL,100,iep
+Honingen,null,null,null,null
+Bos En Lommer weg,male,NL,100,bos
+Bosbraak hof,female,NL,100,hof
+Bosch Van Drakestein pad,female,TH,52,pad
+C. Van Eesteren laan,male,NL,65,van
+C.J.K. Van Aalst straat,male,NL,65,van
+C.J.Van Houten laan,male,NL,65,van
+Bosplaat,null,null,null,null
+Bosrank straat,null,null,null,null
+Boterdiep straat,null,null,null,null
+Boterkers straat,null,null,null,null
+Bottelarijpassage,null,null,null,null
+Bottelarij straat,null,null,null,null
+Bottelier plein,female,FR,100,plein
+C.K. Elout straat,male,NL,100,elout
+Botter straat,null,null,null,null
+Botteskerk singel,male,NL,100,singel
+Botticelli straat,male,BR,100,botticelli
+Boulevard pad,female,TH,52,pad
+Houtkopersburgwal,null,null,null,null
+Bouten burg,male,US,67,burg
+Boutens straat,null,null,null,null
+Bouvigne,null,null,null,null
+Bouwen Ewoutsz straat,male,BE,100,bouwen
+Baden Powell weg,male,US,93,powell
+Boven Rijkersloot,male,MY,100,boven
+Bovenkarspel straat,null,null,null,null
+Ijzerwerker straat,null,null,null,null
+Bovenkruier,null,null,null,null
+Entrepot hof,female,NL,100,hof
+Badhuis kade,male,US,59,kade
+Badrian hof,male,ID,100,badrian
+Baeto straat,null,null,null,null
+Baffin straat,male,US,100,baffin
+Baionen,null,null,null,null
+Esplanade De Meer,female,IT,100,esplanade
+Jan Goeverneur hof,male,NL,99,jan
+Jan Postma hof,male,NL,99,jan
+Henk Gortzak straat,male,NL,100,henk
+Esther De Boer-Van Rijk straat,female,NL,100,esther
+Jeroenen steeg,null,null,null,null
+Johan Schamp pad,male,NL,99,johan
+Ethekwini,male,ZA,100,ethekwini
+Johannes De Beka hof,female,US,64,beka
+Joop Eijl straat,male,NL,100,joop
+Bakhuizen Van Den Brink hof,male,NL,65,van
+Bakhuys Roozeboom straat,null,null,null,null
+Bakkers brug,male,ZA,100,bakkers
+Bakkers straat,male,ZA,100,bakkers
+Johannes Van Der Steur straat,male,NL,99,johannes
+Bakkum straat,null,null,null,null
+Falck straat,male,BR,100,falck
+Kanaal post,female,NL,100,post
+Karel Van De Woestijne straat,male,NL,99,karel
+Joop Gerritze straat,male,NL,100,joop
+Kastanje weg,male,NL,100,weg
+Balatonmeer laan,female,US,65,laan
+Balboa plein,male,BR,90,balboa
+Balboa straat,male,BR,90,balboa
+Baldermoer,null,null,null,null
+Baldwin straat,male,NL,100,baldwin
+Joop Ijisberg straat,male,NL,100,joop
+Kemirie straat,null,null,null,null
+Balearen laan,female,US,65,laan
+Balgzand straat,null,null,null,null
+Bali straat,male,NL,100,bali
+Ballen brug,male,ID,75,ballen
+Balthasar Florisz straat,male,NL,100,balthasar
+Bamberg hof,male,BR,83,bamberg
+Bananen straat,null,null,null,null
+Bandijk straat,null,null,null,null
+Banka straat,male,TR,83,banka
+Bankwerkerij,null,null,null,null
+Fannius Scholten straat,null,null,null,null
+Fanny Blankers-Koen laan,male,NL,100,koen
+King'S Cross,male,US,83,cross
+Klieverink,null,null,null,null
+Bovenover,null,null,null,null
+Boy Edgar straat,male,NL,100,edgar
+Boymans weg,male,NL,100,weg
+Braak En Bosch,male,TR,73,bosch
+Brachthuijzer straat,null,null,null,null
+Fanny Durack straat,female,NL,92,fanny
+Braeburn straat,null,null,null,null
+Kokospalm hof,female,NL,100,hof
+Brahms straat,male,US,100,brahms
+Joop Van Weezel hof,male,NL,100,joop
+Joop Woortman plein,male,NL,100,joop
+Korte Leidsedwars straat,female,NL,100,korte
+Bramzeil,null,null,null,null
+Kromelleboog steeg,null,null,null,null
+Bramzeil hof,female,NL,100,hof
+Brand brug,male,NL,100,brand
+Banne Buiksloot laan,female,US,65,laan
+Banne Centrum,female,US,67,banne
+Banne plein,female,US,67,banne
+Ban straat,male,NL,100,ban
+Bantammer brug,male,PY,100,brug
+Banterij,null,null,null,null
+Barajas weg,male,MX,100,barajas
+Barbara Strozzi laan,female,NL,100,barbara
+Brandewijn steeg,null,null,null,null
+Barbara Van Meerten straat,female,NL,100,barbara
+Barbusse laan,female,US,65,laan
+Barcelona plein,male,ES,67,barcelona
+Brandnetel pad,female,TH,52,pad
+Brandslang straat,null,null,null,null
+Lamong brug,male,ID,50,lamong
+Brandts Buys straat,female,BE,100,buys
+Brandweer brug,male,NL,100,brandweer
+Barentsz plein,female,FR,100,plein
+Barentsz straat,null,null,null,null
+Brantas brug,male,ID,100,brantas
+Brede Kerke pad,female,TH,52,pad
+Leiduin straat,null,null,null,null
+Bark pad,female,TH,52,pad
+Barnde steeg,null,null,null,null
+Barnevelder straat,null,null,null,null
+Baron G.A. Tindal plein,male,NL,100,baron
+Baron G.A. Tindal straat,male,NL,100,baron
+Joos Banckers plantsoen,male,NL,60,joos
+Baron Schimmelpenninck Van Der Oye weg,male,NL,65,van
+Baronie pad,female,TH,52,pad
+Brede Vogel straat,male,US,63,vogel
+Brederode straat,null,null,null,null
+Brede weg,male,NL,100,brede
+Bredius straat,null,null,null,null
+Liesbeth Den Uyl brug,female,NL,100,liesbeth
+Linter hof,female,NL,100,hof
+Justus Lipsius straat,male,NL,100,justus
+Louis De Visser straat,male,NL,98,louis
+Louise De Coligny straat,female,NL,100,louise
+Breed veld,male,US,57,breed
+Baronie straat,male,US,50,baronie
+Baron straat,male,NL,100,baron
+Bart De Ligt straat,male,NL,100,bart
+Bart Poesiat straat,male,NL,100,bart
+Bart Van Der Leck plantsoen,male,NL,100,bart
+Bart Van Hove straat,male,NL,100,bart
+Bartholomeus Diaz straat,male,ID,72,diaz
+Justus Van Maurik straat,male,NL,65,van
+Juttepeer pad,female,TH,52,pad
+Bartholomeus Drijfhout straat,male,ID,100,bartholomeus
+Martinus Nijhoff straat,male,NL,100,martinus
+Bartholt Enthes straat,null,null,null,null
+Breehorn straat,null,null,null,null
+Breezand pad,female,TH,52,pad
+Breitner straat,male,CO,100,breitner
+Brem singel,female,AR,65,brem
+Ken Saro-Wiwa straat,male,NL,100,ken
+Brem straat,female,AR,65,brem
+Brenner,male,BR,97,brenner
+Brentano straat,null,null,null,null
+Bretten laan,female,US,65,laan
+Fazanten laan,female,US,65,laan
+Fazanten weg,male,NL,100,weg
+Broekzijdsche pad,female,TH,52,pad
+Broenshofje,null,null,null,null
+Bromo straat,male,ID,94,bromo
+Bronckhorst straat,null,null,null,null
+K+R,null,null,null,null
+Brouwers gracht,male,BE,100,brouwers
+ Brug 102,male,PY,100,brug
+ Brug 142,male,PY,100,brug
+ Brug 38,male,PY,100,brug
+ Brug 39,male,PY,100,brug
+ Brug 40,male,PY,100,brug
+ Brug 66,male,PY,100,brug
+ Brug 69,male,PY,100,brug
+ Brug 812,male,PY,100,brug
+ Brug 848,male,PY,100,brug
+ Brug 849,male,PY,100,brug
+ Brug 850,male,PY,100,brug
+Bruins Slot straat,male,US,90,slot
+Bruinvis straat,null,null,null,null
+Bruno Van Moerkerkenpassage,male,NL,65,van
+Brussel singel,male,NL,100,singel
+Buffer straat,male,TH,63,buffer
+Februari plein,male,ID,67,februari
+Monnikendwars straat,null,null,null,null
+C.P.M. Romme plantsoen,male,BE,100,romme
+Cabot straat,male,US,92,cabot
+Cabral straat,male,BR,90,cabral
+Cacao weg,male,JP,57,cacao
+Mt. Ondina weg,female,BR,98,ondina
+Callantsoog straat,null,null,null,null
+Camera Obscura brug,male,US,67,camera
+Basis weg,male,ID,87,basis
+Campanula pad,female,TH,52,pad
+Namen hof,male,MX,100,namen
+Campanula straat,null,null,null,null
+Camper straat,male,NL,100,camper
+Cannen burg,male,US,67,burg
+Ndsm-Pier,male,NL,100,pier
+Henk HenriëT straat,male,NL,100,henk
+Nida Senff straat,female,NL,100,nida
+Henk Ooms pad,male,NL,100,henk
+Fokkezeil,null,null,null,null
+Bastenaken straat,null,null,null,null
+Bastiaan Plooij straat,male,NL,100,bastiaan
+Basting straat,null,null,null,null
+Batavia straat,male,ID,89,batavia
+Batjan straat,null,null,null,null
+Batterypark straat,null,null,null,null
+Bauduin laan,female,US,65,laan
+Capri weg,female,US,75,capri
+Carillon straat,null,null,null,null
+Carnap straat,null,null,null,null
+Feike De Boer laan,female,US,65,laan
+Fenny Heemskerk brug,female,NL,83,fenny
+Fonteinkruid straat,null,null,null,null
+Fluweelboom laan,female,US,65,laan
+Kenau Simons Hasselaar straat,male,US,75,simons
+Frits Rotgans hof,male,NL,99,frits
+Kampina,null,null,null,null
+Chassé Straat,null,null,null,null
+Noordkaap straat,null,null,null,null
+Chesterton laan,female,US,65,laan
+Chet Baker straat,male,US,95,chet
+Kennemerduin straat,null,null,null,null
+Beemster straat,null,null,null,null
+Beethoven plein,male,BR,94,beethoven
+Fritz Conijn straat,male,NL,100,fritz
+FröBel straat,null,null,null,null
+Funen kade,male,US,59,kade
+Keratella straat,null,null,null,null
+Chico Mendes straat,male,NL,100,chico
+Chopin straat,male,TH,58,chopin
+Chris Lebeau straat,male,NL,94,chris
+Christiaan BrüNings straat,male,NL,100,christiaan
+Christiaan De Wet straat,male,NL,100,christiaan
+Christiaan Huygens plein,male,NL,100,christiaan
+Christian Neefe straat,male,NL,100,christian
+Christine Poolman hof,female,NL,100,christine
+Christine Stoetz hof,female,NL,100,christine
+Karel Van Het Reve brug,male,NL,99,karel
+Het Amsterdamse Pad,female,TH,52,pad
+Karimata straat,null,null,null,null
+Kerdijk hof,female,NL,100,hof
+Christoffel Plantijn gracht,male,NL,100,christoffel
+DaniëL Goedkoop straat,male,NL,100,daniël
+DaniëL Stalpert straat,male,NL,100,daniël
+Dante straat,male,NL,100,dante
+Orca straat,male,TH,67,orca
+Clio straat,female,NL,100,clio
+Coenhaven weg,male,NL,100,weg
+Coentje Gans plantsoen,male,ID,93,gans
+Kleine Hout straat,male,NL,75,kleine
+Buiksloterbreek,null,null,null,null
+Oterleek straat,null,null,null,null
+Lanseloet straat,male,BE,100,lanseloet
+David Vos straat,male,NL,99,david
+David Wijnkoop straat,male,NL,99,david
+Davis straat,male,NL,100,davis
+Hoekenrode,null,null,null,null
+Karl GröGer singel,male,NL,100,karl
+Jan Vrijman straat,male,NL,99,jan
+Paulusbroedersluis,null,null,null,null
+Pesthuis laan,female,US,65,laan
+De Borcht,null,null,null,null
+Karl Marx pad,female,TH,52,pad
+Pier De Boer brug,male,NL,100,pier
+Golfbaan pad,female,TH,52,pad
+De Breek straat,null,null,null,null
+Gooijer steeg,null,null,null,null
+Gooilandse weg,male,NL,100,weg
+Karlskrona-Eiland,female,US,100,eiland
+Pieter Goos straat,male,NL,100,pieter
+Karnemelk steeg,null,null,null,null
+Buiksloter weg,male,NL,100,weg
+Buiten Bantammer straat,male,null,100,buiten
+Johanna Ter Meulen plein,female,NL,100,johanna
+Buiten Brouwers straat,male,BE,100,brouwers
+Buiten Dommers straat,male,null,100,buiten
+Buiten Oranje straat,male,null,100,buiten
+Buiten Vissers straat,male,null,100,buiten
+Buiten Wieringer straat,male,null,100,buiten
+Johanna park,female,NL,100,johanna
+Karn straat,male,NL,100,karn
+Buiten dijk,male,NL,100,dijk
+Buitendraaierij,null,null,null,null
+Gooilust straat,null,null,null,null
+Gooimeer straat,null,null,null,null
+De Witten kade,male,US,59,kade
+De Witten straat,male,NL,100,witten
+Buiten gouw,female,ID,57,gouw
+Buitenkerker weg,male,NL,100,weg
+Buitenrust pad,female,TH,52,pad
+Buiten singel,male,null,100,buiten
+Derde Kostverloren kade,male,US,59,kade
+Derde Leliedwars straat,male,TR,96,derde
+Derde Looiersdwars straat,male,TR,96,derde
+Derde Marnixdwars straat,male,TR,96,derde
+Gouwenaars steeg,null,null,null,null
+Gouwzee straat,null,null,null,null
+President Kennedy laan,male,BR,75,kennedy
+Derde Oosterpark straat,male,TR,96,derde
+Derde Schinkel straat,male,TR,96,derde
+Derde Vogel straat,male,TR,96,derde
+Derde Weteringdwars straat,male,TR,96,derde
+Derde Wittenburgerdwars straat,male,TR,96,derde
+Beethoven straat,male,BR,94,beethoven
+Begijn hof,female,NL,100,hof
+Begonia straat,female,US,100,begonia
+Beijerland straat,null,null,null,null
+Beira weg,female,US,56,beira
+Beitel kade,male,US,59,kade
+Prof. Tulp straat,male,TR,90,prof
+België Plein,female,FR,100,plein
+Bella Vista straat,female,ID,78,vista
+Bellamy plein,male,US,54,bellamy
+Ptolemaeus straat,null,null,null,null
+Bellamy straat,male,US,54,bellamy
+Bellefleur hof,female,NL,100,hof
+Belmermeer,null,null,null,null
+Beloega straat,null,null,null,null
+Belvedere weg,male,US,78,belvedere
+Ben Alder,male,NL,99,ben
+Ben Avon,male,NL,99,ben
+Ben Bril straat,male,NL,99,ben
+Ben Hope,female,US,93,hope
+Ben Lawers,male,NL,99,ben
+Ben Nevis,male,NL,99,ben
+Ben Van Meerendonk straat,male,NL,99,ben
+Ben Webster straat,male,NL,99,ben
+Ben Wyvis,male,NL,99,ben
+Benedenlangs,null,null,null,null
+Benelux baan,male,NL,100,benelux
+Karpata straat,null,null,null,null
+Benit,male,MY,86,benit
+Benjamin Britten straat,male,NL,100,benjamin
+Benkoelen straat,null,null,null,null
+Bennebroek straat,null,null,null,null
+Benno Stokvis straat,male,NL,100,benno
+Bentinck straat,null,null,null,null
+Govert Flinck straat,male,NL,100,govert
+Rentmeesters laan,female,US,65,laan
+Ribes laan,female,US,65,laan
+Benzol weg,male,NL,100,weg
+Bep Bakhuys straat,female,NL,82,bep
+Bep Van Klaveren boulevard,male,NL,65,van
+Berberis straat,null,null,null,null
+Berceuse straat,null,null,null,null
+Berchvliet,null,null,null,null
+Bercy laan,female,US,65,laan
+Graaf Floris straat,male,NL,99,floris
+Karper straat,null,null,null,null
+Berend Boeijinga straat,male,NL,100,berend
+Beren straat,female,NL,100,beren
+Bergmolen,null,null,null,null
+Beringen straat,null,null,null,null
+Berkel straat,male,TR,83,berkel
+Berken laan,male,TR,82,berken
+Berken straat,male,TR,82,berken
+Berkhout hof,female,NL,100,hof
+Johannes Blooker weg,male,NL,99,johannes
+Berlaar straat,null,null,null,null
+Berlage brug,male,PY,100,brug
+Berlage hof,female,NL,100,hof
+Bernabeu hof,male,BR,100,bernabeu
+Bernard Koch straat,male,NL,99,bernard
+Bernard Leene pad,male,NL,99,bernard
+Bernard Loder straat,male,NL,99,bernard
+Bernard Shaw singel,male,NL,99,bernard
+Bernard Zweers kade,male,US,59,kade
+Bernhard Eilers hof,male,NL,93,bernhard
+Bernisse straat,null,null,null,null
+Bert Haanstra hof,male,NL,99,bert
+Graafschap straat,null,null,null,null
+Johannes Hilverdink straat,male,NL,99,johannes
+Rutherford straat,male,US,83,rutherford
+Derkinderen straat,male,BE,100,derkinderen
+Schieland plein,female,FR,100,plein
+Des PréS straat,male,NL,50,des
+Descartes pad,female,TH,52,pad
+Descartes straat,male,US,100,descartes
+Desiderius brug,male,ID,100,desiderius
+Dessel straat,null,null,null,null
+Buitenveldertse laan,female,US,65,laan
+Buitenzagerij,null,null,null,null
+Science Park,male,US,60,science
+Buizerd laan,female,US,65,laan
+Bulgerstein,null,null,null,null
+Bullebak,null,null,null,null
+Bulle brug,male,ID,64,bulle
+Bulle pad,female,TH,52,pad
+Kleine Pimpernel straat,male,NL,75,kleine
+Kruitberg hof,female,NL,100,hof
+Bullewijk pad,female,TH,52,pad
+Bultrug pad,female,TH,52,pad
+Deurloo straat,male,NL,100,deurloo
+Deutzenhofje,null,null,null,null
+Bund laan,female,US,65,laan
+Burgemeester Bletz straat,male,US,100,burgemeester
+Burgemeester Cramer gracht,male,US,100,cramer
+Develstein,null,null,null,null
+Dever,male,US,80,dever
+Lanzarote straat,male,ES,100,lanzarote
+Bert Haanstra kade,male,NL,99,bert
+Bertelman plein,female,FR,100,plein
+Bertelman straat,null,null,null,null
+Berthelot straat,male,FR,100,berthelot
+Berthold Brecht straat,male,NL,95,brecht
+Bertrand Russell straat,male,NL,100,bertrand
+Bertus Van Grouw straat,male,NL,65,van
+Berzelius straat,null,null,null,null
+Bessemer straat,null,null,null,null
+Bessie Smith brug,male,US,86,smith
+Lodewijk Trip straat,male,NL,100,lodewijk
+BestevâEr straat,null,null,null,null
+Betelgeuze straat,null,null,null,null
+BethaniëNdwars straat,null,null,null,null
+BethaniëN straat,null,null,null,null
+Bethlem steeg,female,BE,100,bethlem
+Deyman straat,male,TR,100,deyman
+Diamantbewerkers brug,male,PY,100,brug
+Diamant straat,male,FR,62,diamant
+Stoof steeg,male,US,50,stoof
+Betuwe straat,null,null,null,null
+Beuling straat,null,null,null,null
+Beurspassage,null,null,null,null
+Beurs plein,female,FR,100,plein
+Beurspoortje,null,null,null,null
+Beurs straat,null,null,null,null
+Beveren straat,male,BE,100,beveren
+Beverwijk straat,null,null,null,null
+Beyster veld,male,CA,75,veld
+Diatoma straat,null,null,null,null
+Dichtershofje,null,null,null,null
+Dick Greiner straat,male,NL,100,dick
+Realen gracht,null,null,null,null
+Burgemeester Rendorp straat,male,US,100,burgemeester
+Laboratorium straat,male,ID,50,laboratorium
+Generaal Vetter straat,male,null,100,generaal
+Generator straat,male,RS,100,generator
+Tjalk straat,null,null,null,null
+Bezaanjacht plein,female,FR,100,plein
+Bezembinders pad,female,TH,52,pad
+Bickers gracht,male,FR,100,bickers
+Bickerswerf,null,null,null,null
+Bierdragersgang,null,null,null,null
+Bierens De Haan straat,male,US,67,haan
+Biesbosch straat,null,null,null,null
+Bieslook pad,female,TH,52,pad
+Bijdorp plantsoen,null,null,null,null
+Bijdorp straat,null,null,null,null
+Dick Hillenius pad,male,NL,100,dick
+Concertgebouw plein,female,FR,100,plein
+Trianon pad,female,TH,52,pad
+Concordiahofje-Noord,null,null,null,null
+Trouringh straat,null,null,null,null
+Tulpen laan,female,US,65,laan
+Genhoes,null,null,null,null
+Tweede Ceram straat,male,NL,100,tweede
+Bijlmerplein pad,female,TH,52,pad
+Bijlmerringsloot,null,null,null,null
+Bijlmerweide,null,null,null,null
+Bijltjes pad,female,TH,52,pad
+Bilderdijk kade,male,US,59,kade
+Bilderdijk park,female,NL,60,park
+Condensator weg,male,NL,100,weg
+Confucius plein,female,FR,100,plein
+Conny Stuart straat,female,NL,98,conny
+Conrad straat,male,NL,100,conrad
+Constantiahofje,null,null,null,null
+Tjeukemeer hof,female,NL,100,hof
+Dickens laan,male,US,96,dickens
+Diderot straat,male,BR,100,diderot
+Valken steeg,male,US,50,valken
+Groen Van Prinsterer straat,male,NL,65,van
+Tweede Disteldwars straat,male,NL,100,tweede
+Ladogameer hof,female,NL,100,hof
+Cornelis Van Alkemade straat,male,NL,65,van
+Cornelis Van Der Linden straat,male,US,61,linden
+Cornelis Van Rij plantsoen,male,NL,65,van
+Cornelis Van Vollenhoven straat,male,NL,65,van
+Cornelis Vermuyden straat,male,NL,100,cornelis
+Verf straat,male,RU,100,verf
+Cornelis Vriendt straat,male,NL,100,cornelis
+Coronel straat,male,BR,80,coronel
+Corsgen brug,male,PY,100,brug
+Dienst pad,female,TH,52,pad
+Diepenbeek plantsoen,null,null,null,null
+Groenburgwal,null,null,null,null
+Groene Ridder hof,male,NL,100,ridder
+Bilderdijk straat,null,null,null,null
+Billie Holiday straat,female,NL,67,billie
+Billiton straat,null,null,null,null
+Binnen Brouwers straat,male,BE,100,brouwers
+Binnen Dommers straat,male,NL,50,binnen
+Binnen Oranje straat,male,NL,50,binnen
+Binnen Vissers straat,male,NL,50,binnen
+Binnen Wieringer straat,male,NL,50,binnen
+Binnendraaierij,null,null,null,null
+Binnengasthuis straat,null,null,null,null
+Binnenhof straat,null,null,null,null
+Dijksloot,null,null,null,null
+Binnenka dijk,male,NL,100,dijk
+Groene Ridder pad,female,TH,52,pad
+Binnenkant,null,null,null,null
+Binnenpolderring dijk Noord,male,NL,100,dijk
+Dijk straat,male,NL,100,dijk
+Lage Brug,male,ID,83,lage
+Groenehuyzen,null,null,null,null
+Groenendaal straat,null,null,null,null
+Van Linschoten straat,male,NL,65,van
+Dijkwater,null,null,null,null
+Binnenvaart,null,null,null,null
+Binnenzagerij,null,null,null,null
+Biot hof,male,FR,67,biot
+Bitterzoet straat,male,NL,100,bitterzoet
+Blaauwlaken steeg,null,null,null,null
+Blaeu Erf,male,TR,100,erf
+Blaeu straat,null,null,null,null
+Blancefloor straat,null,null,null,null
+Blankenberge straat,null,null,null,null
+Blanken straat,null,null,null,null
+Blasius straat,male,ID,100,blasius
+Vuurwerker weg,male,NL,100,weg
+Dijkweg pad,female,TH,52,pad
+Laing'S Nek straat,male,US,73,nek
+Dijsselhof plantsoen,null,null,null,null
+Dikninge,null,null,null,null
+Blauw brug,male,PY,100,brug
+Blauwburgwal,null,null,null,null
+Blauwdas straat,null,null,null,null
+Blauwezand brug,male,PY,100,brug
+Blauwhoedenveem,null,null,null,null
+Blauwpijp straat,null,null,null,null
+Blauwvoet straat,null,null,null,null
+Dilbeek pad,female,TH,52,pad
+Dille hof,male,NL,100,dille
+Dille straat,male,NL,100,dille
+Blazer pad,female,TH,52,pad
+Bleijenbeek,null,null,null,null
+Bloed straat,null,null,null,null
+Dilsen straat,female,TR,100,dilsen
+Dina Appeldoorn straat,female,NL,100,dina
+Dinarpromenade,null,null,null,null
+Lakenhal straat,null,null,null,null
+Van Marum straat,male,NL,65,van
+Lamarck hof,male,BR,100,lamarck
+Molenbeek straat,null,null,null,null
+Nieuwe Passeerders straat,male,NL,100,nieuwe
+Soerabaja straat,male,ID,100,soerabaja
+Gentiaan plein,female,FR,100,plein
+Van Middellandt straat,male,NL,65,van
+Gentiaan straat,null,null,null,null
+Corsica weg,female,US,86,corsica
+Cort Van Der Linden kade,male,US,59,kade
+Cortenbach,null,null,null,null
+Corversbos straat,null,null,null,null
+CoöPeratie hof,female,NL,100,hof
+Crack-State,male,US,100,crack
+Cromme Camp,male,US,72,camp
+Cronjé Straat,null,null,null,null
+George Balanchine straat,male,NL,99,george
+Soerapati straat,null,null,null,null
+Bloemendaler gouw,female,ID,57,gouw
+Bloemendaler weg,male,NL,100,weg
+Bloem gracht,female,NL,100,bloem
+Bloem straat,female,NL,100,bloem
+Blokker straat,null,null,null,null
+Zuiderzee weg,male,NL,100,weg
+Blokmaker straat,null,null,null,null
+Blomwijcker pad,female,TH,52,pad
+Bloys Van Treslong straat,male,NL,65,van
+Zwarte Pad,female,TH,52,pad
+Admiraal De Ruijter weg,male,BE,100,admiraal
+Admiraal Helfrich straat,male,BE,100,admiraal
+Admiralen gracht,null,null,null,null
+Admiraliteit straat,null,null,null,null
+Adolf Van Nassau straat,male,ID,98,adolf
+Adolf Van Nassau weg,male,ID,98,adolf
+Adolphine Eduardine Kok plantsoen,male,NL,89,kok
+Adriaan Ditvoorst hof,male,NL,99,adriaan
+Adriaan Dorsman straat,male,NL,99,adriaan
+Adriaan Kluit straat,male,NL,99,adriaan
+Adriaan Loosjes straat,male,NL,99,adriaan
+Adriaan Van Bergen straat,male,NL,99,adriaan
+Adriaan Van Der Horst straat,male,NL,99,adriaan
+Adriaan Van Oordt hof,male,NL,99,adriaan
+Adrianus Van Waert weg,male,NL,65,van
+Adrichem straat,null,null,null,null
+AdèLe Opzoomer straat,female,NL,100,adèle
+Afrodite kade,male,US,59,kade
+Agamemnon straat,male,US,100,agamemnon
+Agatha Christie singel,female,NL,100,christie
+Agatha Deken straat,female,NL,100,agatha
+Akbar straat,male,NL,100,akbar
+Akerpolder straat,null,null,null,null
+Aker singel,male,TR,95,aker
+Akersluis,null,null,null,null
+Akerwatering straat,null,null,null,null
+Akkerdistel straat,null,null,null,null
+Akker straat,female,BE,100,akker
+Albarda gracht,male,US,100,albarda
+Albarda kade,male,US,59,kade
+Albatros pad,female,TH,52,pad
+Alberdingk Thijm straat,male,NL,100,thijm
+Albert Camus laan,male,NL,99,albert
+Blussé Straat,null,null,null,null
+Boas En Judels hof,male,NL,100,boas
+Albert Cuyp straat,male,NL,99,albert
+Albert Hahn plantsoen,male,NL,99,albert
+Albert Helman brug,male,NL,99,albert
+Albert Luthuli straat,male,NL,99,albert
+Albert Mol hof,male,NL,99,albert
+Albert Neuhuys straat,male,NL,99,albert
+Albert Schultens hof,male,NL,99,albert
+Albert Verwey straat,male,NL,99,albert
+Albert Wittenberg plein,male,NL,99,albert
+Albertus Magnus hof,male,NL,100,magnus
+Alblas straat,male,NL,100,alblas
+Albrecht DüRer straat,male,NL,100,albrecht
+Albrecht Rodenbach hof,male,NL,100,albrecht
+Alcantara straat,male,BR,79,alcantara
+Aldebaran plein,male,MX,90,aldebaran
+Aldebaran straat,male,MX,90,aldebaran
+Aldendriel,null,null,null,null
+Aldengoor,null,null,null,null
+Aletta Jacobs laan,female,NL,100,aletta
+Alexander Boers straat,male,NL,99,alexander
+Alexander kade,male,NL,99,alexander
+Alexander plein,male,NL,99,alexander
+Alexandrine Tinne hof,female,FR,100,alexandrine
+Oude Kinker brug,female,NL,100,oude
+Alfred Tepe pad,female,TH,52,pad
+Algol straat,null,null,null,null
+Alhambra laan,female,US,65,laan
+Alida Van Den Bos straat,male,NL,65,van
+Alkmaar straat,male,ID,100,alkmaar
+Allard Pierson straat,male,NL,100,allard
+Allen straat,male,NL,100,allen
+Alma Tadema straat,female,NL,100,alma
+Alm straat,female,NL,100,alm
+Alpert Van Metz hof,male,ID,60,metz
+Aluminium brug,male,ID,67,aluminium
+Amalia straat,female,NL,100,amalia
+Amandel straat,null,null,null,null
+Amazonen straat,null,null,null,null
+Ambacht straat,null,null,null,null
+Ambon plein,male,ID,94,ambon
+Ambon straat,male,ID,94,ambon
+Ambulanceingang Vumc,null,null,null,null
+Ambulanceinrit Bovenij,null,null,null,null
+Amc pad,female,TH,52,pad
+Ameland straat,null,null,null,null
+Amerbos,null,null,null,null
+Amerikahaven weg,male,NL,100,weg
+Amoeba straat,male,ID,50,amoeba
+AmpèRe straat,female,MX,100,ampère
+Oude Lelie straat,female,ID,100,lelie
+Amstel,male,CO,100,amstel
+Amstelbest pad,female,TH,52,pad
+Amstelbest straat,null,null,null,null
+Amstel boulevard,male,US,63,boulevard
+Bob Haarms laan,male,NL,99,bob
+Bocholt straat,null,null,null,null
+Bodensee hof,male,DE,100,bodensee
+Boecken burg,male,US,67,burg
+Boeiers pad,female,TH,52,pad
+Boenin laan,female,US,65,laan
+Boeren steeg,null,null,null,null
+Boerenwetering pad,female,TH,52,pad
+Boerhaave plein,female,FR,100,plein
+Boeroe straat,null,null,null,null
+Boeton straat,null,null,null,null
+Bogortuin,null,null,null,null
+Cruquius kade,male,US,59,kade
+Amstel dijk,male,CO,100,amstel
+Amstel dijk Noord,male,CO,100,amstel
+Amstel kade,male,US,59,kade
+Amstelland laan,female,US,65,laan
+Amstel park,female,NL,60,park
+Amstel plein,male,CO,100,amstel
+Amstelstation,null,null,null,null
+Amstel straat,male,CO,100,amstel
+Amstelstroom laan,female,US,65,laan
+Bok De Korver weg,male,MY,67,korver
+Bokkinghangen,null,null,null,null
+Bolestein,null,null,null,null
+Bolk straat,female,SI,100,bolk
+Bolstoen,null,null,null,null
+Amstelveense weg,male,NL,100,weg
+Amstel veld,male,CO,100,amstel
+Oude Looiers straat,female,NL,100,oude
+Amstelvliet straat,null,null,null,null
+Amsterdam Arena,male,NL,54,amsterdam
+Amsterdam Bijlmer Arena,male,NL,54,amsterdam
+Amsterdam Rijnkanaal kade,male,US,59,kade
+Amsterdam Sloter dijk,male,NL,54,amsterdam
+Amsterdamsestraat weg,male,NL,100,weg
+Analoog straat,null,null,null,null
+Ananas plein,female,RU,60,ananas
+Anderiesen straat,null,null,null,null
+Anderlecht laan,female,US,65,laan
+Andersen singel,male,BR,94,andersen
+Andijk straat,null,null,null,null
+Andoorn straat,null,null,null,null
+Andreas Bonn straat,male,NL,100,andreas
+Andreas Schelfhout straat,male,NL,100,andreas
+Andreas plein,male,NL,100,andreas
+Andrej Sacharov straat,male,NL,100,andrej
+Andries Copier straat,male,NL,100,andries
+Andries Snoek straat,male,NL,100,andries
+Cruquius straat,null,null,null,null
+Andries Vierlingh straat,male,NL,100,andries
+Andromeda straat,female,ID,67,andromeda
+Anemoon straat,female,NL,100,anemoon
+Anjeliers straat,null,null,null,null
+Ank Van Der Moer straat,male,NL,65,van
+Anker weg,male,US,91,anker
+Anna Bijns straat,female,NL,100,anna
+Anna Blaman singel,female,NL,100,anna
+Anna Pavlova straat,female,NL,100,anna
+Anna Spengler straat,female,NL,100,anna
+Anna Van Buren straat,female,NL,100,anna
+Anna Vock straat,female,NL,100,anna
+Annabella weg,female,NL,100,annabella
+Anne Frank straat,male,NL,100,frank
+Anne Kooistra hof,female,NL,87,anne
+Annemonen laan,female,US,65,laan
+Annette Versluys pad,female,NL,100,annette
+Annie M.G. Schmidt brug,male,HU,68,schmidt
+Annie M.G. Schmidt straat,male,HU,68,schmidt
+Annie Romein plein,female,NL,97,annie
+Anselmus hof,male,ID,94,anselmus
+Anske Lamminga straat,male,NL,100,anske
+Antarus straat,null,null,null,null
+Anthonie Van Aken straat,male,NL,65,van
+Anthonie Van Dijck straat,male,NL,65,van
+Anthony Fokker weg,male,NL,100,anthony
+Anthony Spatzier hof,male,NL,100,anthony
+Antillen straat,null,null,null,null
+Anton Constandse straat,male,NL,99,anton
+Anton De Kom plein,male,NL,99,anton
+Anton HöLzel singel,male,NL,99,anton
+Anton Joling brug,male,NL,99,anton
+Anton Peters hof,male,NL,99,anton
+Bombraak,null,null,null,null
+Haarlemmermeerstation,null,null,null,null
+Anton Schlepers pad,male,NL,99,anton
+Anton Struik straat,male,NL,99,anton
+Anton Verheij straat,male,NL,99,anton
+Anton Waldorp straat,male,NL,99,anton
+Antonie Heinsius straat,male,NL,100,antonie
+Antonio Vivaldi straat,male,NL,100,antonio
+Antony Modderman straat,male,NL,100,antony
+Antoon Keldermans straat,male,NL,100,antoon
+Apollo laan,male,US,95,apollo
+Aquamarin,female,SA,100,aquamarin
+Arago hof,male,BR,100,arago
+Arcadia,female,US,57,arcadia
+Arcella straat,female,ID,80,arcella
+Bomenrijk,null,null,null,null
+Bonaire plein,female,FR,100,plein
+Bonaire straat,male,BQ,100,bonaire
+Archangel kade,male,US,59,kade
+Archangel weg,male,US,82,archangel
+Archimedes laan,male,BR,100,archimedes
+Archimedes plantsoen,male,BR,100,archimedes
+Archimedes weg,male,BR,100,archimedes
+Ardennen laan,female,US,65,laan
+Arenborg,null,null,null,null
+Arend laan,male,NL,99,arend
+Arendonk singel,male,NL,100,singel
+Da Costa straat,male,NL,100,costa
+Arent Janszoon Ernst straat,male,NL,99,ernst
+Arent Krijts straat,male,NL,100,arent
+Argonauten straat,null,null,null,null
+Argo straat,male,NL,100,argo
+Ariana Nozeman straat,female,NL,100,ariana
+Arie Biemond straat,male,NL,98,arie
+Arij Prins straat,male,NL,100,prins
+Aristide Briand straat,male,ID,97,briand
+Aristoteles straat,male,BR,100,aristoteles
+Arlanda weg,male,ID,60,arlanda
+Arm brug,male,NL,100,arm
+Armeense brug,male,PY,100,brug
+Arnold Geulincx pad,male,NL,100,arnold
+Arnold Ingwersen pad,male,NL,100,arnold
+Arnold SchöNberg laan,male,NL,100,arnold
+Arondeus straat,null,null,null,null
+Artemis straat,female,NL,100,artemis
+Arthur Meerwaldt pad,male,NL,100,arthur
+Arthur Van Schendel straat,male,NL,100,arthur
+Aruba straat,female,AW,83,aruba
+ArèNpalm straat,null,null,null,null
+Asingaborg,null,null,null,null
+Assendelft straat,null,null,null,null
+Assum burg,male,US,67,burg
+Asta Elstak straat,female,NL,100,asta
+Astasia straat,female,NL,100,astasia
+Asterdwars weg,male,NL,100,weg
+Aster weg,female,NL,100,aster
+AtatüRk,female,TR,58,atatürk
+Atje Keulen-Deelstra straat,male,NL,50,atje
+Atlantis plein,male,TR,74,atlantis
+Atlas Maior brug,male,RO,86,maior
+August Allebé Plein,male,NL,100,august
+August Vermeylen straat,male,NL,100,august
+Aula laan,female,ID,58,aula
+Aurikel straat,null,null,null,null
+Bongerd kade,male,US,59,kade
+Bongerd kade (Druiven straat),male,US,59,kade
+Bonhoeffer singel,male,ID,100,bonhoeffer
+Boni plein,female,FR,100,plein
+Boni straat,male,NL,100,boni
+Bonnefanten straat,null,null,null,null
+Bontekoe straat,null,null,null,null
+Mr. P.N. Arntzenius weg,male,NL,100,weg
+Bijlmer dreef,female,NL,100,bijlmer
+Bijlmer plein,female,FR,100,plein
+Boomgaard laan,female,US,65,laan
+Boomklok straat,null,null,null,null
+Bretten pad,female,TH,52,pad
+Brienzer straat,male,CH,100,brienzer
+Brink,male,US,68,brink
+Brinkie pad,female,TH,52,pad
+Brink straat,male,US,68,brink
+Brisselkerk straat,null,null,null,null
+Bristou,null,null,null,null
+Britten burg,female,US,67,britten
+Broeker gouw,female,ID,57,gouw
+Hardware weg,male,US,67,hardware
+Buiksloter dijk,male,NL,100,dijk
+Buiksloterkerk pad,female,TH,52,pad
+Buikslotermeer dijk,male,NL,100,dijk
+Daalwijk,null,null,null,null
+Buikslotermeer plein,female,FR,100,plein
+Burgemeester Van Leeuwen laan,male,NL,65,van
+Burgemeester Van Tienhoven gracht,male,NL,65,van
+George Gershwin laan,male,NL,99,george
+George Orton pad,male,NL,99,george
+George Sand straat,male,NL,99,george
+Burgemeester De Vlugt laan,female,US,65,laan
+Burgemeester Elias straat,male,NL,100,elias
+Burgemeester Fock straat,male,CN,67,fock
+Burgemeester Hogguer straat,male,US,100,burgemeester
+Burgemeester Kastelein straat,male,US,100,burgemeester
+Burgemeester Mul straat,male,ID,88,mul
+George Slieker kade,male,US,59,kade
+Burgemeester RöEll straat,male,US,100,burgemeester
+Burgemeester Straman weg,male,US,100,burgemeester
+Burgemeester Tellegen straat,male,US,100,burgemeester
+Burgemeester Van De Poll straat,male,NL,65,van
+Dorps weg Rans dorp,male,ID,71,rans
+Carolina Macgillavry laan,female,NL,100,carolina
+Carolina Mcgillivray Laan,female,NL,100,carolina
+Carrasco plein,male,ES,87,carrasco
+Carry Pothuis-Smit straat,female,NL,85,carry
+Carry Van Bruggen straat,male,NL,65,van
+Cas Oorthuys kade,male,US,59,kade
+Casablanca weg,male,NL,100,casablanca
+Castor plein,male,US,94,castor
+Castor straat,male,US,94,castor
+Catharina Van Rennes straat,male,NL,65,van
+Catharina Van Tussenbroek straat,male,NL,65,van
+Catharinahofje,null,null,null,null
+Ceder laan,female,US,65,laan
+George Westinghouse straat,male,NL,99,george
+Geraardsbergen straat,null,null,null,null
+Geranium weg,female,BE,67,geranium
+Ceintuur baan,male,NL,100,baan
+Ceintuur brug,male,PY,100,brug
+Celebes straat,male,ID,100,celebes
+Cellebroers steeg,null,null,null,null
+Celsius straat,male,US,81,celsius
+Centaurus straat,male,RO,100,centaurus
+Centavos hof,female,NL,100,hof
+Centime hof,female,NL,100,hof
+Centraal Station,female,NL,100,centraal
+Centrale Groothandelsmarkt,male,RO,67,centrale
+Daalwijk dreef,null,null,null,null
+Centrale Hem weg,male,IN,81,hem
+Chaloen,male,TH,100,chaloen
+Changi weg,male,KR,71,changi
+Charles Boissevain straat,male,NL,100,charles
+Charles Leickert straat,male,NL,100,charles
+Charlotte Bronté Straat,female,NL,100,charlotte
+Charlotte Cooper pad,female,NL,100,charlotte
+Charlotte De Bourbon straat,female,NL,100,charlotte
+Daam Van Haren straat,male,NL,65,van
+Christoffel Plantijn pad,female,TH,52,pad
+Chrysanten laan,female,US,65,laan
+Chrysanten straat,null,null,null,null
+Churchill- Laan,male,US,90,churchill
+Cilliers straat,male,ZA,100,cilliers
+Circus plein,female,FR,100,plein
+Cissy Van Marxveldt straat,male,NL,65,van
+Citroenen straat,null,null,null,null
+Clara Barton straat,male,US,98,barton
+Clara Meyer-Wichmann straat,male,US,82,meyer
+Clara Zetkin straat,female,NL,100,clara
+Claus Van Amsberg straat,male,NL,65,van
+Clauskindere weg,male,NL,100,weg
+Clematis straat,male,AE,100,clematis
+Clifford straat,male,NL,100,clifford
+Coentunnelcircuit,null,null,null,null
+Coentunnel weg,male,NL,100,weg
+Colenbrander hof,female,NL,100,hof
+Colenso straat,male,IN,100,colenso
+Colima straat,female,MX,57,colima
+Columbus plein,female,FR,100,plein
+Comenius straat,null,null,null,null
+Commandants brug,male,PY,100,brug
+Commelin straat,null,null,null,null
+Compagnie straat,male,FR,100,compagnie
+Computer weg,male,NL,100,computer
+Conakry weg,male,null,100,conakry
+Concertgebouw,null,null,null,null
+Daan Roodenburgh plein,male,NL,96,daan
+Contact weg,male,US,76,contact
+Cor Hermus straat,male,NL,100,cor
+Cor Ruys hof,male,NL,100,cor
+Cor Van Weele hof,male,NL,100,cor
+Corantijn straat,null,null,null,null
+Corelli straat,null,null,null,null
+Corfu plantsoen,male,GR,80,corfu
+Cornelis Aarnouts straat,male,NL,100,cornelis
+Cornelis De Groot pad,female,TH,52,pad
+Cornelis De Rooij pad,female,TH,52,pad
+Cornelis Dijksterhuis straat,male,NL,100,cornelis
+Cornelis Dirksz straat,male,NL,100,cornelis
+Cornelis Dopper kade,male,US,59,kade
+Cornelis Douwes weg,male,NL,100,cornelis
+Daan Van Dijk pad,male,NL,96,daan
+Dachstein,null,null,null,null
+Dadelpalm straat,null,null,null,null
+Gerard Brandt straat,male,NL,99,gerard
+Cornelis Kruseman straat,male,NL,100,cornelis
+Cornelis Lely laan,male,NL,100,cornelis
+Cornelis Lely plein,male,NL,100,cornelis
+Cornelis Outshoorn straat,male,NL,100,cornelis
+Cornelis Roobol straat,male,NL,100,cornelis
+Cornelis Roos straat,female,NL,100,roos
+Cornelis Schuyt straat,male,NL,100,cornelis
+Cornelis Sorgdrager straat,male,NL,100,cornelis
+Cornelis Springer straat,male,NL,100,cornelis
+Cornelis Troost plein,male,NL,100,cornelis
+Gerard Callenburg straat,male,NL,99,gerard
+Cruquius weg,male,NL,100,weg
+Cruuskerk straat,null,null,null,null
+Crynssen straat,null,null,null,null
+CuraçAo straat,null,null,null,null
+Curie straat,female,ID,68,curie
+Cuwbland straat,null,null,null,null
+Cuyperspassage,null,null,null,null
+Cuyperstrap,null,null,null,null
+Cycladen laan,female,US,65,laan
+Cyclamen straat,female,VN,100,cyclamen
+Czaar Peter straat,male,NL,100,peter
+CéRamique laan,female,US,65,laan
+D.L. Hudig straat,null,null,null,null
+Da Costa kade,male,US,59,kade
+Da Costa plein,female,FR,100,plein
+Danzigerbocht,null,null,null,null
+Danziger kade,male,US,59,kade
+Dapper plein,male,US,94,dapper
+Dapper straat,male,US,94,dapper
+Darling straat,female,US,88,darling
+Darwin plantsoen,male,NL,100,darwin
+Daveren,null,null,null,null
+David Bles straat,male,NL,99,david
+David Hume hof,male,NL,99,david
+David Kouwenaar straat,male,NL,99,david
+David Ricardo straat,male,NL,99,david
+De Alpen,male,ID,94,alpen
+De Arend brug,male,NL,99,arend
+De Bazel hof,male,GB,100,bazel
+De Bieten brug,male,PY,100,brug
+De Biezen hof,female,NL,100,hof
+De Bleeckster,null,null,null,null
+De Boele laan,female,US,65,laan
+De Boele laan / Vu,female,US,65,laan
+Gerard Dou plein,male,NL,99,gerard
+Oude Meer hof,female,NL,100,oude
+De Clercq straat,female,FR,100,clercq
+De Corridor,male,BE,75,corridor
+De Cuser straat,null,null,null,null
+De Duiker straat,null,null,null,null
+De Egmonden straat,null,null,null,null
+De Entree,male,GE,100,entree
+De Genestet straat,null,null,null,null
+De Groene Zoom,male,US,74,zoom
+De Kamp,male,US,100,kamp
+De Kempenaer straat,null,null,null,null
+De Kluft straat,null,null,null,null
+De La Reij straat,male,PH,100,reij
+De La Salle straat,female,US,55,salle
+Gerard Dou straat,male,NL,99,gerard
+De Lairesse straat,null,null,null,null
+De Leeuw Van Vlaanderen straat,male,NL,65,van
+De Leggende Os straat,null,null,null,null
+De Liefde,male,ID,67,liefde
+De Loper,male,ID,100,loper
+De Miranda laan,female,NL,100,miranda
+De Oase,male,ID,86,oase
+De Octopus,male,US,64,octopus
+De Passage,female,TR,67,passage
+De Peerel straat,null,null,null,null
+De Rijp gracht,null,null,null,null
+De Rijp straat,null,null,null,null
+De Roos Van Dekama weg,female,NL,100,roos
+Dintel straat,null,null,null,null
+Gerard Reve brug,male,NL,99,gerard
+De Ruijter kade,male,US,59,kade
+De Savornin Lohman straat,male,ID,100,lohman
+De Schaapherder straat,null,null,null,null
+De Schorren straat,null,null,null,null
+De Sitter straat,male,TH,50,sitter
+De Tourton Bruyns straat,male,BE,100,bruyns
+De Wieden,null,null,null,null
+Decca weg,female,ID,54,decca
+Dekschuit straat,null,null,null,null
+Del Court Van Krimpen straat,female,US,58,court
+Delfland laan,female,US,65,laan
+Delfland plein,female,FR,100,plein
+Deli straat,male,NL,100,deli
+Delle Alpi hof,male,TR,93,alpi
+Delta straat,male,NL,100,delta
+Demerara straat,null,null,null,null
+Demer hof,male,BR,90,demer
+Den Briel straat,female,US,56,briel
+Den Burg straat,male,NL,89,den
+Den Helder straat,male,NL,89,den
+Den Tex straat,male,US,89,tex
+Dender hof,male,US,100,dender
+Dennen hof,female,NL,100,hof
+Dennen laan,female,US,65,laan
+Dennenrode,null,null,null,null
+Dennenrode pad,female,TH,52,pad
+Derde Amstelvliet pad,female,TH,52,pad
+Derde Egelantiersdwars straat,male,TR,96,derde
+Derde Goudsbloemdwars straat,male,TR,96,derde
+Derde Helmers straat,male,TR,96,derde
+Derde Hugo De Groot straat,male,NL,100,hugo
+Oude Nieuw straat,female,NL,100,oude
+Diemerbos pad,female,TH,52,pad
+Diemer hof,male,BE,100,diemer
+Diemer kade,male,US,59,kade
+Diemermere,null,null,null,null
+Diemerpark laan,female,US,65,laan
+Diemerzee dijk,male,NL,100,dijk
+Diopter,null,null,null,null
+Diepenbrock straat,null,null,null,null
+Dierenriem,null,null,null,null
+Dieze straat,female,ID,75,dieze
+Dijkbraak,null,null,null,null
+Dijkdwars straat,null,null,null,null
+Dijkgraaf plein,female,FR,100,plein
+Dijkman pad,female,TH,52,pad
+Dijkmanshuizen straat,null,null,null,null
+Dijkmeer laan,female,US,65,laan
+Dijks gracht,null,null,null,null
+Dijksgracht kade,male,US,59,kade
+Tweede Coehoorn straat,male,NL,100,tweede
+Distel weg,male,RO,80,distel
+Ditlaar,null,null,null,null
+Djakartaterras,null,null,null,null
+Djambi straat,null,null,null,null
+Doblijn,null,null,null,null
+Docklands weg,male,NL,100,weg
+Doctor H. Colijn straat,male,NL,100,doctor
+Doddendaal,null,null,null,null
+Dokter Meurer laan,female,US,65,laan
+Dolfijn hof,female,NL,100,hof
+Dolhaantje straat,null,null,null,null
+Gerard Rutten hof,male,NL,99,gerard
+Gerard Schaep straat,male,NL,99,gerard
+Dolinga dreef,null,null,null,null
+Dollard pad,female,TH,52,pad
+Dollard plein,female,FR,100,plein
+Dollebegijnen steeg,null,null,null,null
+Dom H. Van Der Laan straat,male,NL,65,van
+Domela Nieuwenhuis straat,female,ID,67,domela
+Don Bosco straat,male,BR,99,bosco
+Donar straat,male,NL,100,donar
+Donau weg,male,NL,100,weg
+Donge straat,null,null,null,null
+Donker Curtius straat,male,US,100,curtius
+Doorn burg,male,US,67,burg
+Doppler straat,male,BR,57,doppler
+Dorps plein,female,FR,100,plein
+Dorps straat Holysloot,null,null,null,null
+Gerard Terborg straat,male,NL,99,gerard
+Dors,female,PH,88,dors
+Dortmuiden,null,null,null,null
+Dorus Rijkers hof,male,NL,100,dorus
+Dostojevski singel,male,NL,100,singel
+Dotterbloem straat,null,null,null,null
+Douwes Dekker straat,male,ID,100,douwes
+Dovenetel straat,null,null,null,null
+Dr. C.W. Ittmann pad,female,TH,52,pad
+Dr. D.M. Sluys pad,female,TH,52,pad
+Dr. E. Boekman straat,null,null,null,null
+Dr. J.A. Ringers straat,null,null,null,null
+Dr. Jan Van Breemen straat,male,NL,99,jan
+Draaier weg,male,NL,100,weg
+Drachme singel,male,NL,100,singel
+Drakenstein,null,null,null,null
+Drie Burg pad,female,TH,52,pad
+Drieban straat,null,null,null,null
+Driedistel straat,null,null,null,null
+Drieharingen brug,male,PY,100,brug
+Driehoek straat,null,null,null,null
+Driekoningen straat,null,null,null,null
+Driemond pad,female,TH,52,pad
+Driemond weg,male,NL,100,weg
+Drontermeer pad,female,TH,52,pad
+Droogbak,null,null,null,null
+Drosten burg,male,US,67,burg
+Druiven brug,male,PY,100,brug
+Druiven straat,null,null,null,null
+Drusius hof,female,NL,100,hof
+Du Perron straat,male,BE,67,perron
+Dubbelegang,null,null,null,null
+Dubbeleworst steeg,null,null,null,null
+Dubbelink,null,null,null,null
+Dubbelink dreef,null,null,null,null
+Dubbelmonde hof,female,NL,100,hof
+Dudok De Wit hof,male,TH,89,wit
+Dufay straat,female,US,100,dufay
+Duffel hof,female,NL,100,hof
+Duifjes steeg,null,null,null,null
+Duinbeek,null,null,null,null
+Duindoorn plein,female,FR,100,plein
+Duinlust pad,female,TH,52,pad
+Duinlust straat,null,null,null,null
+Duiveland straat,null,null,null,null
+Gerardus Van Der Groep laan,male,NL,65,van
+Griend straat,null,null,null,null
+Duivendrechtse kade,male,US,59,kade
+Duiven steeg,null,null,null,null
+Duizendschoon straat,null,null,null,null
+Dukdalf weg,male,NL,100,weg
+Duke Ellington straat,male,US,94,ellington
+Dulcie September pad,female,US,87,september
+Dulong pad,female,TH,52,pad
+Dulong straat,null,null,null,null
+Durban weg,male,US,100,durban
+Dynamo straat,male,US,87,dynamo
+Easton straat,male,US,88,easton
+Eclips hof,female,NL,100,hof
+Durgerdammer dijk,male,NL,100,dijk
+Durgerdammer gouw,female,ID,57,gouw
+Dusart straat,null,null,null,null
+Dwarswatering,null,null,null,null
+Dwaze Moeders Plein,female,FR,100,plein
+Dwergpalm straat,null,null,null,null
+Dwergplaneten baan,male,NL,100,baan
+Dwergvinvis straat,null,null,null,null
+Ecu plein,female,US,56,ecu
+Ed Pelster park,female,NL,60,park
+Ed Van Der Elsken hof,male,NL,65,van
+Edammer pad,female,TH,52,pad
+Edammer straat,null,null,null,null
+Eden burg,female,NL,100,eden
+Edenville,null,null,null,null
+Edison straat,male,NL,100,edison
+Edith Magnus straat,female,NL,99,edith
+Eduard Hellendoorn straat,male,NL,100,eduard
+Eduard Jacobs hof,male,NL,100,eduard
+Eduard Meijer straat,male,NL,100,eduard
+Eduard Van Beinum straat,male,NL,100,eduard
+Eduard Veterman straat,male,NL,100,eduard
+Edumbe,null,null,null,null
+Eef Kamerbeek pad,female,TH,52,pad
+Eef Kamerbeek straat,female,NL,53,eef
+Eemland straat,null,null,null,null
+Eems straat,male,US,100,eems
+Eenden straat,null,null,null,null
+Eendracht straat,null,null,null,null
+Eenhoorn hof,female,NL,100,hof
+Eenhoornsluis,null,null,null,null
+Eensgevonden,null,null,null,null
+Eerste Amstelvliet pad,female,TH,52,pad
+Eerste Anjeliersdwars straat,male,BE,67,eerste
+Eerste Atjeh straat,male,ID,75,atjeh
+Eerste Bloemdwars straat,male,BE,67,eerste
+Eerste Constantijn Huygens straat,male,NL,100,constantijn
+Eerste Disteldwars straat,male,BE,67,eerste
+Eerste Egelantiersdwars straat,male,BE,67,eerste
+Eerste Goudsbloemdwars straat,male,BE,67,eerste
+Eerste Helmers straat,male,BE,67,eerste
+Eerste Hugo De Groot straat,male,NL,100,hugo
+Eerste Jacob Van Campen straat,male,NL,100,jacob
+Eerste Jan Steen straat,male,NL,99,jan
+Eerste Jan Van Der Heijden straat,male,NL,99,jan
+Eerste Keuchenius straat,male,BE,67,eerste
+Eerste Kostverloren kade,male,US,59,kade
+Eerste Laurierdwars straat,male,BE,67,eerste
+Eerste Leeghwater straat,male,BE,67,eerste
+Eerste Leliedwars straat,male,BE,67,eerste
+Eerste Lindendwars straat,male,BE,67,eerste
+Eerste Looiersdwars straat,male,BE,67,eerste
+Eerste Marnixdwars straat,male,BE,67,eerste
+Eerste Marnix plantsoen,male,NL,100,marnix
+Eerste Nassau straat,male,US,73,nassau
+Eerste Oosterpark straat,male,BE,67,eerste
+Eerste Passeerdersdwars straat,male,BE,67,eerste
+Eerste Van Swinden straat,male,NL,65,van
+Eerste Vogel straat,male,US,63,vogel
+Eerste Weteringdwars straat,male,BE,67,eerste
+Eerste Wetering plantsoen,male,BE,67,eerste
+Eeuwige Jeugd laan,female,US,65,laan
+Efua Sutherland straat,male,US,57,sutherland
+Egelantiers gracht,null,null,null,null
+Egelantiers straat,null,null,null,null
+Egelen burg,male,US,67,burg
+Egelskop straat,null,null,null,null
+Eggert straat,male,IS,100,eggert
+Egidius straat,male,NL,100,egidius
+Egoli,null,null,null,null
+Egoli plein,female,FR,100,plein
+Eg straat,null,null,null,null
+Ehrlich straat,male,NL,100,ehrlich
+Eierland straat,null,null,null,null
+Eiger,male,ID,83,eiger
+Eiken weg,female,AL,67,eiken
+Einthoven straat,null,null,null,null
+Eisden straat,null,null,null,null
+Eisinga straat,null,null,null,null
+Ekangala,null,null,null,null
+Ekapa,null,null,null,null
+Elands gracht,null,null,null,null
+Elands straat,null,null,null,null
+Elba weg,female,MX,97,elba
+Elber veld,male,BR,97,elber
+Elckerlijc straat,null,null,null,null
+Eldorado,male,US,91,eldorado
+Elegast straat,male,BE,100,elegast
+Elektron straat,male,CZ,100,elektron
+Elementen straat,null,null,null,null
+Elfendans straat,null,null,null,null
+Elgar Vos brug,male,NL,80,elgar
+Elim,female,ID,55,elim
+Elisabeth Boddaert straat,female,NL,100,elisabeth
+Elisabeth Samson straat,female,NL,100,elisabeth
+Elisabeth Wolff straat,female,NL,100,elisabeth
+Eliza Van Calcar straat,male,NL,65,van
+Elizabeth Cady Stanton plein,male,US,97,stanton
+Ella Fitzgerald straat,female,NL,96,ella
+Elleboog steeg,null,null,null,null
+Ellert Vlierop straat,male,NL,100,ellert
+Elpermeer,null,null,null,null
+Elpermeer pad,female,TH,52,pad
+Elsen singel,female,NL,100,elsen
+Emma straat,female,NL,99,emma
+Elsrijk dreef,null,null,null,null
+Elstar straat,null,null,null,null
+Elysium,male,TH,64,elysium
+Elzenhagen pad,female,TH,52,pad
+Emmeline Pankhurst straat,female,BE,100,emmeline
+Emmikhoven straat,null,null,null,null
+Emmy Andriesse straat,female,NL,100,emmy
+Empangeni,null,null,null,null
+Employee Access,male,US,68,access
+Endumeni,null,null,null,null
+Engcobo,null,null,null,null
+Enge Kapel steeg,female,ID,100,enge
+Enge Kerk steeg,male,MY,80,kerk
+Enge Lombard steeg,female,ID,100,enge
+Engelse steeg,null,null,null,null
+Enkeldoorn,null,null,null,null
+Enkhuizer plein,female,FR,100,plein
+Enkhuizer straat,null,null,null,null
+Ennemaborg,null,null,null,null
+Enny Vrede straat,female,NL,100,enny
+Entabeni,null,null,null,null
+Entrepot brug,male,PY,100,brug
+Entrepotdok,null,null,null,null
+Elzenhagen singel,male,NL,100,singel
+Elzen laan,female,US,65,laan
+Elzenlaantje,null,null,null,null
+Emanuel Van Meteren straat,male,NL,65,van
+Emanzana,null,null,null,null
+Emergency Access,male,US,68,access
+Emfuleni,null,null,null,null
+Emilie Knappert straat,female,NL,100,emilie
+Emma laan,female,NL,99,emma
+Entrepotdoksluis,null,null,null,null
+Entrepot kade,male,US,59,kade
+Enzerinck,null,null,null,null
+Eos straat,male,US,50,eos
+Epicurus straat,male,US,100,epicurus
+Erasmus gracht,male,NL,100,erasmus
+Erasmus park,female,NL,60,park
+Ereprijs,null,null,null,null
+Ereprijs straat,null,null,null,null
+Erich Salomon straat,male,NL,100,erich
+Erik De Roode straat,male,NL,99,erik
+Ernest Staes plein,male,NL,100,ernest
+Ernest Staes straat,male,NL,100,ernest
+Ernst Cahn En Alfred Kohn brug,male,NL,99,ernst
+Ernst Cahn singel,male,NL,99,ernst
+Erts kade,male,US,59,kade
+Escudo laan,female,US,65,laan
+Esdoorn laan,female,US,65,laan
+Esmoreit straat,male,NL,100,esmoreit
+Etna straat,male,NL,100,etna
+Eudorina straat,null,null,null,null
+Euro kade,male,US,59,kade
+Europa boulevard,male,US,63,boulevard
+Fluwelen Hoofd laan,female,US,65,laan
+Foekje Dillema straat,female,GB,100,foekje
+Foeliedwars straat,null,null,null,null
+Grift straat,male,ID,100,grift
+Europa plein,female,US,52,europa
+Eva Besnyö Straat,female,NL,100,eva
+Everard Van Reijd hof,male,NL,65,van
+Eversdal,null,null,null,null
+Evert Cornelis straat,male,NL,99,evert
+Evert Van Der Wall brug,male,BR,67,wall
+Evertsweert plantsoen,null,null,null,null
+Evertsweert straat,null,null,null,null
+Ewoud Worst straat,male,NL,100,ewoud
+Ezels brug,male,PY,100,brug
+Faas Wilkes straat,male,US,85,wilkes
+Fagel straat,male,US,50,fagel
+Fahrenheit singel,female,NL,100,fahrenheit
+Fahrenheit straat,female,NL,100,fahrenheit
+Ferdinand Bol straat,male,NL,100,ferdinand
+Ferdinand Huyck straat,male,NL,100,ferdinand
+Ferdinand Spit straat,male,NL,100,ferdinand
+Ferguut straat,null,null,null,null
+Ferraris straat,male,IT,50,ferraris
+Ferry Ploeger straat,male,NL,99,ferry
+Fibiger straat,null,null,null,null
+Fien De La Mar Straat,female,NL,81,mar
+Fijnje Van Salverda straat,male,NL,65,van
+Filips Van Almonde straat,male,NL,65,van
+Finsen straat,male,ID,100,finsen
+Fizeau straat,male,EG,100,fizeau
+Flamingo straat,male,TH,66,flamingo
+Flammarion straat,male,BR,100,flammarion
+Fleerde,null,null,null,null
+Flevo laan,female,US,65,laan
+Foelie straat,null,null,null,null
+Foerster hof,female,NL,100,hof
+Fogo straat,male,BR,100,fogo
+Fokke Simonsz straat,male,NL,97,fokke
+Fokkemast,null,null,null,null
+Flevo park,female,NL,60,park
+Flevopark weg,male,NL,100,weg
+Flierbos dreef,null,null,null,null
+Flierbos pad,female,TH,52,pad
+Flora pad,female,TH,52,pad
+Florapark weg,male,NL,100,weg
+Flora weg,female,NL,100,flora
+Florence Nightingale straat,female,NL,100,florence
+Florence Price hof,male,US,85,price
+Florijn,male,BE,100,florijn
+Floris Van Der Laaken straat,male,NL,99,floris
+Floris Verster straat,male,NL,99,floris
+Fluessen laan,female,US,65,laan
+Fluitschip straat,null,null,null,null
+Foppinga dreef,null,null,null,null
+Forint plantsoen,null,null,null,null
+Formentera pad,female,TH,52,pad
+Fortuin straat,null,null,null,null
+Fosfaat kade,male,US,59,kade
+Fosfaat weg,male,NL,100,weg
+Fossema,null,null,null,null
+Foucault straat,male,FR,71,foucault
+Fraijlemaborg,null,null,null,null
+Frambozen straat,null,null,null,null
+Francesca Caccini pad,female,TH,52,pad
+Franciscus Claessen straat,male,NL,100,franciscus
+Frank Van Der Goes straat,male,NL,100,frank
+Frankemaheerd,null,null,null,null
+Frankemaheerd pad,female,TH,52,pad
+Franken straat,male,TH,65,franken
+Frans Bastiaanse straat,male,NL,100,frans
+Frans De Wollant straat,male,NL,100,frans
+Frans Duwaer straat,male,NL,100,frans
+Frans Hals straat,male,NL,100,frans
+Frans Naerebout hof,male,NL,100,frans
+Frans Van Mieris straat,male,NL,100,frans
+Franz Ziegler straat,male,NL,92,franz
+Fraunhofer straat,null,null,null,null
+Fred Petter baan,male,NL,99,fred
+Fred. Roeske straat,male,NL,99,fred
+Fred. Thomas straat,male,NL,100,thomas
+Frederik Hendrik plantsoen,male,NL,98,hendrik
+Gerda Brautigam straat,female,NL,99,gerda
+Grill'S Hofje,null,null,null,null
+Frederik Hendrik straat,male,NL,98,hendrik
+Frederik Van Dorp straat,male,NL,65,van
+Frederik Van Eeden straat,male,NL,65,van
+Frederiks plein,female,FR,100,plein
+Frederiks straat,male,LV,100,frederiks
+Freek Ox straat,male,NL,98,freek
+Fregat straat,male,ID,100,fregat
+Frege laan,female,US,65,laan
+Freule Wttewaal pad,female,TH,52,pad
+Fridtjof Nansen hof,male,NO,100,fridtjof
+Friesland straat,male,US,100,friesland
+Frissenstein pad,female,TH,52,pad
+Funen park,female,NL,60,park
+Funke KüPper straat,female,NG,91,funke
+G.J. Scheurleer pad,female,TH,52,pad
+G.J. Scheurleer weg,male,NL,100,weg
+G.J.M. Sarlemijn straat,null,null,null,null
+G.T. Ketjen weg,male,NL,100,weg
+Gaande weg,male,NL,100,weg
+Gaasp,null,null,null,null
+Gaasperzoom pad,female,TH,52,pad
+Gaasp straat,null,null,null,null
+Gaasperdammer pad,female,TH,52,pad
+Gaasterland pad,female,TH,52,pad
+Gaasterland straat,null,null,null,null
+GabriëL Metsu straat,male,NL,100,gabriël
+Gaffelaars pad,female,TH,52,pad
+Gaffel straat,null,null,null,null
+Galant straat,male,ID,94,galant
+Gala straat,female,NL,100,gala
+Gaasperdammer weg,male,NL,100,weg
+Gaaspermolen pad,female,TH,52,pad
+Galgen brug,male,PY,100,brug
+Galgen straat,null,null,null,null
+Grimbergen straat,null,null,null,null
+Oude Spiegel straat,male,US,83,spiegel
+Gaasperpark pad,female,TH,52,pad
+Gaasperplas pad,female,TH,52,pad
+Galileï Plantsoen,null,null,null,null
+Galjoen straat,null,null,null,null
+Galvani straat,male,BR,92,galvani
+Galwin,male,PH,100,galwin
+Ganzebloem straat,null,null,null,null
+Ganzenhoef pad,female,TH,52,pad
+Ganzenveld straat,null,null,null,null
+Ganzen weg,male,NL,100,weg
+Gaper steeg,male,ID,100,gaper
+Gare Du Nord,male,US,69,gare
+Garstkamp,null,null,null,null
+Gasthuismolen steeg,null,null,null,null
+Gebed Zonder End,male,NL,100,zonder
+Gebroeders A. En B. Wolfswinkel weg,male,NL,100,weg
+Gedempt Hamerkanaal,null,null,null,null
+Gedempte Begijnensloot,null,null,null,null
+Gedempte Insteekhaven,null,null,null,null
+Geduld,null,null,null,null
+Geelbek straat,null,null,null,null
+Geelvincks steeg,null,null,null,null
+Geer Ban,male,NL,100,geer
+Geleyn Bouwensz straat,null,null,null,null
+Gerrie Knetemann laan,male,NL,60,gerrie
+Hegel hof,male,MX,97,hegel
+Geerdink hof,female,NL,100,hof
+Gelre straat,null,null,null,null
+Gemeenschapspolder weg,male,NL,100,weg
+Goldberger steeg,null,null,null,null
+Grimburgwal,null,null,null,null
+Geerdinkhof pad,female,TH,52,pad
+Geerdinkhof weg,male,NL,100,weg
+Geert Groote straat,male,NL,100,geert
+Geertje Wielema pad,female,TH,52,pad
+Geertje Wielema plein,female,NL,100,geertje
+Geertruida Van Lier straat,male,NL,65,van
+Geervliet,null,null,null,null
+Gein-Noord,female,ID,57,gein
+Gein-Zuid,female,ID,57,gein
+Gelderse kade,male,US,59,kade
+Geldershoofd,null,null,null,null
+Geleen straat,female,PH,100,geleen
+Gerrit Bronke pad,male,NL,99,gerrit
+Gerrit Mol brug,male,NL,99,gerrit
+Gerrit Stuyver straat,male,NL,99,gerrit
+Gerrit Van Den Bosch pad,male,NL,99,gerrit
+Gerrit Van Der Veen straat,male,NL,99,gerrit
+Gerrit Van Erkel straat,male,NL,99,gerrit
+Gerrit Versteeg straat,male,NL,99,gerrit
+Geschutswerf,null,null,null,null
+Geul straat,male,KR,60,geul
+Geuzen kade,male,US,59,kade
+Geuzen straat,null,null,null,null
+Gevle brug,male,PY,100,brug
+Gibraltar straat,male,ID,100,gibraltar
+Giessen burg,male,US,67,burg
+Gieterij,null,null,null,null
+Gieters straat,null,null,null,null
+Gijsbrecht Van Aemstel straat,male,NL,65,van
+Gijsbrecht Van Ijselstein straat,male,NL,65,van
+Gileppe hof,female,NL,100,hof
+Gillis Steltman straat,male,NL,100,gillis
+Gillis Van Ledenberch straat,male,NL,65,van
+Gladiolen laan,female,US,65,laan
+Glauber weg,male,BR,100,glauber
+Glitter straat,female,US,94,glitter
+Goden brug,male,TW,100,goden
+Goed Geluimd Hof,female,TH,100,goed
+Goed Genoeg,female,TH,100,goed
+Goeman Borgesius straat,male,US,100,goeman
+Goeree straat,null,null,null,null
+Gooioord,null,null,null,null
+Gooise Kant,male,TH,80,kant
+Graan straat,null,null,null,null
+Grachtenvlinder,null,null,null,null
+Graftdijker straat,null,null,null,null
+Gran Paradiso,male,MX,77,gran
+Granaat straat,null,null,null,null
+Granida straat,female,ID,100,granida
+Granulaat plein,female,FR,100,plein
+Grasrijk,null,null,null,null
+Graswal,null,null,null,null
+Gras weg,female,FR,53,gras
+Graven straat,male,MY,67,graven
+Gravestein,null,null,null,null
+Grens straat,female,null,100,grens
+Greta laan,female,NL,100,greta
+Gretha laan,female,US,65,laan
+Gooise weg,male,NL,100,weg
+Gordijnen steeg,male,NL,100,gordijnen
+Gorontalo straat,male,ID,100,gorontalo
+Gors straat,null,null,null,null
+Gosschalk laan,female,US,65,laan
+Goudbal pad,female,TH,52,pad
+Gouden Leeuw,male,BE,100,leeuw
+Gouden Regen laan,male,ID,77,regen
+Goudestein,null,null,null,null
+Goudreinet straat,null,null,null,null
+Goudriaan straat,male,BE,100,goudriaan
+Goudsbloem laan,female,US,65,laan
+Goudslagersgang,null,null,null,null
+Griane straat,null,null,null,null
+Groeneveen,null,null,null,null
+Groenhoedenveem,null,null,null,null
+Groen hof,female,NL,100,groen
+Groenhoven,null,null,null,null
+Groenland straat,null,null,null,null
+Groenlust,null,null,null,null
+Groenmarkt kade,male,US,59,kade
+Groen pad,female,TH,52,pad
+Groentepraam brug,male,PY,100,brug
+Groesbeek dreef,null,null,null,null
+Groet straat,null,null,null,null
+Groeze straat,null,null,null,null
+Grondzeiler,null,null,null,null
+Groningen straat,null,null,null,null
+Groot Blanken berg,male,BR,97,berg
+Groot-Essen burg,female,TR,63,essen
+Grootslag straat,null,null,null,null
+Grootzeil,null,null,null,null
+Grootzeil hof,female,NL,100,hof
+Grossglockner,null,null,null,null
+Grote Beer straat,male,NL,86,beer
+Grote Bickers straat,male,FR,100,bickers
+Grote Brouwerssluis,male,NL,100,grote
+Grote Die straat,male,NL,100,die
+Grote Ruwen berg,male,BR,97,berg
+Grote Wittenburger straat,male,NL,100,grote
+Grubbehoeve,null,null,null,null
+Grutto laan,female,US,65,laan
+Guggenheim laan,female,US,65,laan
+Guido Gezelle straat,male,NL,99,guido
+Guldehand steeg,null,null,null,null
+Gulden Kruis,male,NL,50,gulden
+Gulden Kruis pad,female,TH,52,pad
+Gulden Winckel plantsoen,male,NL,50,gulden
+Gulden Winckel straat,male,NL,50,gulden
+Guldenpromenade,null,null,null,null
+Gunterstein,null,null,null,null
+Gustav Mahler laan,female,US,65,laan
+Gustav Mahler plein,male,NL,100,gustav
+Gutser straat,null,null,null,null
+Gyroscoop weg,male,NL,100,weg
+H. Cleyndert weg,male,NL,100,weg
+H. Diesveld singel,male,NL,100,singel
+H. Gerhard straat,male,NL,100,gerhard
+Hegeraat straat,null,null,null,null
+H. Stolle plantsoen,male,RU,50,stolle
+H.A.J. Baanders kade,male,US,59,kade
+H.J. Algra straat,male,ID,100,algra
+H.J.E. Wenckebach weg,male,NL,100,weg
+H.J.M. Walenkamp straat,null,null,null,null
+H.M. Kraaijvanger straat,null,null,null,null
+H.M. Van Randwijk plantsoen,male,NL,65,van
+H.T. Zwiers plantsoen,null,null,null,null
+Haag En Veld,male,CA,75,veld
+Haagwinde weg,male,NL,100,weg
+Haaksberg weg,male,NL,100,weg
+Haardstee,null,null,null,null
+Haarlemmer Houttuinen,null,null,null,null
+Haarlemmer dijk,male,NL,100,dijk
+Haarlemmermeer straat,null,null,null,null
+Haarlemmer plein,female,FR,100,plein
+Haarlemmersluis,null,null,null,null
+Haarlemmer straat,null,null,null,null
+Haarlemmer weg,male,NL,100,weg
+Haarlerberg pad,female,TH,52,pad
+Haarlerberg weg,male,NL,100,weg
+Habaai pad,female,TH,52,pad
+Hacquart straat,null,null,null,null
+Hadramout,null,null,null,null
+Hagedoorn plein,female,FR,100,plein
+Hagedoorn weg,male,NL,100,weg
+Hageland,null,null,null,null
+Hajo Brugmans hof,male,NL,100,hajo
+Hakfort,null,null,null,null
+Halmaheira straat,null,null,null,null
+Halvemaans brug,male,PY,100,brug
+Halvemaan steeg,null,null,null,null
+Hamer straat,male,CO,100,hamer
+Hammarby straat,null,null,null,null
+Heggerank weg,male,NL,100,weg
+Hamont straat,null,null,null,null
+Han Hollander laan,male,NL,98,han
+Han Lammers brug,male,NL,98,han
+Han Rensenbrink pad,male,NL,98,han
+Han Van Zomeren brug,male,NL,98,han
+Handbal straat,male,BE,100,handbal
+Handboog straat,null,null,null,null
+Handmolen,null,null,null,null
+Haneda straat,female,ID,63,haneda
+Hannie Dankbaarpassage,female,NL,100,hannie
+Hannie Termeulen pad,female,TH,52,pad
+Hans Katan hof,male,NL,99,hans
+Hans Meerum Terwogt weg,male,NL,99,hans
+Hans Onversaagd straat,male,NL,99,hans
+Haparandadam,null,null,null,null
+Haparandasteiger,null,null,null,null
+Haparanda weg,male,NL,100,weg
+Hardeveld straat,null,null,null,null
+Haringbuis dijk,male,NL,100,dijk
+Haringpakkers steeg,null,null,null,null
+Haringvliet straat,null,null,null,null
+Hark straat,male,US,94,hark
+Harmonie hof,female,US,96,harmonie
+Haroekoe straat,null,null,null,null
+Harriet Freezer straat,female,NL,100,harriet
+Harry Bannink brug,male,NL,99,harry
+Harry Bannink straat,male,NL,99,harry
+Harry Koningsberger straat,male,NL,99,harry
+Hart Nibbrig straat,male,NL,100,hart
+Hartelstein,null,null,null,null
+Harten straat,male,null,100,harten
+Hartshoorngang,null,null,null,null
+Hartveldse weg,male,NL,100,weg
+Hasebroek straat,null,null,null,null
+Haspels straat,null,null,null,null
+Hasselaers steeg,null,null,null,null
+Haven pad,female,US,79,haven
+Hei brug,male,US,52,hei
+Heidoti straat,null,null,null,null
+Heilige weg,male,BE,100,heilige
+Heiligewegssluis,null,null,null,null
+Heimans pad,female,TH,52,pad
+Haven straat,female,US,79,haven
+Havikshorst,null,null,null,null
+Haviks laan,female,US,65,laan
+Haya Van Someren-Downer straat,male,NL,65,van
+Hazelaar laan,female,US,65,laan
+Hazelaar straat,null,null,null,null
+Hazen straat,male,US,60,hazen
+Heathrow straat,male,GB,50,heathrow
+Hebriden laan,female,US,65,laan
+Hecht En Sterk hof,male,BE,100,hecht
+Hechtel straat,null,null,null,null
+Hector straat,male,NL,100,hector
+Hedera brug,male,ID,100,hedera
+Heemstede straat,null,null,null,null
+Heenweg pad,female,TH,52,pad
+Heer Halewijn straat,female,IN,75,heer
+Heermoes straat,null,null,null,null
+Heester veld,male,CA,75,veld
+Hempont plein,female,FR,100,plein
+Heimans weg,male,NL,100,weg
+Hein Donner brug,male,NL,100,hein
+Heining,null,null,null,null
+Heinze straat,male,NL,100,heinze
+Hei steeg,male,US,52,hei
+Hekel veld,male,CA,75,veld
+Hekla,female,US,100,hekla
+Heksen pad,female,TH,52,pad
+Helena Kuipers-Rietberg hof,female,NL,100,helena
+Helena Mercier straat,female,NL,100,helena
+Helene Madison straat,female,NL,97,helene
+Helicopter straat,male,US,57,helicopter
+Heliotroop straat,null,null,null,null
+Heli pad,female,FI,77,heli
+Helling baan,male,NL,100,baan
+Helling straat,null,null,null,null
+Helmers plantsoen,null,null,null,null
+Helmgras straat,null,null,null,null
+Helmholtz straat,female,US,100,helmholtz
+Helsingfors brug,male,PY,100,brug
+Hembrug straat,null,null,null,null
+Hemelsleutel,null,null,null,null
+Hem kade,male,US,59,kade
+Hemony laan,female,US,65,laan
+Hemony straat,female,BR,100,hemony
+Hemsterhuis straat,null,null,null,null
+Hemtunnel,null,null,null,null
+Hem weg,male,IN,81,hem
+Hendricus Antonius HenriëT straat,male,NL,80,antonius
+Hendrik Bulthuis straat,male,NL,98,hendrik
+Hendrik De Bruyn straat,male,NL,98,hendrik
+Hendrik Dienske straat,male,NL,98,hendrik
+Hendrik Godfroid hof,male,NL,98,hendrik
+Hendrik Hos straat,male,NL,98,hendrik
+Hendrik Jacobsz straat,male,NL,98,hendrik
+Hendrik Jonker plein,male,NL,98,hendrik
+Hendrik Soeteboom straat,male,NL,98,hendrik
+Hendrik Van Wijn straat,male,NL,98,hendrik
+Hendrik Veldhuis hof,male,NL,98,hendrik
+Hendrik Werkman straat,male,NL,98,hendrik
+Hendrikje Stoffels straat,female,DE,100,hendrikje
+Hendrikus Rempe straat,male,NL,100,hendrikus
+Henegouwen straat,null,null,null,null
+Henk CurièRe kade,male,NL,100,henk
+Henk Sneevliet pad,male,NL,100,henk
+Henk Sneevliet weg,male,NL,100,henk
+Henri Bergson straat,male,NL,99,henri
+Henri Berssenbrugge hof,male,NL,99,henri
+Henri Borel straat,male,NL,99,henri
+Henri Dunant straat,male,NL,99,henri
+Henri Polak laan,male,NL,99,henri
+Henri Viotta kade,male,US,59,kade
+Henri Zagwijn straat,male,NL,99,henri
+Henric Van Veldeke hof,male,NL,65,van
+Henrick De Keijser plein,male,BR,100,henrick
+Henrick De Keijser straat,male,BR,100,henrick
+HenriëTte Bosmans straat,female,NL,100,henriëtte
+HenriëTte Roland Holst straat,male,NL,99,roland
+HenriëTte Ronner plein,female,NL,100,henriëtte
+HenriëTte Ronner straat,female,NL,100,henriëtte
+HenriëTte Van Heukelom-Van Den Brandeler brug,male,NL,65,van
+Hensbroeker straat,null,null,null,null
+Herbert Spencer hof,male,NL,97,herbert
+Hercules Seghers straat,male,BR,100,hercules
+Hercules straat,male,BR,100,hercules
+Herder hof,male,US,100,herder
+Hoekenrode pad,female,TH,52,pad
+Heren gracht,male,US,67,heren
+Herenmarkt,null,null,null,null
+Heren straat,male,US,67,heren
+Herentals straat,male,BE,100,herentals
+Herfst straat,null,null,null,null
+Herikerberg weg,male,NL,100,weg
+Heringa-State,female,NL,100,state
+Herman Akkerman pad,male,NL,99,herman
+Herman Bon pad,male,NL,99,herman
+Herman De Man straat,male,NL,99,herman
+Herman Helling plantsoen,male,NL,99,herman
+Herman Poort straat,male,NL,99,herman
+Herman Robbers straat,male,NL,99,herman
+Hermanus Coenradi straat,male,ID,100,hermanus
+Hermanus Van Der Tuuk hof,male,NL,65,van
+Hermieten straat,null,null,null,null
+Hermitage laan,female,US,65,laan
+Hertingen straat,null,null,null,null
+Hertspieghel weg,male,NL,100,weg
+Hertzog straat,null,null,null,null
+Hertz straat,male,BR,96,hertz
+Herwijk,null,null,null,null
+Hessenberg weg,male,NL,100,weg
+Hestia straat,female,NL,100,hestia
+Het Breed,male,NL,67,het
+Het Dok,male,NL,67,het
+Het Hoogt,male,NL,67,het
+Het Laagt,male,NL,67,het
+Het Tuin pad Van Mijn Vader,female,TH,52,pad
+Hettenheuvel weg,male,NL,100,weg
+Hetty Blok straat,female,NL,100,hetty
+Heusden straat,null,null,null,null
+Heverlee straat,null,null,null,null
+Hexaan weg,male,NL,100,weg
+Hijskraan straat,null,null,null,null
+Hilbert Van Dijk hof,male,NL,65,van
+Hildebrand straat,male,NL,100,hildebrand
+Hildegard Von Bingen straat,male,ES,100,bingen
+Hildo Krop plein,male,NL,100,hildo
+Hildsven,null,null,null,null
+Hillegom straat,null,null,null,null
+Hillenraadt,null,null,null,null
+Hilletjes Brug,male,PY,100,brug
+Hilmanhofje,null,null,null,null
+Hilverbeek straat,null,null,null,null
+Hoekschewaard plein,female,FR,100,plein
+Oude Turfmarkt,female,NL,100,oude
+Hilversum straat,null,null,null,null
+Hinderstein,null,null,null,null
+Hirschpassage,null,null,null,null
+Hissink straat,null,null,null,null
+Hobbema kade,male,US,59,kade
+Hobbema straat,null,null,null,null
+Hodenpijl kade,male,US,59,kade
+Hodshon-Dedel hof,female,BR,56,dedel
+Hoe Langer Hoe Liever,male,DE,60,langer
+Hoek Van Holland straat,male,NL,65,van
+Hoekenes,null,null,null,null
+Hoekenes pad,female,TH,52,pad
+Hoekenes plantsoen,null,null,null,null
+Hoekschewaard weg,male,NL,100,weg
+Hoeksloot straat,null,null,null,null
+Hoendiep straat,null,null,null,null
+ Hof Van Eden,male,NL,65,van
+ Hof Van Parijs,male,NL,65,van
+ Hof Van Versailles,male,NL,65,van
+Hofgeest,null,null,null,null
+Hofjen Van De Weduwe Roosen,male,NL,65,van
+Hofmeester straat,null,null,null,null
+Hofmeyr straat,male,ZA,100,hofmeyr
+Hofsteden weg,male,NL,100,weg
+Hofwijck straat,null,null,null,null
+Hoge Brug,male,JP,94,hoge
+Hogebooms pad,female,TH,52,pad
+Hogehil weg,male,NL,100,weg
+Hogen dijk,male,MY,100,hogen
+Hogenes plantsoen,null,null,null,null
+Hogevecht,null,null,null,null
+Hoge weg,male,JP,94,hoge
+Hondecoeter straat,null,null,null,null
+Holbein straat,male,CO,100,holbein
+Holendrecht dreef,null,null,null,null
+Holendrechter weg,male,NL,100,weg
+Holendrecht plein,female,FR,100,plein
+Holendrecht straat,null,null,null,null
+Hollandia Kattenburg pad,female,TH,52,pad
+Hollandia gracht,null,null,null,null
+Hollandse Tuin,male,BE,75,tuin
+Hollandse kade,male,US,59,kade
+Holterberg weg,male,NL,100,weg
+Holtmeulen,null,null,null,null
+Holwerda hof,female,NL,100,hof
+Holy,male,NL,100,holy
+Hondius straat,null,null,null,null
+Hondsrug weg,male,NL,100,weg
+Honselersdijk straat,null,null,null,null
+Honthorst straat,null,null,null,null
+Hoofddorp plein,female,FR,100,plein
+Hoofddorp weg,male,NL,100,weg
+Hoogoord plein,female,FR,100,plein
+Hoogte Ka dijk,male,NL,100,dijk
+Hoogwoud straat,null,null,null,null
+Hooi straat,female,MY,80,hooi
+Hoopende Swaen,null,null,null,null
+Hoorneboeg,null,null,null,null
+Oude Waal,female,BR,58,waal
+Hoofd weg,female,NL,100,hoofd
+Hooge Venne,male,NL,100,hooge
+Hoogheemraad weg,male,NL,100,weg
+Hoogkamersgang,null,null,null,null
+Hoogoord,null,null,null,null
+Hoogoord dreef,null,null,null,null
+Hoogoord dreef / Atlas,male,NL,100,atlas
+Hoornse straat,null,null,null,null
+Hoortensia laan,female,US,65,laan
+Hoptille,null,null,null,null
+Hoptille pad,female,TH,52,pad
+Horizon,male,NL,100,horizon
+Horn weg,male,TH,80,horn
+Horsten berg,male,BR,97,berg
+Hortensia straat,female,MX,100,hortensia
+Hortus plantsoen,male,IT,100,hortus
+Houdringe,null,null,null,null
+Houthalen straat,null,null,null,null
+Hunneschans,null,null,null,null
+Oude-Ijsel straat,female,NL,100,oude
+Houthaven kade,male,US,59,kade
+Houthaven weg,male,NL,100,weg
+Houtkopersdwars straat,null,null,null,null
+Houtmandwars straat,null,null,null,null
+Houtman kade,male,US,59,kade
+Houtman straat,male,ID,91,houtman
+Houtrijk straat,null,null,null,null
+Hoveniers laan,female,US,65,laan
+Hoyer pad,female,TH,52,pad
+Hudde kade,male,US,59,kade
+Hudde straat,null,null,null,null
+Hudson hof,male,BR,98,hudson
+Hudson straat,male,BR,98,hudson
+Hugo De Groot kade,male,US,59,kade
+Ingelanden weg,male,NL,100,weg
+Ingenhousz hof,female,NL,100,hof
+Ingogo straat,null,null,null,null
+Hugo De Groot plein,male,NL,100,hugo
+Hugo De Vries laan,male,NL,100,hugo
+Hugo Floris Ruys straat,male,NL,99,floris
+Hugo Verriest hof,male,NL,100,hugo
+Huidekoper straat,null,null,null,null
+Huiden straat,null,null,null,null
+Huifkar pad,female,TH,52,pad
+Huigenbos,null,null,null,null
+Huismans hof,female,NL,100,hof
+Hullenberg weg,male,NL,100,weg
+Hulst weg,male,NL,100,weg
+Humberto Delgado plein,male,TR,81,delgado
+Humber weg,male,MX,98,humber
+Huntum,null,null,null,null
+Huntum dreef,null,null,null,null
+Huntum pad,female,TH,52,pad
+Hunze straat,null,null,null,null
+Hyacinthen laan,female,US,65,laan
+HygiëA straat,null,null,null,null
+HäNdel straat,null,null,null,null
+HéLèNe Swarth straat,female,NL,100,hélène
+Ibiza straat,male,US,53,ibiza
+Ibrahim Moustafa pad,male,NL,100,ibrahim
+Idee brug,female,IT,64,idee
+Iepen laan,female,US,65,laan
+Iepen plein,female,FR,100,plein
+Iepen weg,male,NL,100,weg
+Ij-Hal,male,NL,100,hal
+Ij-Passage,female,TR,67,passage
+Ij plein,female,FR,100,plein
+Inlaag straat,null,null,null,null
+Johannes J. Glas weg,male,NL,99,johannes
+Ij-Tunnel,male,MX,100,tunnel
+Ijburg laan,female,US,65,laan
+Ijdok,null,null,null,null
+Ijdoorn laan,female,US,65,laan
+Ijpromenade,null,null,null,null
+Jacob Van Artevelde straat,male,NL,100,jacob
+Ijsbaan pad,female,TH,52,pad
+Ijselmonde straat,null,null,null,null
+Ijsel straat,null,null,null,null
+Ijslandt pad,female,TH,52,pad
+Ijsselmeer laan,female,US,65,laan
+Ijsselmeer straat,null,null,null,null
+Ijzer hof,female,NL,100,hof
+Ilpendammer straat,null,null,null,null
+Ilperveld straat,null,null,null,null
+Image brug,male,NL,100,image
+Imbos,null,null,null,null
+Immanuel Kant hof,male,TH,80,kant
+Imogirituin,null,null,null,null
+Imstenrade,null,null,null,null
+In De Houtzaagmolen,null,null,null,null
+Inari straat,female,FI,82,inari
+Industrie weg,male,NL,100,weg
+Johannes Jelgerhuis hof,male,NL,99,johannes
+Pieter Van Den Heuvel pad,male,NL,100,pieter
+Insulinde weg,male,NL,100,weg
+Internet straat,male,NL,100,internet
+Inzet,null,null,null,null
+Ir. B. Bijvoet brug,male,PY,100,brug
+Ir. Jakoba Mulder plein,female,BE,83,jakoba
+Irawan Soejono straat,male,ID,96,irawan
+Iris laan,female,NL,100,iris
+Isaac Gogel weg,male,NL,100,isaac
+Isaac Titsingh kade,male,US,59,kade
+Isaak Gosses hof,male,NL,100,isaak
+Isar weg,male,ID,85,isar
+IsaäC Asscher pad,female,TH,52,pad
+Iseo plantsoen,male,BR,50,iseo
+Isolator weg,male,US,100,isolator
+IsraëL Querido straat,male,MX,100,israël
+Ite Boerema straat,male,NL,100,ite
+Iwan Kanteman plein,male,NL,100,iwan
+J. Cals straat,male,US,86,cals
+Roskam steeg,male,MY,100,roskam
+J. De Koo straat,male,MY,65,koo
+J. Drijver weg,male,NL,100,weg
+J. Dunnebier straat,null,null,null,null
+J. Kruiswijk hof,female,NL,100,hof
+J.A. DèR Mouw straat,male,ID,50,mouw
+J.C. Breen straat,female,MX,97,breen
+J.C. SchröDer straat,male,DE,100,schröder
+J.C. Van Epen straat,male,NL,65,van
+J.F. Ankersmit straat,null,null,null,null
+J.F. Berghoef plantsoen,null,null,null,null
+J.F. Van Hengel straat,male,NL,65,van
+J.G. Suurhoff straat,null,null,null,null
+J.H. Hisgen pad,female,TH,52,pad
+J.H. Van Heek pad,female,TH,52,pad
+Jan Schaefer brug,male,NL,99,jan
+Jan Van Zutphen plantsoen,male,NL,99,jan
+J.H. Van Heek weg,male,NL,65,van
+J.J. Cremer plein,male,RU,100,cremer
+J.J. Cremer straat,male,RU,100,cremer
+J.J. Viotta straat,null,null,null,null
+J.J.M. Vegter straat,male,BE,100,vegter
+J.M. Den Uyl straat,male,NL,89,den
+J.M. Van Der Mey laan,male,NL,65,van
+J.P. Kloos straat,null,null,null,null
+J.S. Ruppert straat,male,ES,100,ruppert
+J.W. Siebbeles hof,female,NL,100,hof
+Jaag pad,female,TH,52,pad
+Jaap Eden straat,male,NL,100,jaap
+Jaap Nunes Vaz straat,male,NL,100,jaap
+Jaargetijden,null,null,null,null
+Jac. P. Thijsse plein,male,NL,96,jac
+Jan Voerman straat,male,NL,99,jan
+Jachthaven weg,male,NL,50,jachthaven
+Jacob Bontiusplaats,male,NL,100,jacob
+Jacob Burggraaf straat,male,NL,100,jacob
+Jacob Cabeliau straat,male,NL,100,jacob
+Jacob Cats kade,male,US,59,kade
+Jacob De Rijk hof,male,NL,100,jacob
+Jacob Frank hof,male,NL,100,frank
+Jacob Geel straat,male,NL,100,jacob
+Jacob Groen plantsoen,male,NL,100,jacob
+Jacob Honig straat,male,NL,100,jacob
+Jacob Husley straat,male,NL,100,jacob
+Jacob IsraëL De Haan straat,male,NL,100,jacob
+Jacob Kraus straat,male,NL,100,jacob
+Jacob KrüSe straat,male,NL,100,jacob
+Jacob Maris plein,male,NL,100,jacob
+Jacob Maris straat,male,NL,100,jacob
+Jacob Melkman straat,male,NL,100,jacob
+Jacob Obrecht plein,male,NL,100,jacob
+Jacob Obrecht straat,male,NL,100,jacob
+Jacob Olie pad,male,NL,100,jacob
+Jacob Paff straat,male,NL,100,jacob
+Jacob Til straat,male,NL,100,jacob
+Jacob Van Lennep kade,male,US,59,kade
+Jacob Van Lennep straat,male,NL,100,jacob
+Jacob Van Maerlant straat,male,NL,100,jacob
+Jacob Van Wassenaar Obdam straat,male,NL,100,jacob
+Jacob Van Weesenbeke straat,male,NL,100,jacob
+Jacobus Van Looy straat,male,NL,65,van
+Jacobus Willems pad,female,TH,52,pad
+Jacques Perk straat,male,NL,100,jacques
+Jacques Veltman straat,male,NL,100,jacques
+Jaddanbai kade,male,US,59,kade
+James Cook straat,male,NL,99,james
+James Ross kade,male,US,59,kade
+James Watt straat,male,NL,99,james
+Jan Abelsz straat,male,NL,99,jan
+Jan Schaefer pad,male,NL,99,jan
+Jan Sluijters straat,male,NL,99,jan
+Jan Smit straat,male,NL,99,jan
+Jan Somer hof,male,NL,99,jan
+Jan Springer hof,male,NL,99,jan
+Jan Beijer pad,male,NL,99,jan
+Jan Berts straat,male,NL,99,jan
+Jan Bonga straat,male,NL,99,jan
+Jan Boterenbrood straat,male,NL,99,jan
+Jan Bottema straat,male,NL,99,jan
+Jan C. De Vos hof,male,NL,99,jan
+Jan Cele straat,male,NL,99,jan
+Jan Cupido hof,male,NL,99,jan
+Jan De Greef straat,male,NL,99,jan
+Jan De Jongh kade,male,NL,99,jan
+Jan De Jongh straat,male,NL,99,jan
+Jan De Louter pad,male,NL,99,jan
+Jan De Louter straat,male,NL,99,jan
+Jan Den Haen straat,male,NL,99,jan
+Jan Eisenloeffel straat,male,NL,99,jan
+Jan Swammerdam brug,male,NL,99,jan
+Jan Theunisz hof,male,NL,99,jan
+Jan ThoméE pad,male,NL,99,jan
+Jan Van Zutphen straat,male,NL,99,jan
+Jan Veth straat,male,NL,99,jan
+Jan Vlietman brug,male,NL,99,jan
+Jan Voermam straat,male,NL,99,jan
+Jan Evertsen straat,male,NL,99,jan
+Jan Goldschmeding straat,male,NL,99,jan
+Jan Hanzen straat,male,NL,99,jan
+Jan Haring straat,male,NL,99,jan
+Jan Janzen straat,male,NL,99,jan
+Jan Kist straat,male,NL,99,jan
+Jan Leliman hof,male,NL,99,jan
+Jan Ligthart straat,male,NL,99,jan
+Jan Luijken straat,male,NL,99,jan
+Jan Maijen straat,male,NL,99,jan
+Jan Mankes straat,male,NL,99,jan
+Jan Mens plein,male,NL,99,jan
+Jan Met De Hakengang,male,NL,99,jan
+Jan Musch straat,male,NL,99,jan
+Jan Nauta hof,male,NL,99,jan
+Jan Oudegeest straat,male,NL,99,jan
+Jan Peppink straat,male,NL,99,jan
+Jan Pieter Heije straat,male,NL,99,jan
+Jan Poyt straat,male,NL,99,jan
+Jan Punt straat,male,NL,99,jan
+Jan Rebel straat,male,NL,99,jan
+Jan Ringel straat,male,NL,99,jan
+Jan Toorop straat,male,NL,99,jan
+Jan Van Beers straat,male,NL,99,jan
+Jan Van Boendale straat,male,NL,99,jan
+Jan Van Der Neut hof,male,NL,99,jan
+Jan Van Duivenvoorde straat,male,NL,99,jan
+Jan Van Eijck straat,male,NL,99,jan
+Jan Van Galen straat,male,NL,99,jan
+Jan Van Goyen kade,male,NL,99,jan
+Jan Van Hout hof,male,NL,99,jan
+Jan Van Riebeek straat,male,NL,99,jan
+Jan Van Schaffelaar plantsoen,male,NL,99,jan
+Rosmarijn steeg,female,NL,100,rosmarijn
+Jan Vroegop singel,male,NL,99,jan
+Jan Willem Brouwers straat,male,NL,99,jan
+Jan Witheijn straat,male,NL,99,jan
+Jan Zijvertsz straat,male,NL,99,jan
+Jan Zwanenburg hof,male,NL,99,jan
+Janna Van Der Weg laan,male,NL,65,van
+Janusz Korczak plantsoen,male,NL,100,janusz
+Janusz Korczak straat,male,NL,100,janusz
+Jara singel,male,NL,50,jara
+Jarmuiden,null,null,null,null
+Jasmijn laan,female,NL,100,jasmijn
+Jasmijn straat,female,NL,100,jasmijn
+Jason straat,male,NL,99,jason
+Jasper Leijnsen straat,male,NL,100,jasper
+Jasper Warner straat,male,NL,100,jasper
+Java kade,male,US,59,kade
+Java plantsoen,female,NL,100,java
+Java plein,female,FR,100,plein
+Java straat,female,NL,100,java
+Jean Desmet straat,male,NL,92,jean
+Jeker straat,male,TR,50,jeker
+Jelle Posthuma pad,male,NL,99,jelle
+Jeltje De Bosch Kemper pad,female,TH,52,pad
+Jenner straat,male,US,92,jenner
+Jephta straat,male,NG,100,jephta
+Jeremisegang,null,null,null,null
+Jesse Owens hof,male,NL,97,jesse
+Jim Thorpe pad,male,NL,100,jim
+Jisperveld straat,null,null,null,null
+Joan Melchior Kemper straat,female,NL,62,joan
+Joan Muysken weg,female,NL,62,joan
+Joannes De Swaef hof,male,NL,100,joannes
+Joannes Reddingius straat,male,NL,100,joannes
+Jodenbree straat,null,null,null,null
+Johannes Meewis straat,male,NL,99,johannes
+Joh.M. Coenen straat,male,NL,100,joh
+Johan Basius hof,male,NL,99,johan
+Johan Braakensiek hof,male,NL,99,johan
+Johan Broedelet straat,male,NL,99,johan
+Johan Brouwer pad,male,NL,99,johan
+Johan Colterman pad,male,NL,99,johan
+Johan Cousset straat,male,NL,99,johan
+Johan Cruijff Boulevard,male,NL,99,johan
+Johan De Meester straat,male,NL,99,johan
+Johan Greive straat,male,NL,99,johan
+Johan Herman Doorn straat,male,NL,99,johan
+Johan Hofman straat,male,NL,99,johan
+Johan Huijsen straat,male,NL,99,johan
+Johan Huizinga laan,male,NL,99,johan
+Johannes Post straat,male,NL,99,johannes
+Rosmolen,null,null,null,null
+Johan Jongkind straat,male,NL,99,johan
+Johan Kern straat,male,NL,99,johan
+Johan Limpers straat,male,NL,99,johan
+Johan Ramaer straat,male,NL,99,johan
+Johan Rijnja straat,male,NL,99,johan
+Johan Schippers plantsoen,male,NL,99,johan
+Johan Van Der Keuken straat,male,NL,99,johan
+Johan Van Hasselt kade,male,NL,99,johan
+Johan Van Hasselt weg,male,NL,99,johan
+Johan Van Hulst brug,male,NL,99,johan
+Johan Van Kuyck straat,male,NL,99,johan
+Johan Van Soesdijk straat,male,NL,99,johan
+Johann Sieger straat,male,NL,100,sieger
+Johanna Naber straat,female,NL,100,johanna
+Johanna Reynvaan straat,female,NL,100,johanna
+Rossini straat,male,BR,71,rossini
+Johannes Van Der Waals straat,male,NL,99,johannes
+Johannes Van Meurs hof,male,NL,99,johannes
+Johannes Verhulst straat,male,NL,99,johannes
+Johannes Vermeer plein,male,NL,99,johannes
+Johannes Vermeer straat,male,NL,99,johannes
+Johannes Worp straat,male,NL,99,johannes
+Johannis De Rijke straat,male,ID,85,johannis
+John Blankenstein straat,male,NL,99,john
+John Coltrane straat,male,NL,99,john
+John Fernhout hof,male,NL,99,john
+John Franklin straat,male,NL,99,john
+John Kelly pad,male,NL,99,john
+John Locke hof,male,NL,99,john
+John M. Keynes plein,male,NL,99,john
+John Motley hof,male,NL,99,john
+Johnny & Jones brug,male,NL,100,johnny
+Jolicoeur straat,null,null,null,null
+Jolleman hof,female,NL,100,hof
+Jollen pad,female,TH,52,pad
+Jonagold straat,male,JP,100,jonagold
+Jonas DaniëL Meijer plein,male,NL,100,daniël
+Jonathan hof,male,NL,100,jonathan
+Jonge Roelen steeg,female,NL,100,jonge
+Joop Geesink weg,male,NL,100,joop
+Joos Banckers weg,male,NL,60,joos
+Joos De Moor straat,male,US,54,moor
+Joost Bilhamer straat,male,NL,100,joost
+Joris Ivens plein,male,NL,100,joris
+Joris Ivens straat,male,NL,100,joris
+Joris Van Andringa straat,male,NL,100,joris
+Joris Van Den Bergh weg,male,NL,100,joris
+Joseph Haydn pad,male,GB,96,haydn
+Joseph Scaliger straat,male,NL,98,joseph
+Joseph Schumpeter straat,male,NL,98,joseph
+Josephus Jitta straat,male,PH,100,josephus
+Joubert straat,male,BR,100,joubert
+Jouke Zietsma straat,male,NL,100,jouke
+Jozef IsraëLs kade,male,US,59,kade
+Jul 15-Mar 15,female,NL,81,mar
+Juliana Van Stolberg straat,male,NL,65,van
+Juliana plein,female,NL,100,juliana
+Julius Perger straat,male,NL,100,julius
+Jungfrau,female,ID,100,jungfrau
+Jupiter straat,male,US,78,jupiter
+Justus Halbertsma straat,male,NL,100,justus
+Kaapstad weg,male,NL,100,weg
+Kaasjeskruid straat,null,null,null,null
+Kaassluis,null,null,null,null
+Kabelgast straat,null,null,null,null
+Kabel weg,male,NL,100,kabel
+ Kade West,male,US,59,kade
+Kadijks plein,female,FR,100,plein
+Kadoelen brug,male,PY,100,brug
+Kadoelen pad,female,TH,52,pad
+Kadoelen weg,male,NL,100,weg
+Kagelink kade,male,US,59,kade
+Kajuit pad,female,TH,52,pad
+Kajuit weg,male,NL,100,weg
+Kalfjes laan,female,US,65,laan
+Kalkmarkt,null,null,null,null
+Kalkoen straat,male,ID,100,kalkoen
+Kalmar brug,male,AT,63,kalmar
+Kalmoes straat,null,null,null,null
+Kalverengang,null,null,null,null
+Kalverpassage,null,null,null,null
+Kalver straat,male,EE,100,kalver
+Kalver toren,female,TR,85,toren
+Kamelengang,null,null,null,null
+Kamerlingh Onnes laan,female,US,65,laan
+Kamerpalm hof,female,NL,100,hof
+Kamille straat,female,US,99,kamille
+Kamperfoelie weg,male,NL,100,weg
+Kampervenus pad,female,TH,52,pad
+Kanaal dijk,male,NL,100,dijk
+Kanaal dijk Oost,male,NL,100,dijk
+Kanaal dijk West,male,NL,100,dijk
+Kanaal pad,female,TH,52,pad
+Kanaal straat,null,null,null,null
+Kanarie straat,male,NL,100,kanarie
+Kaneelappel straat,null,null,null,null
+Kanteel,null,null,null,null
+Kanters hof,female,NL,100,hof
+Kantershof pad,female,TH,52,pad
+Kantershof straat,null,null,null,null
+Kapkar pad,female,TH,52,pad
+Kapoeas weg,male,NL,100,weg
+Kapteyn straat,null,null,null,null
+Karakiet laan,female,US,65,laan
+Kardoes Kokersgang,male,null,100,kardoes
+Karel Doorman straat,male,NL,99,karel
+Karel Du Jardin straat,male,NL,99,karel
+Karel F. Vastenhoud pad,male,NL,99,karel
+Karel Klinkenberg straat,male,NL,99,karel
+Karper weg,male,NL,100,weg
+Karspel dreef,null,null,null,null
+Karthuizersdwars straat,null,null,null,null
+Karthuizers plantsoen,null,null,null,null
+Karthuizers straat,null,null,null,null
+Karton straat,male,TR,100,karton
+Karveel straat,null,null,null,null
+Kastanje laan,female,US,65,laan
+Kastanje plein,female,FR,100,plein
+Kastelen straat,null,null,null,null
+Kasterlee park,female,NL,60,park
+Kastrup straat,null,null,null,null
+Kees Broekman straat,male,NL,99,kees
+Kees Fens brug,male,NL,99,kees
+Katrijp straat,null,null,null,null
+Kattenburger gracht,null,null,null,null
+Kattenburger hof,female,NL,100,hof
+Kattenburger kade,male,US,59,kade
+Kattenburgerkruis straat,null,null,null,null
+Kattenburger plein,female,FR,100,plein
+Kattenburger straat,null,null,null,null
+Kattengat,null,null,null,null
+Kattenrug brug,male,PY,100,brug
+Katwijk straat,null,null,null,null
+Kazerne straat,null,null,null,null
+Kea Bouman straat,female,NL,100,kea
+Keerpunt,null,null,null,null
+Keerwal,null,null,null,null
+Keerweer,null,null,null,null
+Kees Abspoel straat,male,NL,99,kees
+Kees Boeke straat,male,NL,99,kees
+Keesje Brijde plantsoen,male,NL,50,keesje
+Keienberg weg,male,NL,100,weg
+Keizerrijk,null,null,null,null
+Keizers brug,male,NL,100,keizers
+Keizers gracht,male,NL,100,keizers
+Keizers straat,male,NL,100,keizers
+Kelbergen,null,null,null,null
+Kelbergen pad,female,TH,52,pad
+Kemminkhorst weg,male,NL,100,weg
+Kempen laan,female,US,65,laan
+Kempering,null,null,null,null
+Kerke pad,female,TH,52,pad
+Kerke pad Holysloot-Uitdam,female,TH,52,pad
+Kerk laan Zunder dorp,male,MY,80,kerk
+Kerk straat,male,MY,80,kerk
+Kermis pad,female,TH,52,pad
+Kerrie straat,female,NL,100,kerrie
+Kersen straat,male,ID,50,kersen
+Kerstomaat plantsoen,null,null,null,null
+Kervel plantsoen,null,null,null,null
+Ketelhuis brug,male,PY,100,brug
+Ketelhuis plein,female,FR,100,plein
+Ketelmakerij,null,null,null,null
+Ketelmaker straat,null,null,null,null
+Ketel straat,male,PH,50,ketel
+Keuren plein,female,FR,100,plein
+Kever berg,male,BR,97,berg
+Kiefskamp,null,null,null,null
+Kiek straat,female,NL,100,kiek
+Kierkegaard straat,null,null,null,null
+Kieviets laan,female,US,65,laan
+Kievit straat,null,null,null,null
+Kijkduin straat,null,null,null,null
+Kikkenstein,null,null,null,null
+Kikkenstein hof,female,NL,100,hof
+Kikkenstein straat,null,null,null,null
+Kikkerbloem,null,null,null,null
+Kimpo weg,male,US,100,kimpo
+Kinderdijk straat,null,null,null,null
+Kinderverblijf,null,null,null,null
+King'S Dock straat,male,US,88,dock
+Kingsford weg,male,NL,100,kingsford
+Kinker straat,null,null,null,null
+Kinrooi straat,null,null,null,null
+Kippe brug,female,US,100,kippe
+Klaartje De Zwarte - Walvisch brug,female,NL,100,klaartje
+Klaas Geerts plantsoen,male,NL,100,klaas
+Klaas Kater straat,male,NL,100,klaas
+Klaas Wannen,male,NL,100,klaas
+Kleine Wittenburger straat,male,NL,75,kleine
+Kleine Zonne plein,male,NL,75,kleine
+Oudebrug steeg,null,null,null,null
+Klaprozen weg,male,NL,100,weg
+Klaren burg,male,US,67,burg
+Klaroen straat,null,null,null,null
+Klatering pad,female,TH,52,pad
+Klaverblad straat,null,null,null,null
+Kleefkruid straat,null,null,null,null
+Kleersloot,null,null,null,null
+Kleine Beer straat,male,NL,86,beer
+Kleine Bickers straat,male,NL,75,kleine
+Kleine Die straat,male,NL,75,kleine
+Kleine-Gartman plantsoen,male,NL,75,kleine
+Kleuter laan,female,US,65,laan
+Klieverink weg,male,NL,100,weg
+Klimop brug,male,PY,100,brug
+Klimopstraatje,null,null,null,null
+Klimop weg,male,NL,100,weg
+Klinker weg,male,NL,100,weg
+Klipper straat,null,null,null,null
+Kloekhorst straat,null,null,null,null
+Klokkenberg weg,male,NL,100,weg
+Klokkengang,null,null,null,null
+Klooster straat,male,NL,100,klooster
+Kloveniersburgwal,null,null,null,null
+Kloveniers steeg,null,null,null,null
+KlöNne Plein,female,FR,100,plein
+KlöNne plein,female,FR,100,plein
+Kneppelhout straat,null,null,null,null
+Kneppel weg,male,NL,100,weg
+Knokke straat,male,BE,100,knokke
+Knollendam straat,null,null,null,null
+Kolfschoten straat,null,null,null,null
+Kolibri straat,male,DE,67,kolibri
+Kolksluis,null,null,null,null
+Kolk steeg,null,null,null,null
+Knsm- Laan,female,US,65,laan
+Knuppel pad,female,TH,52,pad
+Ko Van Dijk hof,male,NL,65,van
+Koedijk pad,female,TH,52,pad
+Koekoeks laan,female,US,65,laan
+Koekoeks plein,female,FR,100,plein
+Koekoeks straat,null,null,null,null
+Koen Limperg straat,male,NL,100,koen
+Koenen kade,male,US,59,kade
+Koeriersters plein,female,FR,100,plein
+Koe straat,male,TH,81,koe
+Koffie weg,female,NL,100,koffie
+Kofschip straat,null,null,null,null
+Kogeldistel straat,null,null,null,null
+Kogge straat,null,null,null,null
+Koivisto kade,male,US,59,kade
+Kolberg brug,male,PY,100,brug
+Koningspalm plein,female,FR,100,plein
+Oudekennis steeg,null,null,null,null
+Kollenberg weg,male,NL,100,weg
+Kombuis weg,male,NL,100,weg
+Kometen singel,male,NL,100,singel
+Komijn straat,null,null,null,null
+Kompas weg,male,ID,88,kompas
+Konijnen straat,null,null,null,null
+Koningin Wilhelmina plein,female,FR,100,plein
+Koninginne Gang,male,US,89,gang
+Koninginne weg,male,NL,100,weg
+Koningsbergen brug,male,PY,100,brug
+Koningsgang,null,null,null,null
+Konings laan,female,US,65,laan
+Konings plein,female,FR,100,plein
+Konings straat,male,BE,50,konings
+Koog straat,male,TH,50,koog
+Koolpalm hof,female,NL,100,hof
+Koolrabi straat,null,null,null,null
+Koopvaarders plantsoen,null,null,null,null
+Koornhorst,null,null,null,null
+Koos Vorrink weg,male,NL,99,koos
+Kop Van Jut,male,NL,65,van
+Koperslagerij,null,null,null,null
+Kopjacht plein,female,FR,100,plein
+Kopjacht straat,null,null,null,null
+Kopkewier pad,female,TH,52,pad
+Koppeling pad,female,TH,52,pad
+Koppenburg laan,female,US,65,laan
+Kopra weg,male,TR,100,kopra
+Korenbloem straat,null,null,null,null
+Korfbal straat,male,BE,100,korfbal
+Koriander straat,male,US,50,koriander
+Kormelink weg,male,NL,100,weg
+Korsjespoort steeg,null,null,null,null
+Korte Water,female,NL,100,korte
+Korte Zoutkeets gracht,female,NL,100,korte
+Korte 'S-Gravesande straat,female,NL,100,korte
+Korte Amstel straat,male,CO,100,amstel
+Korte Blekers straat,female,NL,100,korte
+Korte Brug,female,NL,100,korte
+Korte De Witten straat,female,NL,100,korte
+Korte Dijk straat,male,NL,100,dijk
+Korte Distel straat,male,RO,80,distel
+Korte Geuzen straat,female,NL,100,korte
+Korte Keizersdwars straat,female,NL,100,korte
+Korte Keizers straat,female,NL,100,korte
+Korte Kolk steeg,female,NL,100,korte
+Korte Koningsdwars straat,female,NL,100,korte
+Korte Konings straat,male,BE,50,konings
+Korte Korsjespoort steeg,female,NL,100,korte
+Korte Lepel straat,female,NL,100,korte
+Korte Lijnbaans steeg,female,NL,100,korte
+Korte Marnix kade,male,US,59,kade
+Korte Marnix straat,male,NL,100,marnix
+Korte Meerhuizen straat,female,NL,100,korte
+Korte Niezel,female,PH,100,niezel
+Korte Ouderkerker brug,female,NL,100,korte
+Korte Ouderkerker dijk,male,NL,100,dijk
+Korte Papaver weg,female,NL,100,korte
+Korte Prinsen gracht,female,NL,100,korte
+Korte Reguliersdwars straat,female,NL,100,korte
+Korte Schimmel straat,female,NL,100,korte
+Korte Spinhuis steeg,female,NL,100,korte
+Korte Storm steeg,male,NL,83,storm
+Korte Tol straat,male,NL,50,tol
+Korte Van Eeghen straat,male,NL,65,van
+Korte Wagen straat,male,ID,100,wagen
+Oudekerks brug,male,PY,100,brug
+Rossum plein,female,FR,100,plein
+Kortenaer straat,null,null,null,null
+Kortenaken straat,null,null,null,null
+Kortenberg pad,female,TH,52,pad
+Korteweg hof,female,NL,100,hof
+Kortrijk,female,BE,100,kortrijk
+Kortvoort,null,null,null,null
+Kortwoude pad,female,TH,52,pad
+Kos pad,female,TH,52,pad
+Kostverloren straat,null,null,null,null
+Kostverloren weg,male,NL,100,weg
+Kotteraar straat,null,null,null,null
+Kotters pad,female,TH,52,pad
+Kousenband straat,null,null,null,null
+Kouter straat,null,null,null,null
+Kouwenoord,null,null,null,null
+Kouwenoord weg,male,NL,100,weg
+Koxhorn,null,null,null,null
+Kraaiennest,null,null,null,null
+Kratontuin,null,null,null,null
+Kreeft straat,null,null,null,null
+Kreek straat,male,US,50,kreek
+Krelis Louwen straat,male,BE,100,krelis
+Kreta weg,female,ID,78,kreta
+Kreupel steeg,null,null,null,null
+Kribbe straat,female,FI,100,kribbe
+Pablo Neruda laan,male,NL,100,pablo
+Kraaiennest pad,female,TH,52,pad
+Kraaien plein,female,FR,100,plein
+Kraailook straat,null,null,null,null
+Kraaipan straat,null,null,null,null
+Kraandrijver straat,null,null,null,null
+Kraansluis,null,null,null,null
+Kraanspoor,null,null,null,null
+Krabbendam straat,null,null,null,null
+Kraijenhoff straat,null,null,null,null
+Kralenbeek,null,null,null,null
+Kramat plantsoen,male,MY,100,kramat
+Kramat weg,male,MY,100,kramat
+Krammer straat,male,HU,100,krammer
+Kranen burg,male,US,67,burg
+Krasseur straat,null,null,null,null
+Rostock brug,male,PY,100,brug
+Krijn Breur straat,male,NL,100,krijn
+Krijn Taconis kade,male,US,59,kade
+Krom Boomssloot,male,SA,92,krom
+Krombek straat,null,null,null,null
+Kromme Distel straat,male,RO,80,distel
+Kromme Leimuiden straat,null,null,null,null
+Kromme Palm straat,male,NL,100,palm
+Kromme Waal,female,BR,58,waal
+Kromme-Mijdrecht straat,null,null,null,null
+Krommehoek straat,null,null,null,null
+Krommenie straat,null,null,null,null
+Krommert straat,null,null,null,null
+Kromwijk dreef,null,null,null,null
+Kronstadt brug,male,PY,100,brug
+Kroon weg,male,NL,100,weg
+Kruit berg,male,BR,97,berg
+Krooswijk hof,female,NL,100,hof
+Kroot straat,female,RU,100,kroot
+Kropaar straat,null,null,null,null
+Kruger plein,male,US,100,kruger
+Kruisbessen straat,null,null,null,null
+Kruisheren pad,female,TH,52,pad
+Kruis laan,female,US,65,laan
+Kruithuis straat,null,null,null,null
+Krulsla plantsoen,null,null,null,null
+Kruysweer straat,null,null,null,null
+Ks. Ibis plantsoen,male,NL,100,ibis
+Ks. Ibis weg,male,NL,100,ibis
+Kuilsenhof weg,male,NL,100,weg
+Kuinder straat,null,null,null,null
+Kuiperberg weg,male,NL,100,weg
+Kuipers steeg,female,BE,100,kuipers
+Kuipers straat,female,BE,100,kuipers
+Kunst brug,male,NL,50,kunst
+Kurk,male,US,92,kurk
+Kustvaarder straat,null,null,null,null
+Kwadijker straat,null,null,null,null
+Kwadrant weg,male,NL,100,weg
+Kwakers plein,female,FR,100,plein
+Kwakers straat,null,null,null,null
+Kwartel straat,null,null,null,null
+Kwartiermeester straat,null,null,null,null
+Kweekhoven,null,null,null,null
+Kweek pad,female,TH,52,pad
+Kwekerij laan,female,US,65,laan
+Kwelder weg,male,NL,100,weg
+Kwintsheul straat,null,null,null,null
+KöLpin straat,null,null,null,null
+L. Van Sonsbeeck straat,male,NL,65,van
+L.J.M. Beel straat,female,BR,90,beel
+La Guardia weg,male,ID,100,guardia
+La Meye,female,ID,100,meye
+Lambert Rima straat,male,NL,100,lambert
+Luchtvaart straat,null,null,null,null
+Laagte Ka dijk,male,NL,100,dijk
+ Laan Der Hesperiden,female,US,65,laan
+ Laan Van Spartaan,male,NL,65,van
+ Laan Van Vlaanderen,male,NL,65,van
+Laan weg,female,US,65,laan
+Laarderhoogt weg,male,NL,100,weg
+Laarzen pad,female,TH,52,pad
+Lambertus Zijl plein,female,FR,100,plein
+Lamong gracht,male,ID,50,lamong
+Lampenisten straat,null,null,null,null
+Lampong straat,male,MY,50,lampong
+Lanaken straat,null,null,null,null
+Land Van Cocagne plein,male,NL,65,van
+Landbouw straat,null,null,null,null
+Landlust pad,female,TH,52,pad
+Landskroon,null,null,null,null
+Landsmeerder dijk,male,NL,100,dijk
+Landsteiner straat,null,null,null,null
+Landzicht,null,null,null,null
+Lange straat,male,NL,80,lange
+Langkat straat,male,ID,100,langkat
+Langsom,null,null,null,null
+Langswater,null,null,null,null
+Langbroek dreef,null,null,null,null
+Langbroek pad,female,TH,52,pad
+Lange Distel straat,male,NL,80,lange
+Lange Houtgang,male,NL,80,lange
+Lange Leidsedwars straat,male,NL,80,lange
+Lange Niezel,female,PH,100,niezel
+Lange Stammer dijk,male,NL,80,lange
+Lange Vogel straat,male,US,63,vogel
+Lange Vonder,male,NL,80,lange
+Langebrug steeg,null,null,null,null
+Lariks laan,female,US,65,laan
+Lassus straat,null,null,null,null
+Lastage weg,male,NL,100,weg
+Latex weg,male,FR,100,latex
+Latherus straat,null,null,null,null
+Lathyrus laan,female,US,65,laan
+Lau Mazirel straat,female,NL,56,lau
+Lauernesse straat,null,null,null,null
+Laurier gracht,male,CA,67,laurier
+Laurier hof,male,CA,67,laurier
+Laurier straat,male,CA,67,laurier
+Lavas pad,female,TH,52,pad
+Lavendel straat,null,null,null,null
+Lavoisier straat,male,BR,100,lavoisier
+Le Maire kade,male,US,59,kade
+Le Maire straat,female,US,97,maire
+Le Tourmalet,null,null,null,null
+Lederambacht straat,null,null,null,null
+Leendert Schijveschuurder straat,male,NL,100,leendert
+Leendert Valstar hof,male,NL,100,leendert
+Leenhof straat,null,null,null,null
+Leerdam hof,female,NL,100,hof
+Leidse plein,female,FR,100,plein
+Leeuwarder weg,male,NL,100,weg
+Leeuwendalers pad,female,TH,52,pad
+Leeuwendalers weg,male,NL,100,weg
+Leeuwenhoek straat,null,null,null,null
+Leeuwenwerf,null,null,null,null
+Leeuwerik laan,female,US,65,laan
+Leeuwerik straat,null,null,null,null
+Leghorn straat,null,null,null,null
+Legmeer plein,female,FR,100,plein
+Legmeer straat,null,null,null,null
+Leibniz straat,male,US,67,leibniz
+Leidekkers steeg,null,null,null,null
+Leidsche Hand,male,NL,100,hand
+Leidsebosje,null,null,null,null
+Leidse gracht,male,NL,100,leidse
+Leidse kade,male,US,59,kade
+Leidsekruis straat,null,null,null,null
+Lindenhofje,null,null,null,null
+Linden straat,male,US,61,linden
+Marguerite Yourcenar straat,female,NL,100,marguerite
+Leidse straat,male,NL,100,leidse
+Leimuiden straat,null,null,null,null
+Lekkeresluis,null,null,null,null
+Leksmond hof,female,NL,100,hof
+Leksmond plein,female,FR,100,plein
+Lek straat,male,NL,100,lek
+Lelie gracht,female,ID,100,lelie
+Leliendaal straat,null,null,null,null
+Leliesluis,null,null,null,null
+Lemelerberg weg,male,NL,100,weg
+Lemoen pad,female,TH,52,pad
+Lente straat,female,NL,100,lente
+Leo Frijda hof,male,NL,98,leo
+Leo Heijdenrijk straat,male,NL,98,leo
+Leo Horn straat,male,NL,98,leo
+Leonard Springer brug,male,NL,100,leonard
+Leonardo straat,male,NL,100,leonardo
+Leopold straat,male,NL,100,leopold
+Lepelkruis straat,null,null,null,null
+Lepel straat,null,null,null,null
+Lesbos straat,null,null,null,null
+Letelier straat,male,BR,100,letelier
+Leusden hof,female,NL,100,hof
+Leuven straat,male,SG,100,leuven
+Levant kade,male,US,59,kade
+Levant plein,male,TR,88,levant
+Lex Althoff straat,male,NL,99,lex
+Libau-Eiland,female,US,100,eiland
+Lichter straat,null,null,null,null
+Licht straat,male,JP,69,licht
+Lidewijde pad,female,TH,52,pad
+Lido straat,male,NL,100,lido
+Liedekerke plantsoen,null,null,null,null
+Liefdesbruggetje,null,null,null,null
+Liefdesverklaring,null,null,null,null
+Lien Gisolf pad,female,TH,52,pad
+Lienden hof,female,NL,100,hof
+Linnaeusdwars straat,null,null,null,null
+Linnaeus hof,male,IR,100,linnaeus
+Locatelli kade,male,US,59,kade
+Lier gouw,female,ID,57,gouw
+Lies Bakhuyzen laan,female,NL,100,lies
+Liesdelsluis,null,null,null,null
+Lieven De Key straat,male,NL,100,lieven
+Lieven Keersemaker straat,male,NL,100,lieven
+Light brug,male,US,65,light
+Liguster hof,female,NL,100,hof
+Lijnbaans brug,male,PY,100,brug
+Lijnbaans gracht,null,null,null,null
+Lijnbaans steeg,null,null,null,null
+Lijnbaans straat,null,null,null,null
+Lijnden straat,null,null,null,null
+Lijnolie straat,null,null,null,null
+Lijsterbes laan,female,US,65,laan
+Lijster laan,female,US,65,laan
+Lijzijde,null,null,null,null
+Limburg hof,female,NL,100,hof
+Limmen straat,null,null,null,null
+Limmerick,null,null,null,null
+Lina Radke pad,female,TH,52,pad
+Lindekers straat,null,null,null,null
+Linde laan,female,NL,100,linde
+Linden gracht,male,US,61,linden
+Lindenhoeve straat,null,null,null,null
+Lindenhoeve weg,male,NL,100,weg
+Locomotief straat,null,null,null,null
+Linnaeus kade,male,US,59,kade
+Linnaeus pad,female,TH,52,pad
+Linnaeuspark weg,male,NL,100,weg
+Linnaeus plantsoen,male,IR,100,linnaeus
+Linnaeus straat,male,IR,100,linnaeus
+Lipari weg,male,TR,100,lipari
+Lippijn straat,null,null,null,null
+Lire straat,female,US,75,lire
+Lisdodde laan,female,US,65,laan
+Lise Meitner pad,female,TH,52,pad
+Litas weg,male,NL,100,weg
+Livorno straat,male,TR,100,livorno
+Lizzy Ansingh straat,female,NL,100,lizzy
+Lloyd plein,male,NL,100,lloyd
+Lobo-Braakensiek straat,male,NL,100,lobo
+Lodewijk Boisot straat,male,NL,100,lodewijk
+Lodewijk Van Deyssel straat,male,NL,65,van
+Lodewijk Van Duuren straat,male,NL,65,van
+Loefzijde,null,null,null,null
+Loenen dreef,null,null,null,null
+Loenermark,null,null,null,null
+Loenermark brug,male,PY,100,brug
+Loevestein,null,null,null,null
+Lof Der Zotheid brug,male,US,67,lof
+Logger hof,male,RU,50,logger
+Lohuis,null,null,null,null
+Lokeren straat,null,null,null,null
+Loman straat,male,ID,86,loman
+Lombardshofje,null,null,null,null
+Lombok straat,male,ID,81,lombok
+Lommel straat,male,BE,100,lommel
+Lommert brug,male,PY,100,brug
+Lomond laan,female,US,65,laan
+Lontarpalm straat,null,null,null,null
+Loodskotter hof,female,NL,100,hof
+Looiers gracht,null,null,null,null
+Lucien Gaudin straat,male,NL,94,lucien
+Ludovicus Immink pad,female,TH,52,pad
+Luik singel,male,MX,100,luik
+Loosdrecht dreef,null,null,null,null
+Loosduinen straat,null,null,null,null
+Loots straat,female,BE,100,loots
+Loowaard,null,null,null,null
+Lopik hof,female,NL,100,hof
+Lord Kelvin straat,male,NL,100,kelvin
+Lorentz laan,female,US,65,laan
+Lorreinen straat,null,null,null,null
+Lorrie straat,female,US,99,lorrie
+Los kade Riekerhaven,male,US,59,kade
+Lou Jansen plein,male,ID,96,jansen
+Louis Apol straat,male,NL,98,louis
+Louis Armstrong straat,male,NL,98,louis
+Louis Bouwmeester Straat,male,NL,98,louis
+Louis Bouwmeester straat,male,NL,98,louis
+Louis Chrispijn straat,male,NL,98,louis
+Louis Couperus straat,male,NL,98,louis
+Lumeij straat,null,null,null,null
+Maria Antonia Walpurgis laan,female,NL,100,maria
+Louis Davids straat,male,NL,98,louis
+Louis De Visser plein,male,NL,98,louis
+Louis J. Welter brug,male,NL,98,louis
+Louis Moor hof,male,NL,98,louis
+Louis Naarstig straat,male,NL,98,louis
+Louis Raemaekers straat,male,NL,98,louis
+Louis Schotting straat,male,NL,98,louis
+Louise Marie Loeber plantsoen,female,NL,100,louise
+Louise Went straat,female,NL,100,louise
+Louvre laan,female,US,65,laan
+Louweshoek,null,null,null,null
+Louwes weg,male,NL,100,weg
+Lucelle straat,female,PH,100,lucelle
+Pacaya straat,null,null,null,null
+LumièRe straat,female,MX,70,lumière
+Lupine laan,female,US,65,laan
+Lupine plein,female,US,75,lupine
+Lupine straat,female,US,75,lupine
+Lust hof,female,US,70,lust
+Luthuli plein,female,FR,100,plein
+Lutkemeer weg,male,NL,100,weg
+Lutma straat,null,null,null,null
+Luton hof,male,null,50,luton
+Luttenberg weg,male,NL,100,weg
+Luvernes,null,null,null,null
+Luyendijkje,null,null,null,null
+Luzac straat,null,null,null,null
+Lyceum brug,male,MX,100,lyceum
+LüBeck brug,male,PY,100,brug
+M. Berdenis Van Berlekom straat,male,NL,65,van
+M. Gandhi laan,female,US,65,laan
+M. Hanenberg straat,null,null,null,null
+M.C. Addicks straat,null,null,null,null
+M.J. Granpré MolièRe plein,female,FR,100,plein
+M.J.E. Lippits straat,null,null,null,null
+Ma Braun pad,female,TH,52,pad
+Maagdenpalm straat,null,null,null,null
+Maan straat,male,NL,100,maan
+Maarkedal pad,female,TH,52,pad
+Maarsen hof,female,NL,100,hof
+Maarten Harpertszoon Tromp straat,male,NL,100,maarten
+Maarten Jansz. Koster straat,male,NL,100,maarten
+Maasdriel hof,female,NL,100,hof
+Maaseik pad,female,TH,52,pad
+Maaseik straat,null,null,null,null
+Maasland straat,null,null,null,null
+Marco Polo straat,male,NL,99,marco
+Marcus straat,male,NL,100,marcus
+Marga Klompé Laan,female,NL,98,marga
+Maassluis straat,null,null,null,null
+Maas straat,male,NL,75,maas
+Madeira pad,female,TH,52,pad
+Madelieven straat,null,null,null,null
+Madura straat,male,LK,83,madura
+Magalhaens plein,female,FR,100,plein
+Magerhorst,null,null,null,null
+Magersfontein straat,null,null,null,null
+Magneet straat,null,null,null,null
+Magnolia laan,female,US,96,magnolia
+Magnolia straat,female,US,96,magnolia
+Mainhaven weg,male,NL,100,weg
+Majang brug,female,TH,100,majang
+Majoor Bosshardt brug,male,NL,100,majoor
+Majoor Frans weg,male,NL,100,frans
+Majoor Van Moerkerk pad,female,TH,52,pad
+Makassar plein,male,ID,88,makassar
+Makassar straat,male,ID,88,makassar
+Makelaarsbruggetje,null,null,null,null
+Margaret Bonds hof,female,NL,100,margaret
+Margot Fonteyn straat,female,NL,99,margot
+Margriete Van Cleve laan,male,US,99,cleve
+Malden hof,male,US,100,malden
+Malie baan,female,US,55,malie
+Malta weg,male,NL,100,malta
+Malus laan,female,US,65,laan
+Malva straat,female,CL,98,malva
+Mandarijnen straat,null,null,null,null
+Mandenmakers pad,female,TH,52,pad
+Mandenmakers steeg,null,null,null,null
+Manege straat,male,NL,50,manege
+Manenburg straat,null,null,null,null
+Manna De Wijs-Mouton hof,male,BE,67,mouton
+Maputo weg,male,MZ,100,maputo
+Marathon weg,male,US,69,marathon
+Marcanti laan,female,US,65,laan
+Marcellus Emants straat,male,NL,100,marcellus
+Marchant hof,male,ZA,100,marchant
+Maria Austria straat,female,NL,100,maria
+Maria Bes hof,female,NL,100,maria
+Maria Montessori straat,female,NL,100,maria
+Maria Sibylla Merian brug,female,NL,100,maria
+Maria SkłOdowska-Curie brug,female,NL,100,maria
+Maria Snel plantsoen,female,NL,100,maria
+Mariadistel kade,male,US,59,kade
+Mariahoeve pad,female,TH,52,pad
+Marianella straat,female,CR,99,marianella
+Marianne Hilarides plantsoen,female,NL,100,marianne
+Marianne Philips straat,female,NL,100,marianne
+Marie Altelaar plein,female,NL,100,marie
+Marie Baron laan,female,NL,100,marie
+Marie Heineken plein,female,NL,100,marie
+Marie Van Westerhoven straat,female,NL,100,marie
+Marieken Van Nimwegen straat,male,NL,65,van
+Marifoon weg,male,NL,100,weg
+Mariniers kade,male,US,59,kade
+Mariotte plein,female,FR,100,plein
+Mariotte straat,female,MY,100,mariotte
+Maritz straat,female,PH,86,maritz
+Marius Bauer plantsoen,male,NL,100,marius
+Marius Bauer straat,male,NL,100,marius
+Marius Meijboom straat,male,NL,100,marius
+Marius Van Bouw dijk Bastiaanse straat,male,NL,100,marius
+MariëNdaal,null,null,null,null
+Marjolein straat,female,NL,99,marjolein
+Markelerberg pad,female,TH,52,pad
+Marken gouw,female,ID,57,gouw
+Markengouwtunnel,null,null,null,null
+Marken plein,male,US,91,marken
+Marker veld,male,US,96,marker
+Markies pad,female,TH,52,pad
+Markon straat,male,ID,100,markon
+Mark singel,male,NL,99,mark
+Marmolada,null,null,null,null
+Marnix kade,male,US,59,kade
+Marnix plein,male,NL,100,marnix
+Marnix straat,male,NL,100,marnix
+Maroa straat,female,US,82,maroa
+Marquette,female,US,52,marquette
+Marskramer straat,null,null,null,null
+Marsman straat,male,NL,100,marsman
+Mars straat,male,NL,77,mars
+Martelaars gracht,null,null,null,null
+Marten Corver hof,male,NL,100,marten
+Martien Coppens hof,male,NL,94,martien
+Martin Ennals plein,male,NL,100,martin
+Martin Ennals straat,male,NL,100,martin
+Martin Luther King Park,male,NL,100,martin
+Martin Luther King laan,male,NL,100,martin
+Martin Luther King park,male,NL,100,martin
+Martin NiemöLler straat,male,NL,100,martin
+Martin Vlaar kade,male,NL,100,martin
+Martini Van Geffen straat,male,NL,65,van
+Martinus Jan Langeveld straat,male,NL,99,jan
+Nedersticht,null,null,null,null
+Mary Van Der Sluis straat,female,NL,100,mary
+Mary Wollstonecraft brug,female,NL,100,mary
+Mary Zeldenrust straat,female,NL,100,mary
+Mastbos,null,null,null,null
+Mast hof,male,ID,73,mast
+Mata Hari hof,female,ID,51,mata
+Mataram straat,male,ID,100,mataram
+Matenesse- Hof,female,NL,100,hof
+Mathijs Vermeulen pad,male,NL,100,mathijs
+Mathura straat,female,TH,100,mathura
+Matrozen hof,female,NL,100,hof
+Mattenbies straat,null,null,null,null
+Matterhorn,male,CH,50,matterhorn
+Mattheus Sladus hof,male,NL,100,mattheus
+Maurice Peeters pad,male,NL,99,maurice
+Maurice Ravel laan,male,NL,99,maurice
+Maurits Binger plantsoen,male,NL,100,maurits
+Maurits Kann straat,male,NL,100,maurits
+Maurits Sabbe hof,male,NL,100,maurits
+Meer pad,female,TH,52,pad
+Meester Treub laan,female,US,65,laan
+Methaan weg,male,NL,100,weg
+Maurits kade,male,US,59,kade
+Maurits straat,male,NL,100,maurits
+Mauve straat,male,TH,50,mauve
+Max De Haas straat,male,NL,99,max
+Max Euwe plein,male,NL,99,max
+Max Planck straat,male,NL,99,max
+Maxwell straat,male,NL,100,maxwell
+Mechelen singel,male,BE,50,mechelen
+Medemblik straat,null,null,null,null
+Meent straat,female,MY,100,meent
+Meer En Vaart,male,ID,67,vaart
+Meerhuizen plein,female,FR,100,plein
+Meerhuizen straat,null,null,null,null
+Meerkerk dreef,null,null,null,null
+Meerlucht laan,female,US,65,laan
+Meermont kade,male,US,59,kade
+Meern hof,female,NL,100,hof
+Menara hof,female,ID,69,menara
+Mendel hof,male,NL,100,mendel
+Meester Visser plein,male,NL,100,meester
+Meeuwen laan,female,US,65,laan
+Meeuwen plein,female,FR,100,plein
+Mendes Da Costa hof,male,NL,100,costa
+Menno Ter Braak straat,male,NL,99,menno
+Mensinge,null,null,null,null
+Metroplaats,null,null,null,null
+Metrostation Nieuwmarkt,null,null,null,null
+Rosy Wertheim straat,female,NL,100,rosy
+Meiberg dreef,null,null,null,null
+Metrostation Waterloo plein,male,BR,67,waterloo
+Oetgensdwars straat,null,null,null,null
+Meiberg pad,female,TH,52,pad
+Meidoorn plein,female,FR,100,plein
+Meidoorn weg,male,NL,100,weg
+Meimorgen straat,null,null,null,null
+Mekong weg,male,TH,70,mekong
+Melis Stoke hof,female,NL,81,melis
+Melkdistel straat,null,null,null,null
+Melkmeisjes brug,male,PY,100,brug
+Melk weg,male,BR,77,melk
+Melkweg brug,male,PY,100,brug
+Meloenen straat,null,null,null,null
+Melsbroek hof,female,NL,100,hof
+Memeleiland,null,null,null,null
+Memling straat,male,MX,100,memling
+Menado straat,null,null,null,null
+Mercator plein,female,FR,100,plein
+Mercator straat,null,null,null,null
+Merce Cunningham plantsoen,female,ES,95,merce
+Mercken burg,male,US,67,burg
+Mercurius plein,male,US,100,mercurius
+Mercurius straat,male,US,100,mercurius
+Merel pad,female,NL,100,merel
+Merel straat,female,NL,100,merel
+Merlijn straat,male,NL,81,merlijn
+Merwede plein,female,FR,100,plein
+Mesdag straat,null,null,null,null
+Messchaert straat,null,null,null,null
+Messina straat,male,NL,100,messina
+Metaalbewerker weg,male,NL,100,weg
+Meteoren singel,male,NL,100,singel
+Meteoren weg,male,NL,100,weg
+Midden weg,male,NL,100,weg
+Rotgans steeg,null,null,null,null
+Metrostation Weesper plein,female,FR,100,plein
+Metrostation Wibaut straat,null,null,null,null
+Metsel straat,null,null,null,null
+Mezen laan,female,US,65,laan
+Mezen straat,male,TN,100,mezen
+Mezquita laan,female,US,65,laan
+MichaëL plein,male,NL,100,michaël
+Michel De Klerk hof,male,NL,100,michel
+Michel Fokine straat,male,NL,100,michel
+Michel Foucault brug,male,NL,100,michel
+Michelangelo straat,male,NL,100,michelangelo
+Michiel De Ruijtertunnel,male,NL,100,michiel
+Middelhoff straat,null,null,null,null
+Middelie straat,null,null,null,null
+Middelveld straat,null,null,null,null
+Midden laan Zunder dorp,female,US,65,laan
+Middenmeer,null,null,null,null
+Middenmeer pad,female,TH,52,pad
+Middentunnel,null,null,null,null
+Midscheeps,null,null,null,null
+Midwoud pad,female,TH,52,pad
+Mien Labberton straat,female,NL,100,mien
+Mien Ruys brug,female,NL,100,mien
+Mije hof,male,MY,100,mije
+Mijnden hof,female,NL,100,hof
+Mikonos pad,female,TH,52,pad
+Millet straat,female,PH,82,millet
+Millingen hof,female,NL,100,hof
+Milovan Djilas plein,male,RS,99,milovan
+Milovan Djilas straat,male,RS,99,milovan
+Minahassa straat,null,null,null,null
+Minckelers straat,null,null,null,null
+Minervahaven weg,male,NL,100,weg
+Minerva laan,female,US,65,laan
+Minerva pad,female,TH,52,pad
+Minerva plein,female,FR,100,plein
+Minnemoers straat,null,null,null,null
+Mira plein,female,NL,100,mira
+Moddermolen brug,male,PY,100,brug
+Moddermolen straat,null,null,null,null
+Modelmaker straat,null,null,null,null
+Modem straat,male,ID,60,modem
+Moeder Alacoque brug,female,BE,80,moeder
+Moederkruid straat,null,null,null,null
+Moeras pad,female,TH,52,pad
+Moerbeien straat,null,null,null,null
+Moerbeke,null,null,null,null
+Moerdijk straat,null,null,null,null
+Moermansk kade,male,US,59,kade
+Moersbergen,null,null,null,null
+Moestuin laan,female,US,65,laan
+Moezelhaven weg,male,NL,100,weg
+Moker straat,male,SA,100,moker
+Molen 'T Haasje pad,female,TH,52,pad
+Molenaars weg,male,NL,100,weg
+Molen gouw,female,ID,57,gouw
+Molen kade,male,US,59,kade
+Molen pad,female,TH,52,pad
+Molen steeg,male,NL,67,molen
+Molenwerf,null,null,null,null
+Molenwijk,null,null,null,null
+Mol steeg,male,NL,100,mol
+Molukken straat,null,null,null,null
+Molukken straat (Insulinde weg),null,null,null,null
+Mona Gowan pad,female,TH,52,pad
+Mondlane straat,null,null,null,null
+Monitor straat,male,ES,100,monitor
+Nieuwmarkt,null,null,null,null
+Monnikendammer plantsoen,null,null,null,null
+Monnikendammer weg,male,NL,100,weg
+Monniken straat,null,null,null,null
+Monnikskap straat,null,null,null,null
+Mont Blanc plein,female,MX,59,mont
+Mont Ventoux pad,female,MX,59,mont
+Monte Adi,male,US,93,monte
+Monte Perdido,male,US,93,monte
+Monte Rosa plein,male,US,93,monte
+Montefiore park,female,NL,60,park
+Montelbaans brug,male,PY,100,brug
+Montelbaan straat,null,null,null,null
+Montferland straat,null,null,null,null
+Montfoort hof,female,NL,100,hof
+Moreelse straat,null,null,null,null
+Morellen straat,null,null,null,null
+Morra hof,female,ID,55,morra
+Mortel straat,male,PH,100,mortel
+Mos plein,female,FR,100,plein
+Mos straat,male,NL,50,mos
+Mosterdpot steeg,null,null,null,null
+Mos veld,male,CA,75,veld
+Motor kade,male,US,59,kade
+Motorwal,null,null,null,null
+Mouthaan steeg,null,null,null,null
+Mozart kade,male,US,59,kade
+Mozes En AäRon straat,male,NL,100,mozes
+Mr. J.J. Van Der Velde brug,male,NL,65,van
+Ms. Oslofjord weg,male,NL,100,weg
+Ms. Tarn weg,female,TH,92,tarn
+Ms. Van Riemsdijk weg,male,NL,65,van
+Mt. Lincoln weg,male,BR,98,lincoln
+Mubretia laan,female,US,65,laan
+Muiderberg brug,male,PY,100,brug
+Muider straat,null,null,null,null
+Muntberg weg,male,NL,100,weg
+Muntendam straat,null,null,null,null
+Munt plein,male,BE,50,munt
+Murillo straat,male,NL,100,murillo
+Museum plein,female,US,73,museum
+Museum straat,female,US,73,museum
+Mussen straat,null,null,null,null
+Muurbloem straat,null,null,null,null
+Muur weg,male,NL,100,weg
+Muzen plein,female,FR,100,plein
+MáRia Telkes straat,female,HU,100,mária
+N. Lansdorp straat,null,null,null,null
+Naaldwijk straat,null,null,null,null
+Naardermeer straat,null,null,null,null
+Nachtegaal laan,female,US,65,laan
+Nachtegaal straat,male,NL,100,nachtegaal
+Nachtwacht laan,female,US,65,laan
+Nadezjda Mandelstam straat,female,NL,100,nadezjda
+Nadia En Lili Boulanger plantsoen,female,NL,100,nadia
+Nadir straat,male,NL,100,nadir
+Nadorst steeg,null,null,null,null
+Nageljongen straat,null,null,null,null
+Nannie Van Wehl straat,male,NL,65,van
+Nanno plein,male,NL,100,nanno
+Narita weg,female,NL,100,narita
+Narva-Eiland,male,US,50,narva
+Narwal straat,male,ID,100,narwal
+Ndsm- Plein,female,FR,100,plein
+Ndsm- Straat,null,null,null,null
+Nieuwpoort kade,male,US,59,kade
+Onze Lieve Vrouwe steeg,female,NL,96,lieve
+Nassau kade,male,US,59,kade
+Nassau plein,male,US,73,nassau
+Nathan F. IsraëL weg,male,NL,100,nathan
+Ndsm- Kade,male,US,59,kade
+Nederhoven,null,null,null,null
+Pieter Van Der Does straat,male,NL,100,pieter
+Neerkanne,null,null,null,null
+Neerlandia plein,female,FR,100,plein
+Nellestein pad,female,TH,52,pad
+Nellie Bodenheim straat,female,NL,100,nellie
+Nellie Van Kol straat,male,NL,65,van
+Nelson Mandela park,male,NL,94,nelson
+Nemesia laan,female,US,65,laan
+Neptunus plein,female,FR,100,plein
+Neptunus straat,male,EC,100,neptunus
+Nepveu straat,null,null,null,null
+Nes,female,NL,75,nes
+Nescio brug,male,PY,100,brug
+Nesserhoek,null,null,null,null
+Nesserland,null,null,null,null
+Nesserton,null,null,null,null
+Netwerk weg,male,NL,100,weg
+Nias straat,female,ID,69,nias
+Nibbixwoud straat,null,null,null,null
+Nic. De Roever straat,male,NL,68,nic
+Nickerie straat,null,null,null,null
+Nieuw Herlaer,female,NL,100,nieuw
+Nico Broekhuysen weg,male,NL,100,nico
+Nico Jesse kade,male,NL,100,nico
+Nico Snijders straat,male,NL,100,nico
+Nico Van Suchtelen hof,male,NL,100,nico
+Nicolaas Anslijn straat,male,NL,100,nicolaas
+Nicolaas Beets plantsoen,male,NL,100,nicolaas
+Nicolaas Beets straat,male,NL,100,nicolaas
+Nicolaas Berchem straat,male,NL,100,nicolaas
+Nicolaas Henneman hof,male,NL,100,nicolaas
+Nicolaas Japikse straat,male,NL,100,nicolaas
+Nicolaas Maes straat,male,NL,100,nicolaas
+Nicolaas Ruychaver straat,male,NL,100,nicolaas
+Nicolaas Tetterode straat,male,NL,100,nicolaas
+Nicolaas Witsen kade,male,US,59,kade
+Nicolaas Witsen straat,male,NL,100,nicolaas
+Niek Engelschman brug,male,NL,99,niek
+Nienke Van Hichtum straat,female,NL,100,nienke
+Nierkerke straat,null,null,null,null
+Niers straat,null,null,null,null
+Nieuwe Houttuinen,male,NL,100,nieuwe
+Nieuwe Jonker straat,male,MX,100,jonker
+Nieuw-Zeeland weg,female,NL,100,nieuw
+Nieuwe Achter gracht,male,NL,100,nieuwe
+Nieuwe Aker weg,male,TR,95,aker
+Nieuwe Amstel brug,male,CO,100,amstel
+Nieuwe Amstel straat,male,CO,100,amstel
+Nieuwe Amsterdamse weg,male,NL,100,nieuwe
+Nieuwe Batavier straat,male,NL,100,nieuwe
+Nieuwe Doelen straat,male,NL,100,nieuwe
+Nieuwe Egelantiers straat,male,NL,100,nieuwe
+Nieuwe Foelie straat,male,NL,100,nieuwe
+Nieuwe Gang,male,US,89,gang
+Nieuwe Gieters straat,male,NL,100,nieuwe
+Nieuwe Gouw,female,ID,57,gouw
+Nieuwe Haagse weg,male,NL,100,nieuwe
+Nieuwe Hem weg,male,IN,81,hem
+Nieuwe Heren gracht,male,US,67,heren
+Nieuwe Hoog straat,male,NL,100,nieuwe
+Nieuwe Keizers gracht,male,NL,100,nieuwe
+Nieuwe Kerk straat,male,MY,80,kerk
+Nieuwe Laan,female,US,65,laan
+Nieuwe Leeuwarder weg,male,NL,100,nieuwe
+Nieuwe Lelie straat,female,ID,100,lelie
+Nieuwe Looiersdwars straat,male,NL,100,nieuwe
+Nieuwe Looiers straat,male,NL,100,nieuwe
+Nieuwe Maan straat,male,NL,100,nieuwe
+Nieuwe Meer pad,female,TH,52,pad
+Nieuwe Nieuw straat,male,NL,100,nieuwe
+Nieuwe Oostenburgerdwars straat,male,NL,100,nieuwe
+Nieuwe Oostenburger straat,male,NL,100,nieuwe
+Nieuwe Oostenburgervoor straat,male,NL,100,nieuwe
+Nieuwe Osdorper gracht,male,NL,100,nieuwe
+Pieter Van Der Meulen hof,male,NL,100,pieter
+Nieuwe Prinsen gracht,male,NL,100,nieuwe
+Nieuwe Purmer weg,male,NL,100,nieuwe
+Nieuwe Ridder straat,male,NL,100,nieuwe
+Nieuwe Schermer straat,male,NL,100,nieuwe
+Nieuwe Sint Pieterspoort,male,NL,100,nieuwe
+Nieuwe Spaarpot steeg,male,NL,100,nieuwe
+Nieuwe Spiegel straat,male,US,83,spiegel
+Nieuwe Teertuinen,male,NL,100,nieuwe
+Nieuwe Tuin straat,male,BE,75,tuin
+Nieuwe Uilenburger straat,male,NL,100,nieuwe
+Nieuwe Utrechtse weg,male,NL,100,nieuwe
+Nieuwe Vijzel straat,male,NL,100,nieuwe
+Nieuwe Wagen straat,male,ID,100,wagen
+Nieuwenhuysen straat,null,null,null,null
+Nieuwerhoek,null,null,null,null
+Nieuwpoort straat,null,null,null,null
+Nieuwe Westerdok straat,male,NL,100,nieuwe
+Nieuwe Wetering straat,male,NL,100,nieuwe
+Nieuwe Willems straat,male,NL,100,nieuwe
+Nieuwe Zonne weg,male,NL,100,nieuwe
+Nieuwe-Hoofd hof,male,NL,100,nieuwe
+Nieuwe-Wercks brug,male,NL,100,nieuwe
+Nieuwebrug steeg,null,null,null,null
+Nieuwegein laan,female,US,65,laan
+Nieuwegrachtje,null,null,null,null
+Nieuwendammer Molen pad,female,TH,52,pad
+Nieuwendammer Sluis pad,female,TH,52,pad
+Nieuwendammer dijk,male,NL,100,dijk
+Nieuwendammer kade,male,US,59,kade
+Nieuwendammer straat,null,null,null,null
+Nieuwen dijk,male,NL,100,dijk
+Nieuwersluis hof,female,NL,100,hof
+Nieuwevaart,null,null,null,null
+Nieuwevaart kade,male,US,59,kade
+Nieuwevaart weg,male,NL,100,weg
+Nieuwezijds Arm steeg,male,NL,100,arm
+Nieuwezijds Kolk,null,null,null,null
+Nieuwezijds Voorburgwal,null,null,null,null
+Nieuwland hof,female,NL,100,hof
+Noordsche Compagnie brug,male,FR,100,compagnie
+Niftrik hof,female,NL,100,hof
+Nigelle straat,female,US,80,nigelle
+Nigtevecht hof,female,NL,100,hof
+Nijen burg,male,US,67,burg
+Nijlpaarden brug,male,PY,100,brug
+Nilda Pinto straat,female,NL,100,nilda
+Nimrod,male,NL,100,nimrod
+Ninette De Valois kade,male,US,59,kade
+Nirwana,female,ID,80,nirwana
+Nisser straat,null,null,null,null
+Nobel weg,male,ID,86,nobel
+Nolens straat,male,PL,100,nolens
+Noord,null,null,null,null
+Noord-Beveland straat,null,null,null,null
+Noorder Ij dijk,male,NL,100,dijk
+Noorder Valdeur,null,null,null,null
+Noorderaker weg,male,NL,100,weg
+Noordwal,null,null,null,null
+Noordzeekanaal weg,male,NL,100,weg
+Oetewaler pad,female,TH,52,pad
+Noorderbreedte,null,null,null,null
+Noorderdwars straat,null,null,null,null
+Noorderhaaks pad,female,TH,52,pad
+Noorderhoofd,null,null,null,null
+Noorderkerk straat,null,null,null,null
+Noorderkroon straat,null,null,null,null
+Noordermarkt,null,null,null,null
+Noorder park,female,NL,60,park
+Noorder straat,null,null,null,null
+Noordhollandschkanaal dijk,male,NL,100,dijk
+Noordholland straat,null,null,null,null
+Noordkaper weg,male,NL,100,weg
+Noordzee weg,male,NL,100,weg
+Noordzijde,null,null,null,null
+Notarisappel straat,null,null,null,null
+Notenboom laan,female,US,65,laan
+Noten straat,null,null,null,null
+Not weg,male,NL,100,not
+Nova Zembla straat,female,NL,71,nova
+Nuldernauw pad,female,TH,52,pad
+Obi plein,female,FR,100,plein
+Oceanen weg,male,NL,100,weg
+Ochten hof,female,NL,100,hof
+Octaan weg,male,NL,100,weg
+Ode brug,female,NL,100,ode
+Oder weg,male,US,100,oder
+Oermilla Tewarie straat,null,null,null,null
+Oesjesduiker,null,null,null,null
+Oetewaler straat,null,null,null,null
+Oeverlanden weg,male,NL,100,weg
+Oever pad,female,TH,52,pad
+Ogentroost straat,null,null,null,null
+Ohm straat,male,NL,100,ohm
+Okeghem straat,null,null,null,null
+Oldambt straat,null,null,null,null
+Oldengaarde,null,null,null,null
+Oleander straat,male,GB,60,oleander
+Olga De Haas straat,female,NL,99,olga
+Oliepalm straat,null,null,null,null
+Olieslagers steeg,null,null,null,null
+Olifantswerf,null,null,null,null
+Oliphants brug,male,PY,100,brug
+Olmen laan,female,US,65,laan
+Olof Palme plein,male,TH,58,palme
+Oltmans straat,null,null,null,null
+Olympia kade,male,US,59,kade
+Oogst straat,null,null,null,null
+Ooievaar pad,female,TH,52,pad
+Ooievaars weg,male,NL,100,weg
+Rotterdammer brug,male,PY,100,brug
+Olympia plein,female,NL,100,olympia
+Olympia straat,female,NL,100,olympia
+Olympia weg,female,NL,100,olympia
+Olympisch Stadion,null,null,null,null
+Ombilin straat,null,null,null,null
+Ommegang,male,US,100,ommegang
+Ommeren hof,female,NL,100,hof
+Omval,null,null,null,null
+Onbekende gracht,null,null,null,null
+Onderlangs,null,null,null,null
+Onkelboeren steeg,null,null,null,null
+Onsenoort,null,null,null,null
+Onstein,null,null,null,null
+Ookmeer weg,male,NL,100,weg
+Oossaander Hoop,male,US,72,hoop
+Oost,male,ID,100,oost
+Oost 1,male,ID,100,oost
+Oost-Indische Huis brug,male,NL,100,huis
+Oostakker straat,null,null,null,null
+Oosteinde,null,null,null,null
+Oosterse kade,male,US,59,kade
+Oostelijke Handels kade,male,US,59,kade
+Oostenburgerdwars straat,null,null,null,null
+Oostenburger gracht,null,null,null,null
+Oostenburgermidden straat,null,null,null,null
+Oostenburger park,female,NL,60,park
+Oostenburgervoor straat,null,null,null,null
+Ooster Ring dijk,male,NL,100,dijk
+Oosterdok,null,null,null,null
+Oosterdoksdraai brug,male,PY,100,brug
+Oudaen,female,NL,100,oudaen
+Pieter Van Der Werf straat,male,NL,100,pieter
+Oosterdoks kade,male,US,59,kade
+Oosterdoks straat,null,null,null,null
+Oosterend straat,null,null,null,null
+Oosterlengte,null,null,null,null
+Oostermeer straat,null,null,null,null
+Ooster park,female,NL,60,park
+Oosterring dijk,male,NL,100,dijk
+Oosterspoor plein,female,FR,100,plein
+Oostertoegang,null,null,null,null
+Oosthuizen straat,null,null,null,null
+Oostoever,null,null,null,null
+Oosttunnel,null,null,null,null
+Oostzaan straat,null,null,null,null
+Oostzaner dijk,male,NL,100,dijk
+Oostzee weg,male,NL,100,weg
+Opdijk straat,null,null,null,null
+Openhart steeg,null,null,null,null
+Ophemert hof,female,NL,100,hof
+Ouddiemer laan,female,US,65,laan
+Opheusden hof,female,NL,100,hof
+Opijnen hof,female,NL,100,hof
+Opmerkzaam,null,null,null,null
+Opperdoes pad,female,TH,52,pad
+Oranje Nassau laan,female,US,65,laan
+Oranje-Vrijstaat kade,male,US,59,kade
+Oranje brug,male,NL,100,oranje
+Oranje laan,female,US,65,laan
+Oranje plantsoen,male,NL,100,oranje
+Orgeldraaiers pad,female,TH,52,pad
+Orion plantsoen,male,NL,100,orion
+Orion straat,male,NL,100,orion
+Orkney pad,female,TH,52,pad
+Oude Braak,male,KW,100,braak
+Oude Doelen straat,female,NL,100,oude
+Orly plein,female,FR,100,plein
+Ornstein straat,male,RO,100,ornstein
+Ortelius kade,male,US,59,kade
+Ortelius pad,female,TH,52,pad
+Ortelius straat,null,null,null,null
+Ortler,null,null,null,null
+Osdorper Ban,male,NL,100,ban
+Oude Haagse weg,female,NL,100,oude
+Oude Hoog straat,female,NL,100,oude
+Osdorper weg,male,NL,100,weg
+Osdorp plein,female,FR,100,plein
+Ossenspook steeg,null,null,null,null
+Ostwald straat,male,CR,100,ostwald
+Otopeni weg,male,RO,100,otopeni
+Ottho Heldring straat,male,US,100,ottho
+Oturia,null,null,null,null
+Ouborg,null,null,null,null
+Oudekerks plein,female,FR,100,plein
+Oudemanhuispoort,null,null,null,null
+Oudenaarde plantsoen,null,null,null,null
+Oudenrijn laan,female,US,65,laan
+Ouderkerker dijk,male,NL,100,dijk
+Oudeschans,null,null,null,null
+Oudezijds Achterburgwal,null,null,null,null
+Oudezijds Arm steeg,male,NL,100,arm
+Oudezijds Kolk,null,null,null,null
+Oudezijds Voorburgwal,null,null,null,null
+Oudorper straat,null,null,null,null
+Ouwerdingen pad,female,TH,52,pad
+Overamstel straat,null,null,null,null
+Pieter Vlaming straat,male,NL,100,pieter
+Overbraker pad,female,TH,52,pad
+Overdam,null,null,null,null
+Overdiemer weg,male,NL,100,weg
+Overflakkee straat,null,null,null,null
+Overhaalsgang,null,null,null,null
+Overhaal straat,null,null,null,null
+Overhoekspark laan,female,US,65,laan
+Overleg,null,null,null,null
+Overpelt straat,null,null,null,null
+Overschie straat,female,NL,100,overschie
+Oversinge,null,null,null,null
+Overslag,null,null,null,null
+Overslag hof,female,NL,100,hof
+ Pad Achter Volkstuin Lissabon,female,TH,52,pad
+Padang straat,male,ID,78,padang
+Paerlduiker,null,null,null,null
+Pakinge hof,female,NL,100,hof
+Paladru hof,female,NL,100,hof
+Palamedes straat,male,GB,100,palamedes
+Paleis straat,female,NL,100,paleis
+Palembang straat,male,ID,100,palembang
+Palestrina straat,null,null,null,null
+Palet straat,male,TR,86,palet
+Palmdwars straat,null,null,null,null
+Overtoom,null,null,null,null
+Overveen straat,null,null,null,null
+Overvoorde,null,null,null,null
+Overzicht weg,female,NL,100,overzicht
+P Amstel park,female,NL,60,park
+P+R Zee burg I,male,US,67,burg
+P. Dijkstra plein,female,FR,100,plein
+P. Hans Frankfurther singel,male,NL,99,hans
+P. Lieftinck straat,null,null,null,null
+P.E. Tegelberg plein,female,FR,100,plein
+P.J. Oud straat,male,NL,50,oud
+P.L. Marnette straat,female,US,100,marnette
+P5 Villa Arena,female,NL,63,villa
+Pa Sem brug,male,NL,92,sem
+Paalberg weg,male,NL,100,weg
+Paardekraal straat,null,null,null,null
+Paarden straat,null,null,null,null
+Paasheuvel weg,male,NL,100,weg
+Paavo Nurmi pad,male,FI,99,paavo
+Palm gracht,male,NL,100,palm
+Palm straat,male,NL,100,palm
+Paltrok,null,null,null,null
+Pamir straat,male,TR,90,pamir
+Pampus laan,female,US,65,laan
+Panama kade,male,US,59,kade
+Panama laan,female,US,65,laan
+Panchuli steeg,null,null,null,null
+Pancras straat,male,NL,100,pancras
+Pandim steeg,null,null,null,null
+Pandorina straat,null,null,null,null
+Pannerden straat,null,null,null,null
+Pantograaf straat,null,null,null,null
+Papaverhoek,null,null,null,null
+Polanen hof,female,NL,100,hof
+Papaver weg,male,PH,100,papaver
+Papenbroeks steeg,null,null,null,null
+Papenbrug steeg,null,null,null,null
+Papendrecht straat,null,null,null,null
+Papiermolensluis,null,null,null,null
+Papier weg,male,ID,80,papier
+Paradijsappel straat,null,null,null,null
+Paradijs plein,female,FR,100,plein
+Paradiso,female,NL,100,paradiso
+Paramaribo plein,female,FR,100,plein
+Paramaribo straat,null,null,null,null
+Parel straat,male,NL,100,parel
+Park hof,female,NL,60,park
+Parlevinker,null,null,null,null
+Parlevinker pad,female,TH,52,pad
+Parmenides straat,male,LV,50,parmenides
+Pazzani straat,null,null,null,null
+Peel straat,male,BE,57,peel
+Pegasus straat,male,US,73,pegasus
+Scharenslijpers pad,female,TH,52,pad
+Parnassus weg,male,US,100,parnassus
+Paros straat,male,GR,75,paros
+Parthenon hof,female,BR,100,parthenon
+Pascal straat,male,NL,97,pascal
+Passage 2,female,TR,67,passage
+Passage 3,female,TR,67,passage
+Passeerders gracht,null,null,null,null
+Passeerders straat,null,null,null,null
+Passtukken pad,female,TH,52,pad
+Pastel straat,female,TH,59,pastel
+Pasteur straat,male,US,85,pasteur
+Pasubio,null,null,null,null
+Pater Van Kilsdonk brug,male,NL,65,van
+Paternoster steeg,male,BE,50,paternoster
+Paters laan,female,US,65,laan
+Patrice Lumumba straat,male,NL,50,patrice
+Patroclos straat,null,null,null,null
+Paul Huf kade,male,NL,100,paul
+Paul Scholten straat,male,NL,100,paul
+Paul Schuitema hof,male,NL,100,paul
+Paul Van Vlissingen straat,male,NL,100,paul
+Paulus Potter straat,male,TH,80,potter
+Paulus Van Hemert straat,male,NL,65,van
+Pauwels-Van Biene straat,male,NL,65,van
+Pauwen pad,female,TH,52,pad
+Scharrebiersluis,null,null,null,null
+Peilscheidings kade,male,US,59,kade
+Pekelharing straat,null,null,null,null
+Pelerin,null,null,null,null
+Pelikaan brug,female,NL,100,pelikaan
+Pelikaan straat,female,NL,100,pelikaan
+Pelister steeg,female,TR,100,pelister
+Penninks hof,female,NL,100,hof
+Penny hof,female,NL,100,penny
+Penseel straat,null,null,null,null
+Pentagon,male,GB,50,pentagon
+Peper straat,male,NL,50,peper
+Pepijn pad,male,NL,99,pepijn
+Peren pad,female,TH,52,pad
+Pernau brug,male,PY,100,brug
+Perseus straat,male,PH,95,perseus
+Persijn,male,NL,100,persijn
+Pers straat,male,TR,69,pers
+Perzik straat,null,null,null,null
+Peseta laan,female,US,65,laan
+Pestalozzi hof,female,NL,100,hof
+Pesthuys brug,male,PY,100,brug
+Petemayen brug,male,PY,100,brug
+Peter Schat straat,male,NL,100,peter
+Peter Van Anrooy straat,male,NL,100,peter
+Peter Wotke hof,male,NL,100,peter
+Petmolen,null,null,null,null
+Pieter Langendijk straat,male,NL,100,pieter
+Polanen straat,null,null,null,null
+Petroleumhaven weg,male,NL,100,weg
+Petrus Blok hof,male,TR,83,blok
+Petten straat,null,null,null,null
+Peursum straat,null,null,null,null
+Philip Bloemendal brug,male,NL,100,philip
+Philip Vingboons straat,male,NL,100,philip
+Piarco plein,female,FR,100,plein
+Pieneman straat,null,null,null,null
+Pier Afrika,female,MX,72,afrika
+Pramen pad,female,TH,52,pad
+Pier Amerika,female,MX,85,amerika
+Pier Azië,male,NL,100,pier
+Pier Europa,female,US,52,europa
+Pier Pander straat,male,NL,100,pier
+Pierre Cuypers hof,male,NL,100,pierre
+Pierre Lallement straat,male,NL,100,pierre
+Piet Dickentman brug,male,NL,99,piet
+Piet Gijzenbrug straat,male,NL,99,piet
+Piet Hein Garage,male,NL,99,piet
+Piet Hein kade,male,US,59,kade
+Pieter Lastman kade,male,NL,100,pieter
+Pieter Lodewijk Tak straat,male,NL,100,pieter
+Pieter Oosterhuis straat,male,NL,100,pieter
+Pieter Oosterlee hof,male,NL,100,pieter
+Pieter Pauw straat,male,NL,100,pieter
+Pieter Post pad,male,NL,100,pieter
+Piet Heintunnel,male,NL,99,piet
+Piet Ikelaar pad,male,NL,99,piet
+Piet Kranenberg pad,male,NL,99,piet
+Piet Laroo straat,male,NL,99,piet
+Piet Meerburg brug,male,NL,99,piet
+Piet Moeskops pad,male,NL,99,piet
+Piet Moes pad,male,NL,99,piet
+Piet Mondriaan plein,male,NL,99,piet
+Piet Mondriaan straat,male,NL,99,piet
+Piet Nak straat,male,NL,99,piet
+Piet Paaltjens pad,male,NL,99,piet
+Piet Peelen brug,male,NL,99,piet
+Piet Wiedijk straat,male,NL,99,piet
+Piet Zwart hof,male,NL,99,piet
+Pieter Post singel,male,NL,100,pieter
+Scharwouder straat,null,null,null,null
+Pieter A. Van Heijninge straat,male,NL,100,pieter
+Pieter Aertsz straat,male,NL,100,pieter
+Pieter Bast straat,male,NL,100,pieter
+Pieter Boorsma pad,male,NL,100,pieter
+Pieter Bor straat,male,NL,100,pieter
+Pieter Caland laan,male,NL,100,pieter
+Pieter Caland plantsoen,male,NL,100,pieter
+Pieter Cornelisz. Hooft straat,male,NL,100,pieter
+Pieter De Hooch straat,male,NL,100,pieter
+Pieter Jacobszdwars straat,male,NL,100,pieter
+Pieter Jacobsz straat,male,NL,100,pieter
+Pieter Weers pad,male,NL,100,pieter
+Pieter Zeeman laan,male,NL,100,pieter
+Pietersberg weg,male,NL,100,weg
+Pigment straat,male,GE,100,pigment
+Pijlkruid straat,null,null,null,null
+Pijl steeg,null,null,null,null
+Pikolet straat,null,null,null,null
+Pilatus,null,null,null,null
+Pilau brug,male,GB,50,pilau
+Piloten straat,null,null,null,null
+Pina Bausch plein,female,FR,100,plein
+Pinas straat,male,BE,67,pinas
+Pindos pad,female,TH,52,pad
+Pindos weg,male,NL,100,weg
+Pinksterbloem straat,null,null,null,null
+Pioenen laan,female,US,65,laan
+Piraeus plein,female,FR,100,plein
+Piri Reis plein,male,TR,71,piri
+Pirin steeg,female,US,62,pirin
+Pirola straat,male,IT,50,pirola
+Pisuisse hof,female,NL,100,hof
+Plaatwerker straat,null,null,null,null
+Plancius straat,null,null,null,null
+Planeten plein,female,FR,100,plein
+Planeten straat,null,null,null,null
+Plantage Bad laan,female,US,65,laan
+Plantage Dok laan,female,US,65,laan
+Plantage Kerk laan,male,MY,80,kerk
+Plantage Lepel laan,female,US,65,laan
+Plantage Midden laan,female,US,65,laan
+Plantage Muider gracht,null,null,null,null
+Plantage Park laan,female,US,65,laan
+Plantage Westerman laan,female,US,65,laan
+Plantage kade,male,US,59,kade
+Platanen weg,male,NL,100,weg
+Platenwagen weg,male,NL,100,weg
+Plato straat,male,US,73,plato
+Pleimuiden,null,null,null,null
+ Plein '40-'45,female,FR,100,plein
+Reinaert De Vos straat,male,NL,100,vos
+ Plein Spanje '36-'39,female,FR,100,plein
+Plejaden plein,female,FR,100,plein
+Plejaden weg,male,NL,100,weg
+Plesman laan,female,US,65,laan
+Pleso straat,null,null,null,null
+Plimsoll weg,male,NL,100,weg
+Ploeg straat,null,null,null,null
+Plotter straat,male,CL,100,plotter
+Plutarchus straat,null,null,null,null
+Pluto straat,male,TH,76,pluto
+Pluvier plein,female,FR,100,plein
+Pluvier straat,male,PK,100,pluvier
+Poederooien straat,null,null,null,null
+Poeldijk straat,null,null,null,null
+Poentunnel,null,null,null,null
+Poggenbeek straat,null,null,null,null
+Polder weg,male,TR,100,polder
+Polijster weg,male,NL,100,weg
+Pollux plein,male,ID,90,pollux
+Pollux straat,male,ID,90,pollux
+Polonceau- Kade,male,US,59,kade
+Polsbroek straat,null,null,null,null
+Polygoon gracht,null,null,null,null
+Pomona straat,female,US,100,pomona
+Pompman straat,null,null,null,null
+Pond Sterling laan,male,US,87,sterling
+Ponser straat,null,null,null,null
+Pontanus straat,null,null,null,null
+Pont plein,male,TH,65,pont
+Pontsteiger,null,null,null,null
+Poolster straat,null,null,null,null
+Pool straat,male,US,90,pool
+Poortland,null,null,null,null
+Purmer hof,female,NL,100,hof
+Reinhard Dozy hof,male,ID,50,dozy
+Poppendammer gouw,female,ID,57,gouw
+Populieren laan,female,US,65,laan
+Populieren weg,male,NL,100,weg
+Populier straat,null,null,null,null
+Portengen straat,null,null,null,null
+Portsmuiden,null,null,null,null
+Posbank pad,female,TH,52,pad
+Postje Van Gerrit Vreling,male,NL,99,gerrit
+Postjes kade,male,US,59,kade
+Postjes weg,male,NL,100,weg
+Potgieter straat,null,null,null,null
+Potvis straat,null,null,null,null
+Prado laan,male,BR,62,prado
+Raam straat,male,IN,94,raam
+Prater laan,female,US,65,laan
+Preanger straat,null,null,null,null
+Presanella,null,null,null,null
+President Allende laan,male,US,79,president
+President Brand straat,male,US,79,president
+President Kennedy plantsoen,male,BR,75,kennedy
+President Steyn plantsoen,male,US,79,president
+President Steyn straat,male,US,79,president
+Pretorius straat,null,null,null,null
+Prikneus,null,null,null,null
+Princes Dock straat,male,US,88,dock
+Prins Bernhard plein,male,NL,93,bernhard
+Professor J.H. Gunning straat,male,US,89,professor
+Professor Oranje straat,male,US,89,professor
+Profilti gracht,null,null,null,null
+Programmeur straat,null,null,null,null
+Prins Hendrik kade,male,US,59,kade
+Prins Hendrik laan,male,NL,98,hendrik
+Prinseneiland,null,null,null,null
+Propaan weg,male,NL,100,weg
+Propeller straat,female,RU,100,propeller
+Psychiatrisch,null,null,null,null
+Puck Van Duyne Brouwer brug,male,NL,65,van
+Raasdorper weg,male,NL,100,weg
+Rachel Ruysch brug,female,NL,99,rachel
+Prinsen gracht,male,NL,100,prinsen
+Prinsenhofs steeg,null,null,null,null
+Prinsenliefhebbersgang,null,null,null,null
+Prinsensluis,null,null,null,null
+Prinsen straat,male,NL,100,prinsen
+Prinses Amalia plein,female,NL,100,amalia
+Prinses Irene straat,female,NL,100,irene
+Prinses Margriet straat,female,NL,100,margriet
+Prinses Marijke straat,female,NL,100,marijke
+Printer straat,male,TH,59,printer
+Processor straat,male,ID,100,processor
+Prof. H. Bavinck straat,male,TR,90,prof
+Prof. Ph. Kohnstamm straat,male,TR,90,prof
+Prof. R. Casimir straat,male,TR,90,prof
+Prof. Tulp plein,male,TR,90,prof
+Provinciale weg,female,BE,100,provinciale
+Puiflijk pad,female,TH,52,pad
+Pumori plein,female,FR,100,plein
+Punters pad,female,TH,52,pad
+Purmer plein,female,FR,100,plein
+Purmer weg,male,NL,100,weg
+Purperhoedenveem,null,null,null,null
+Putten pad,female,TH,52,pad
+Putter plantsoen,male,NL,100,putter
+Putter straat,male,NL,100,putter
+PyreneeëN,null,null,null,null
+Pythagoras straat,male,BR,100,pythagoras
+Quellijn straat,null,null,null,null
+Quinten Massijs straat,male,NL,100,quinten
+R. Castelijn straat,null,null,null,null
+R.J.H. Fortuyn plein,female,FR,100,plein
+R.J.H. Fortuyn straat,null,null,null,null
+Raadhuis straat,null,null,null,null
+Raamdwars straat,null,null,null,null
+Raam gracht,male,IN,94,raam
+Raam plein,male,IN,94,raam
+Raampoort,null,null,null,null
+Raam steeg,male,IN,94,raam
+Radar weg,male,US,79,radar
+Radboud,male,NL,93,radboud
+Rademaker straat,male,BR,100,rademaker
+Raden Adjeng Kartini straat,male,NL,75,raden
+Raderboot straat,null,null,null,null
+Raoul Wallenberghofje,male,NL,100,raoul
+Raoul Wallenberg straat,male,NL,100,raoul
+Rapen burg,male,US,67,burg
+Rapenburger plein,female,FR,100,plein
+Rapenburger straat,null,null,null,null
+Rapengang,null,null,null,null
+Raphael Lemkin straat,male,NL,96,raphael
+RaphaëL plein,male,NL,100,raphaël
+RaphaëL straat,male,NL,100,raphaël
+Ravenstein plein,female,FR,100,plein
+Ravenstein straat,null,null,null,null
+Raven straat,male,NL,50,raven
+Ravenswaai pad,female,TH,52,pad
+Ravenwerf,null,null,null,null
+Radio weg,male,NL,100,radio
+Rai Parking 9-10,male,NL,100,rai
+Rail-Construction Road,male,US,85,road
+Ramskooi,null,null,null,null
+Randmeer singel,male,NL,100,singel
+Rand weg,male,NL,100,rand
+Randwijk hof,female,NL,100,hof
+Rangeerder straat,null,null,null,null
+Ranonkel kade,male,US,59,kade
+Ranonkul laan,female,US,65,laan
+Reinier Claeszen plein,male,NL,99,reinier
+Recht Boomssloot,female,NL,100,recht
+Recycle Point,male,ID,88,recycle
+Reesluis,null,null,null,null
+Ree straat,male,NL,100,ree
+Reewijk plein,female,FR,100,plein
+Regge straat,male,US,67,regge
+Reguliersbree straat,null,null,null,null
+Reguliersdwars straat,null,null,null,null
+Reguliers gracht,null,null,null,null
+Reigersbos,null,null,null,null
+Reigersbosachterom,null,null,null,null
+Reigersbos dreef,null,null,null,null
+Reigersbos pad,female,TH,52,pad
+Reiger weg,male,ID,100,reiger
+Reijnier Vinkeles kade,male,US,59,kade
+Reimerswaal straat,null,null,null,null
+Reina Prinsen Geerligs straat,female,NL,100,reina
+Scheepmakers kade,male,US,59,kade
+Reinier Claeszen straat,male,NL,99,reinier
+Reinier Engelman straat,male,NL,99,reinier
+Reinveen,null,null,null,null
+Reitdiep straat,null,null,null,null
+Reitz straat,male,BR,75,reitz
+Reizigers weg,male,NL,100,weg
+Reling,null,null,null,null
+Rembrandt park,female,NL,60,park
+Rembrandt plein,male,NL,100,rembrandt
+Remijden,null,null,null,null
+Remmerden plein,female,FR,100,plein
+Rengerskerke straat,null,null,null,null
+Renkum hof,female,NL,100,hof
+Renooi plein,female,FR,100,plein
+Renswoude straat,null,null,null,null
+Reseda straat,female,PY,83,reseda
+Retief straat,male,ZA,100,retief
+Retiro brug,male,PT,67,retiro
+Revaleiland,null,null,null,null
+Reyer Anslo straat,male,NL,100,reyer
+Rhea straat,female,NL,100,rhea
+Rudi Van Dantzig straat,male,NL,100,rudi
+Rhenen hof,male,PH,100,rhenen
+Rhijnestein,null,null,null,null
+Rhijnspoor plein,female,FR,100,plein
+Rhijnvis Feith straat,male,HU,80,feith
+Rhodos weg,male,NL,100,weg
+RhôNe weg,male,NL,100,weg
+Ribes straat,female,IT,100,ribes
+Richard Hol straat,male,NL,100,richard
+Richard Wagner straat,male,NL,100,richard
+Ridderspoor weg,male,NL,100,weg
+Rie Mastenbroek straat,female,NL,100,rie
+Riekerhaven brug,male,PY,100,brug
+Rieker weg,male,ID,100,rieker
+Rode Kruis straat,male,NL,100,rode
+Schokland straat,null,null,null,null
+Rietland park,female,NL,60,park
+Rietlandterras,null,null,null,null
+Rietnesse,null,null,null,null
+Riet veld SchröDer pad,female,TH,52,pad
+Rietwijker straat,null,null,null,null
+Rietzanger weg,male,NL,100,weg
+Riga kade,male,US,59,kade
+Rigel straat,male,NL,100,rigel
+Rijgersborgh,null,null,null,null
+Rijksstraat weg,male,NL,100,weg
+Rijn kade,male,US,59,kade
+Rijnland laan,female,US,65,laan
+Rijnsburg straat,null,null,null,null
+Rijn straat,male,US,100,rijn
+Rijsbes straat,null,null,null,null
+Rijssenburg hof,female,NL,100,hof
+Rijswijk straat,null,null,null,null
+Rijtuigen hof,female,NL,100,hof
+Ring dijk,male,NL,100,dijk
+Ring dijk Blijkmeer,male,NL,100,dijk
+Ringslang pad,female,TH,52,pad
+Rodenrijs straat,null,null,null,null
+Roebel kade,male,US,59,kade
+Roelant straat,male,NL,100,roelant
+Rudolf Agricola straat,male,NL,97,rudolf
+Ring weg-Noord,male,NL,100,ring
+Roelof Hart plein,male,NL,99,roelof
+Roelof Hart straat,male,NL,99,roelof
+Roelof Klein pad,male,NL,99,roelof
+Roemer,male,NL,100,roemer
+Ring weg-Oost,male,NL,100,ring
+Ring weg-Zuid,male,NL,100,ring
+Rinus Michels laan,male,NL,98,rinus
+Riouw straat,male,FR,100,riouw
+Rita Reys brug,female,NL,99,rita
+Ritzema Bos straat,male,NL,100,bos
+Robbert Cijfer straat,male,NL,99,robbert
+Robert Douma straat,male,NL,100,robert
+Robert Fruin laan,male,NL,100,robert
+Robert Koch plantsoen,male,NL,100,robert
+Robert Scott plein,male,NL,100,robert
+Robert Scott straat,male,NL,100,robert
+RobiëNna brug,male,PY,100,brug
+Rochussen straat,null,null,null,null
+Ring weg-West,male,NL,100,west
+Rocket straat,male,US,70,rocket
+Rode Brug,male,NL,100,rode
+Roemer Visscher straat,male,NL,100,roemer
+Roepie Kruize straat,null,null,null,null
+Roer straat,male,US,100,roer
+Roeselare straat,null,null,null,null
+Roesiel,null,null,null,null
+Roeters straat,male,NL,100,roeters
+Roggeveen straat,null,null,null,null
+Rokin,male,US,80,rokin
+Rolleman straat,null,null,null,null
+Rombout Hogerbeets straat,male,NL,83,rombout
+Romeinsarm steeg,null,null,null,null
+Romero straat,male,NL,100,romero
+Rondeel,null,null,null,null
+Rookmelder straat,null,null,null,null
+Roomolen straat,null,null,null,null
+Roompot straat,null,null,null,null
+Roomtuintjes,null,null,null,null
+Salzmann hof,female,NL,100,hof
+Roosevelt laan,male,US,99,roosevelt
+Roosje Vos pad,female,TH,52,pad
+Roosje Vos straat,female,NL,100,roosje
+Rooswijck,null,null,null,null
+Rosa Luxemburg straat,female,NL,100,rosa
+Rosa Manus straat,female,NL,100,rosa
+Rosa Overbeek brug,female,NL,100,rosa
+Roseboom,null,null,null,null
+Rosendaal straat,null,null,null,null
+Sam De Wolff straat,male,NL,79,sam
+Rotterdamse pad,female,TH,52,pad
+Rousseau straat,male,FR,90,rousseau
+Rozenboom steeg,null,null,null,null
+Rozenburg laan,female,US,65,laan
+Rozengang,null,null,null,null
+Rozen gracht,female,PH,65,rozen
+Rozen laan,female,PH,65,rozen
+Rozenoord pad,female,TH,52,pad
+Rozen straat,female,PH,65,rozen
+Rozijnen straat,null,null,null,null
+Rubens straat,male,NL,100,rubens
+Rudi Bloemgarten singel,male,NL,100,rudi
+Schaepman straat,null,null,null,null
+Rudolf Diesel straat,male,NL,97,rudolf
+Rudolf Nurejev straat,male,NL,97,rudolf
+Ruigoord,null,null,null,null
+Ruijgoord weg,male,NL,100,weg
+Ruimzicht,null,null,null,null
+Ruisbeek hof,female,NL,100,hof
+Ruiseveen pad,female,TH,52,pad
+Ruisriet straat,null,null,null,null
+Rumbeke,null,null,null,null
+Rumphius straat,null,null,null,null
+Run straat,male,TH,70,run
+Rusland,male,ID,100,rusland
+Rustenburgerdwars straat,null,null,null,null
+Rustenburger straat,null,null,null,null
+Rusthof pad,female,TH,52,pad
+Rusthof straat,null,null,null,null
+Ruwels pad,female,TH,52,pad
+Ruwelswal,null,null,null,null
+Ruys De Beerenbrouck straat,male,SG,100,ruys
+Ruysch straat,null,null,null,null
+Ruysdael kade,male,US,59,kade
+Ruysdael straat,male,FR,100,ruysdael
+RéAumur straat,null,null,null,null
+RöNtgen straat,null,null,null,null
+S. F. Van Oss straat,male,MX,89,oss
+Saaftinge straat,null,null,null,null
+Saenredam straat,null,null,null,null
+Saffier straat,null,null,null,null
+Sagitta hof,female,NL,100,sagitta
+Sajet plein,female,FR,100,plein
+Salamander brug,male,NL,100,salamander
+Salamander steeg,male,NL,100,salamander
+Salentein pad,female,TH,52,pad
+Salland straat,null,null,null,null
+Saltet straat,null,null,null,null
+Sam Van Houten straat,male,NL,79,sam
+Samenwerking,null,null,null,null
+Samos straat,male,NL,100,samos
+Sandenburch,null,null,null,null
+Sanderijn straat,female,NL,100,sanderijn
+Sandhorst,null,null,null,null
+Sandino straat,male,NL,100,sandino
+Sandwijk,null,null,null,null
+Sanne Sannes hof,female,NL,96,sanne
+Santorini weg,male,NL,100,santorini
+Sape Kuiper plantsoen,male,NL,100,sape
+Sara Burgerhart straat,female,NL,100,sara
+Sarah Vaughan straat,female,NL,100,sarah
+Sardinië Weg,male,NL,100,weg
+Sarphati kade,male,US,59,kade
+Sarphati park,female,NL,60,park
+Schager laan,female,US,65,laan
+Schaik straat,null,null,null,null
+Schakel straat,null,null,null,null
+Schalkwijk pad,female,TH,52,pad
+Schapenburger pad,female,TH,52,pad
+Schapen steeg,null,null,null,null
+Scharen burg,male,US,67,burg
+Schollenbrug pad,female,TH,52,pad
+Sarphati straat,null,null,null,null
+Saskia Van Uijlenburg kade,female,NL,100,saskia
+Sassenheim straat,null,null,null,null
+Saturnus straat,male,LV,100,saturnus
+Sausalito laan,female,US,65,laan
+Savelsbos,null,null,null,null
+Saxen-Weimar laan,male,CO,97,weimar
+Saxenburgerdwars straat,null,null,null,null
+Saxenburger straat,null,null,null,null
+Scanner straat,male,MY,71,scanner
+Schaaf straat,null,null,null,null
+Schaarbeek straat,null,null,null,null
+Schaarsbergen straat,null,null,null,null
+Scheepsbouwers weg,male,NL,100,weg
+Scheepsbouw kade,male,US,59,kade
+Scheepsbouw weg,male,NL,100,weg
+Scheepsjongen plein,female,FR,100,plein
+Scheepstimmerman straat,null,null,null,null
+Schelde plein,female,FR,100,plein
+Schelde straat,null,null,null,null
+Schellingwouder Kerkepads brug,male,PY,100,brug
+Schellingwouder dijk,male,NL,100,dijk
+Schelluinen straat,null,null,null,null
+Schelvisch Hoofd,female,NL,100,hoofd
+Schepenberg weg,male,NL,100,weg
+Schollenbrug straat,null,null,null,null
+Schone Wees pad,female,TH,52,pad
+Schepen laan,female,US,65,laan
+Schermer straat,male,BR,100,schermer
+Scherpenzeel straat,null,null,null,null
+Schieman straat,null,null,null,null
+Schiermonnikoog straat,null,null,null,null
+Schierstins,null,null,null,null
+Schilling dijk,female,BR,75,schilling
+Schimmel straat,female,NL,100,schimmel
+Schinkelhaven kade,male,US,59,kade
+Schinkelhaven straat,null,null,null,null
+Schinkel kade,male,US,59,kade
+Schipbeek straat,null,null,null,null
+Schipluiden laan,female,US,65,laan
+Schipmolen,null,null,null,null
+Schippers gracht,female,BE,100,schippers
+Schippers straat,female,BE,100,schippers
+Schoener straat,null,null,null,null
+Schoenmakersgang,null,null,null,null
+Schoffel straat,null,null,null,null
+Schokkerjacht dijk,male,NL,100,dijk
+Schokkers pad,female,TH,52,pad
+Schonerwoerd straat,null,null,null,null
+Schoolmeester straat,null,null,null,null
+School pad,female,TH,52,pad
+Schooltuin pad,female,TH,52,pad
+Schoonboom straat,null,null,null,null
+Schoonhoven dreef,null,null,null,null
+Schoorl straat,null,null,null,null
+Schoorsteenvegers pad,female,TH,52,pad
+Schoorsteenvegers steeg,null,null,null,null
+Schopenhauer hof,male,US,100,schopenhauer
+Schorpioen straat,null,null,null,null
+Schor straat,male,DE,100,schor
+Schotse Hooglanden,null,null,null,null
+Schotse Huizen pad,female,TH,52,pad
+Schottenburchs brug,male,PY,100,brug
+Schouten steeg,male,NL,100,schouten
+Schouw straat,null,null,null,null
+Schoven straat,null,null,null,null
+Schubert straat,male,BR,93,schubert
+Schuitenhuis straat,null,null,null,null
+Schurenberg weg,male,NL,100,weg
+Schuttersgalerij,null,null,null,null
+Schutter weg,male,NL,100,weg
+Schweigmann straat,null,null,null,null
+Scotuslaantje,null,null,null,null
+Sean Macbride straat,male,NL,99,sean
+Seifert plein,female,FR,100,plein
+Sinderen straat,null,null,null,null
+Seine weg,male,NL,100,seine
+Seinwachter straat,null,null,null,null
+Seizoenen hof,female,NL,100,hof
+Sem Presser hof,male,NL,92,sem
+Semarang straat,male,ID,73,semarang
+Seneca straat,male,US,53,seneca
+Senefelder straat,null,null,null,null
+Serang brug,male,GR,50,serang
+Serang gracht,male,GR,50,serang
+Serge Lifar steeg,male,NL,100,serge
+Servaes Nouts straat,male,NL,100,servaes
+Servet steeg,male,NL,83,servet
+Sextant weg,male,NL,100,weg
+Shackleton straat,male,US,100,shackleton
+Shetland pad,female,TH,52,pad
+Siboga straat,null,null,null,null
+Sibrandus Stratingh straat,null,null,null,null
+Sicilië Weg,male,NL,100,weg
+Sieg Vaz Dias straat,male,ID,61,dias
+Sint-Jans brug,male,NL,60,jans
+Sint-Truiden straat,male,NL,100,sint
+Sirius straat,male,US,76,sirius
+Sirkeci brug,male,TR,100,sirkeci
+Sierenborch,null,null,null,null
+Sier plein,female,FR,100,plein
+Sieverdink pad,female,TH,52,pad
+Sijlhoff,null,null,null,null
+Sijpestein,null,null,null,null
+Sijsjesberg weg,male,NL,100,weg
+Sijsjes straat,null,null,null,null
+Sikkel straat,null,null,null,null
+Silene straat,female,BR,99,silene
+Silodam,null,null,null,null
+Silvolde straat,null,null,null,null
+Silvretta,null,null,null,null
+Simon Carmiggelt brug,male,NL,99,simon
+Simon Carmiggelt straat,male,NL,99,simon
+Simon Stevin straat,male,NL,99,simon
+Simon Van Gijn pad,male,NL,99,simon
+Simon Van Woerden straat,male,NL,99,simon
+Simone De Beauvoir straat,female,NL,98,simone
+Simonshaven straat,null,null,null,null
+Simonskerke straat,null,null,null,null
+Simplon,null,null,null,null
+Simson straat,male,ID,98,simson
+Sinaasappel straat,null,null,null,null
+Slingerbeek straat,null,null,null,null
+ Singel,male,NL,100,singel
+Singer straat,male,US,62,singer
+Sinjeur Semeyns straat,null,null,null,null
+Sint Agnieten straat,male,NL,100,sint
+Sint Andries hof,male,NL,100,andries
+Sint Annendwars straat,male,NL,100,sint
+Sint Annen straat,male,US,50,annen
+Sint Antoniesbree straat,male,NL,100,sint
+Sint Antoniesluis,male,NL,100,sint
+Sint Barberen straat,male,NL,100,sint
+Sint Bernhardpas,male,NL,100,sint
+Sint Geertruiden steeg,male,NL,100,sint
+Sint Gilles hof,male,NL,98,gilles
+Sint Jacobsdwars straat,male,NL,100,sint
+Sint Jacobs straat,male,NL,100,sint
+Sint Jans straat,male,NL,60,jans
+Sint Joris steeg,male,NL,100,joris
+Sint Joris straat,male,NL,100,joris
+Sint LuciëN steeg,male,NL,100,luciën
+Sint Nicolaas straat,male,NL,100,nicolaas
+Sint Olofspoort,male,NL,100,sint
+Sint Olofs steeg,male,NL,100,sint
+Sint Pietershal steeg,male,NL,100,sint
+Sint Pieterspoort steeg,male,NL,100,sint
+Sint Willibrordusdwars straat,male,NL,100,sint
+Sint Willibrordus straat,male,ID,100,willibrordus
+Sint-Hubert pad,female,TH,52,pad
+Sixhaven weg,male,NL,100,weg
+SkûTsjes pad,female,TH,52,pad
+Slaak straat,null,null,null,null
+Slagersgang,null,null,null,null
+Slangen burg,male,US,67,burg
+Slangenwortel,null,null,null,null
+Slapers steeg,null,null,null,null
+Slatuinen weg,male,NL,100,weg
+Slauerhoff straat,null,null,null,null
+Sleewijk straat,null,null,null,null
+Slego,null,null,null,null
+Slepers steeg,null,null,null,null
+Sleutelbloem straat,null,null,null,null
+Sleutel brug,male,PY,100,brug
+Slibvelden weg,male,NL,100,weg
+Slichtenhorst straat,null,null,null,null
+Sliedrecht straat,null,null,null,null
+Slijk straat,null,null,null,null
+Slijper weg,male,NL,100,weg
+Slijter straat,null,null,null,null
+Slikkerveer straat,null,null,null,null
+Slimme weg,male,NL,100,weg
+Slinger laan,female,US,65,laan
+Slochter weg,male,NL,100,weg
+Sloe straat,male,US,100,sloe
+Slootdorp straat,null,null,null,null
+Sloot straat,null,null,null,null
+Sloterdijker brug,male,PY,100,brug
+Sloterdijker weg,male,NL,100,weg
+Sloterdijk steeg,null,null,null,null
+Sloterdijk straat,null,null,null,null
+Sloter kade,male,US,59,kade
+Slotermeer laan,female,US,65,laan
+Snorrenhoef straat,null,null,null,null
+Society brug,female,US,71,society
+Socrates straat,male,NL,100,socrates
+Soembawa straat,null,null,null,null
+Sloter weg,male,NL,100,weg
+Slufter,null,null,null,null
+Sluis straat,null,null,null,null
+Smak steeg,male,NL,100,smak
+Smaragd plein,female,FR,67,smaragd
+Smaragd straat,female,FR,67,smaragd
+Smederij,male,NL,100,smederij
+Smederij Meister brug,male,NL,100,meister
+Smit straat,female,NL,100,smit
+Sneeuwbal straat,null,null,null,null
+Sneeuwbal weg,male,NL,100,weg
+Snellerwaard gracht,null,null,null,null
+Snelleveld plein,female,FR,100,plein
+Snelleveld straat,null,null,null,null
+Snellius straat,null,null,null,null
+Snijdersberg weg,male,NL,100,weg
+Snodenhoek park,female,NL,60,park
+Snoekjes brug,male,PY,100,brug
+Snoekjes gracht,null,null,null,null
+Snoekjes steeg,null,null,null,null
+Soestdijk straat,null,null,null,null
+Soesterberg hof,female,NL,100,hof
+Soetendaal,null,null,null,null
+Software weg,male,ID,100,software
+Solebay straat,null,null,null,null
+Solitudo brug,male,RU,100,solitudo
+Solitudo laan,female,US,65,laan
+Solitudo pad,female,TH,52,pad
+Solo straat,male,NL,100,solo
+Somerlust pad,female,TH,52,pad
+Sommelsdijk straat,null,null,null,null
+Sonderbuur,null,null,null,null
+Sonia Gaskell straat,female,NL,100,sonia
+Sonja Henie pad,female,NL,100,sonja
+Sonne veld,female,US,59,sonne
+Sontvaarder straat,null,null,null,null
+Sophia laan,female,NL,100,sophia
+Sophie Redmond plein,female,NL,100,sophie
+Spaanse Brabander straat,null,null,null,null
+Spakenburg straat,null,null,null,null
+Spinoza straat,male,MX,60,spinoza
+Spitskop straat,null,null,null,null
+Spaarndammer dijk,male,NL,100,dijk
+Spaarndammer plantsoen,null,null,null,null
+Spaarndammer straat,null,null,null,null
+Spaarndammertunnel,null,null,null,null
+Spaarnwouder dijk,male,NL,100,dijk
+Spaarpot steeg,null,null,null,null
+Spadina laan,female,US,65,laan
+Spa hof,female,NL,100,spa
+Spinnekop,null,null,null,null
+Spinoza hof,male,MX,60,spinoza
+Splinter Bakkers steeg,male,NL,100,splinter
+Spakler weg,male,NL,100,weg
+Spanderswoud straat,null,null,null,null
+Spangen hof,female,NL,100,hof
+Spankeren kade,male,US,59,kade
+Sparren laan,female,US,65,laan
+Sparren weg,male,NL,100,weg
+Specht laan,female,US,65,laan
+Specht straat,female,HU,100,specht
+Speelman straat,null,null,null,null
+Speerdistel straat,null,null,null,null
+Speer straat,male,US,100,speer
+Spelderholt,null,null,null,null
+Spengen pad,female,TH,52,pad
+Sperwer laan,female,US,65,laan
+Speulde straat,null,null,null,null
+Spica straat,female,ID,69,spica
+Spiegel brug,male,US,83,spiegel
+Spiegel gracht,male,US,83,spiegel
+Spijkerboor steeg,null,null,null,null
+Spijker kade,male,US,59,kade
+Spijtellaantje,null,null,null,null
+Spinaker,null,null,null,null
+Spinaker hof,female,NL,100,hof
+Spinhuis steeg,null,null,null,null
+Spoor pad,female,TH,52,pad
+Spoorslag,null,null,null,null
+Sporaden laan,female,US,65,laan
+Sportas,null,null,null,null
+Sport laan,male,US,82,sport
+Sport park De Weeren,male,US,82,sport
+Sport park Kadoelen,male,US,82,sport
+Sport park Oostzanerwerf,male,US,82,sport
+Sport park Sloten,male,US,82,sport
+Sport park Spieringhorn,male,US,82,sport
+Sportpark laan,female,US,65,laan
+Sport straat,male,US,82,sport
+Spreeuwen laan,female,US,65,laan
+Spreeuwen park,female,NL,60,park
+Sprinkler straat,male,US,50,sprinkler
+Spui,female,TH,100,spui
+Tegenhouder straat,null,null,null,null
+Spui straat,female,TH,100,spui
+Spyridon Louis weg,male,NL,98,louis
+St Hubert pad,female,TH,52,pad
+St. Thomas steeg,male,NL,100,thomas
+Staal kade,male,US,59,kade
+Staalman park,female,NL,60,park
+Staalmeesters laan,female,US,65,laan
+Staal straat,male,BE,100,staal
+Staatslieden brug,male,PY,100,brug
+Stade De Colombes,null,null,null,null
+Starrenbosch straat,null,null,null,null
+Statenjacht straat,null,null,null,null
+Station Ganzenhoef,female,NL,100,station
+Stadhouders kade,male,US,59,kade
+Stadion kade,male,US,59,kade
+Stadion plein,female,FR,100,plein
+Station Noord,female,NL,100,station
+Station Rai,male,NL,100,rai
+Station Zuid,female,NL,100,station
+Stations plein,female,FR,100,plein
+Staverden plein,female,FR,100,plein
+Steelvliet plein,female,FR,100,plein
+Steenbok straat,null,null,null,null
+Steenderen straat,null,null,null,null
+Stadion weg,male,NL,100,weg
+Stag hof,male,GB,79,stag
+Stammer dijk,male,US,100,stammer
+Stammerland weg,male,NL,100,weg
+Stapels,null,null,null,null
+Staring plein,female,FR,100,plein
+Staring straat,null,null,null,null
+Steengroeven pad,female,TH,52,pad
+Steenhouwersgang,null,null,null,null
+Steenhouwers steeg,null,null,null,null
+Steiger 1,null,null,null,null
+Steiger 2,null,null,null,null
+Steiger 3,null,null,null,null
+Steiger 4,null,null,null,null
+Steiger 5,null,null,null,null
+Steiger 6,null,null,null,null
+Steiger 7,null,null,null,null
+Steiger 8,null,null,null,null
+Steiger A,null,null,null,null
+Steiger B,null,null,null,null
+Steiger C,null,null,null,null
+Steiger D,null,null,null,null
+Stekkenberg weg,male,NL,100,weg
+Stellendam straat,null,null,null,null
+Stelling weg,male,NL,100,weg
+Stenen Beer,male,NL,86,beer
+Stenen Hoofd,female,NL,100,hoofd
+Stenendok weg,male,NL,100,weg
+Steng hof,female,MY,60,steng
+Stentor straat,male,RU,100,stentor
+Stephenson straat,male,US,100,stephenson
+Stepping Stones,male,ID,80,stones
+Sterappel straat,null,null,null,null
+Sterken burg,male,US,67,burg
+Sterren plein,female,FR,100,plein
+Sterren straat,null,null,null,null
+Stettineiland,null,null,null,null
+Steve Biko plein,male,NL,99,steve
+Steven Van Dorpel pad,male,NL,100,steven
+Steven Vennecool straat,male,NL,100,steven
+Sticht straat,null,null,null,null
+Stieltjes straat,null,null,null,null
+Stier straat,male,DE,67,stier
+Stintse pad,female,TH,52,pad
+Stoel En Spree hof,male,US,60,spree
+Stoelenmatters pad,female,TH,52,pad
+Stoker kade,male,US,59,kade
+Stolwijk straat,null,null,null,null
+Stompetoren straat,null,null,null,null
+Stromboli weg,male,NL,100,weg
+Struisgras straat,null,null,null,null
+Stoomboot weg,male,NL,100,weg
+Stoomgemaal straat,null,null,null,null
+Storm steeg,male,NL,83,storm
+Stormvloedkering straat,null,null,null,null
+Stoutenburg gracht,null,null,null,null
+Stracké Straat,null,null,null,null
+Stralsund brug,male,PY,100,brug
+Strandvliet pad,female,TH,52,pad
+Strawinsky laan,female,US,65,laan
+Streefkerk straat,null,null,null,null
+Strekker weg,male,NL,100,weg
+Stromarkt,null,null,null,null
+Stuurman kade,male,US,59,kade
+Stuyvesant straat,male,RU,100,stuyvesant
+Subang straat,male,ID,80,subang
+Suikerbakkers steeg,null,null,null,null
+Suikerdiefje straat,null,null,null,null
+Suikerpeer pad,female,TH,52,pad
+Suiker plein,female,FR,100,plein
+Sumatra kade,male,US,59,kade
+Sumatra plantsoen,male,ID,54,sumatra
+Sumatra straat,male,ID,54,sumatra
+Suriname kade,male,US,59,kade
+Suriname plein,female,FR,100,plein
+Suriname straat,male,SR,100,suriname
+Suze Groeneweg plantsoen,female,NL,100,suze
+Suze Robertson straat,male,BR,98,robertson
+Swalm straat,null,null,null,null
+Swammerdam straat,null,null,null,null
+Sylvia pad,female,NL,100,sylvia
+Taandwars straat,null,null,null,null
+Taan straat,female,TH,78,taan
+Tafelberg weg,male,NL,100,weg
+Tak steeg,female,NL,100,tak
+Talbot straat,male,US,100,talbot
+Talma straat,female,BR,71,talma
+Taman Sapituin,male,ID,72,taman
+Tamarisk hof,female,US,100,tamarisk
+Tartaud-Klein hof,male,NL,60,klein
+Tasman straat,male,ID,86,tasman
+Teerketel steeg,null,null,null,null
+Tefelen straat,null,null,null,null
+Tegelarij pad,female,TH,52,pad
+Teilingen,null,null,null,null
+Teixeira De Mattos straat,male,BR,77,teixeira
+Tekkop straat,null,null,null,null
+Telders hof,female,NL,100,hof
+Teleport boulevard,male,US,63,boulevard
+Telescoop hof,female,NL,100,hof
+Tempelhof straat,null,null,null,null
+Ten Kate plein,female,NL,100,kate
+Ten Kate straat,female,NL,100,kate
+Tender straat,female,US,51,tender
+Tenerife straat,male,ES,91,tenerife
+Teniers straat,null,null,null,null
+Ter Gouw straat,female,ID,57,gouw
+Ter Haar straat,male,DE,75,haar
+Ter Kleef,male,NL,50,ter
+Terheide weg,male,NL,100,weg
+Terlet straat,null,null,null,null
+Termieter gouw,female,ID,57,gouw
+Termieter weg,male,NL,100,weg
+Titus Van Rijn straat,male,NL,65,van
+Tjasker,null,null,null,null
+Tweede Egelantiersdwars straat,male,NL,100,tweede
+Termini,female,US,100,termini
+Ternate straat,null,null,null,null
+Terp straat,female,US,100,terp
+Terschelling straat,male,NL,100,terschelling
+Tervuren pad,female,TH,52,pad
+Tesla straat,female,NL,100,tesla
+Tesselschade straat,null,null,null,null
+Teteringen straat,null,null,null,null
+Tetje De Jong brug,male,NL,67,jong
+Teuge straat,null,null,null,null
+Texel plein,female,FR,100,plein
+Texel weg,male,MX,100,texel
+Teyler plein,male,US,50,teyler
+Th. J. Lammers laan,female,US,65,laan
+Th. K. Van Lohuizen laan,male,NL,65,van
+Th. Weevers weg,male,NL,100,weg
+Theems weg,male,NL,100,weg
+Theo Fransman brug,male,NL,99,theo
+Theo Frenkel hof,male,NL,99,theo
+Theo Koomen pad,male,NL,99,theo
+Theo Mann-Bouwmeester hof,male,NL,99,theo
+Theo Thijssen hof,male,NL,99,theo
+Theo Van Doesburg straat,male,NL,99,theo
+Theodoor Van Hoytema straat,male,NL,65,van
+Theodorus Dobbe straat,male,BE,100,dobbe
+Theodorus Majofski straat,male,NL,100,theodorus
+Theophile De Bock brug,male,BR,79,bock
+Theophile De Bock straat,male,BR,79,bock
+Theophilus straat,male,NL,100,theophilus
+Theseus straat,male,US,100,theseus
+Thijs Hendriksen pad,male,NL,99,thijs
+Tholen straat,null,null,null,null
+Tjepma pad,female,TH,52,pad
+Thomas Prins laan,male,NL,100,thomas
+Thomas R. Malthus straat,male,NL,100,thomas
+Thomas Van Aquino straat,male,NL,100,thomas
+Thomas Van Erpe hof,male,NL,100,thomas
+Thomas à Kempis straat,male,NL,100,thomas
+Thorbecke plein,female,FR,100,plein
+Thorn Prikker straat,male,TH,91,thorn
+ThéRèSe Schwartze plein,female,NL,100,thérèse
+ThéRèSe Schwartze straat,female,NL,100,thérèse
+Tichel straat,null,null,null,null
+Tidore straat,null,null,null,null
+Tiel straat,male,BR,83,tiel
+Tienen pad,female,TH,52,pad
+Tiengemeten straat,null,null,null,null
+Tienraai kade,male,US,59,kade
+Tijdelijke Ontsluitings weg Holysloot,male,NL,100,weg
+Tijl Uilenspiegel straat,male,NL,100,tijl
+Tijnmuiden,null,null,null,null
+Tilanus straat,null,null,null,null
+Timo Smeehuijzen brug,male,NL,100,timo
+Timor plein,female,FR,100,plein
+Timor straat,male,NL,100,timor
+Tintoretto straat,null,null,null,null
+Titiaan straat,male,BE,100,titiaan
+Titus Brandsma brug,male,NL,100,titus
+Tjerk Hiddes De Vries straat,male,NL,98,tjerk
+Tjotters pad,female,TH,52,pad
+Tobias Asser laan,male,NL,100,tobias
+Tobias M.C. Asser straat,male,NL,100,tobias
+Toetsenbord weg,male,NL,100,weg
+Tofana,null,null,null,null
+Tolbrug straat,null,null,null,null
+Toldwars straat,null,null,null,null
+Tolhuis weg,male,NL,100,weg
+Tolkamer straat,null,null,null,null
+Tollens straat,null,null,null,null
+Tollien Schuurman brug,female,NL,100,tollien
+Tolsende straat,null,null,null,null
+Tol straat,male,NL,50,tol
+Tom Schreurs weg,male,NL,99,tom
+Tomaten straat,null,null,null,null
+Tomini straat,null,null,null,null
+Ton De Leeuw straat,male,NL,99,ton
+Ton Van Duinhoven hof,male,NL,99,ton
+Tonden pad,female,TH,52,pad
+Tongelaer,null,null,null,null
+Tongeren straat,null,null,null,null
+Top Naeff straat,male,NL,57,top
+Top Rincker straat,male,NL,57,top
+Topaas straat,null,null,null,null
+Topkapi pad,female,TH,52,pad
+Torenmolen,null,null,null,null
+Torensluis,null,null,null,null
+Toren steeg,female,TR,85,toren
+Torenven,null,null,null,null
+Torres straat,male,NL,100,torres
+Torricelli straat,male,BR,100,torricelli
+Tosari straat,null,null,null,null
+Tosarituin,null,null,null,null
+Tourniaire straat,null,null,null,null
+Toutenburg straat,null,null,null,null
+Touw baan,male,NL,100,touw
+Touwbaan park,female,NL,60,park
+Touwslager straat,null,null,null,null
+Transformator weg,male,NL,100,weg
+Transvaal kade,male,US,59,kade
+Transvaal plein,female,FR,100,plein
+Transvaal straat,male,ZA,100,transvaal
+Trapjes brug,male,PY,100,brug
+Treeft steeg,null,null,null,null
+Treiler hof,female,NL,100,hof
+Tretjakov laan,female,US,65,laan
+Tricht straat,null,null,null,null
+Trijn Hulleman laan,female,US,65,laan
+Tritoma laan,female,US,65,laan
+Tweede Coentunnel,male,NL,100,tweede
+Tweede Goudsbloemdwars straat,male,NL,100,tweede
+Troelstra laan,female,US,65,laan
+Troepiaal singel,male,NL,100,singel
+Trompenburg straat,null,null,null,null
+Trompettersgang,null,null,null,null
+Trompetters steeg,null,null,null,null
+Truus Wijsmuller brug,female,NL,100,truus
+Tt. Melania weg,female,NL,100,melania
+Tt. Melissa weg,female,NL,100,melissa
+Tt. Neverita weg,male,BR,50,neverita
+Tt. Vasum weg,male,NL,100,weg
+Tugela weg,male,ZA,100,tugela
+Tuiger straat,null,null,null,null
+Tuil straat,male,US,100,tuil
+Tuimelaar straat,null,null,null,null
+Tuin Van Hera,male,NL,65,van
+Tweede Constantijn Huygens straat,male,NL,100,constantijn
+Tuinbouw straat,null,null,null,null
+Tuinderij laan,female,US,65,laan
+Tuin straat,male,BE,75,tuin
+Tula straat,female,US,69,tula
+Turbine straat,male,US,67,turbine
+Turbinetanker Vasum weg,male,NL,100,weg
+TurbóN,null,null,null,null
+Turfdraagster pad,female,TH,52,pad
+Turf steeg,male,US,82,turf
+Turner straat,male,US,91,turner
+Turnhout plantsoen,female,BE,100,turnhout
+Tussen De Bogen,male,ID,100,bogen
+Tussen Kadijken,female,BE,100,tussen
+Tussen Meer,female,BE,100,tussen
+Tussendek,null,null,null,null
+Tutein Nolthenius straat,null,null,null,null
+Twee Koningskinderen straat,male,NL,100,twee
+Tweede Amstelvliet pad,female,TH,52,pad
+Tweede Anjeliersdwars straat,male,NL,100,tweede
+Tweede Atjeh straat,male,ID,75,atjeh
+Tweede Bloemdwars straat,male,NL,100,tweede
+Tweede Boerhaave straat,male,NL,100,tweede
+Tweede Boomdwars straat,male,NL,100,tweede
+Tweede Breeuwers straat,male,NL,100,tweede
+Tweede Helmers straat,male,NL,100,tweede
+Tweede Hugo De Groot straat,male,NL,100,hugo
+Tweede Jacob Van Campen straat,male,NL,100,jacob
+Tweede Jan Steen straat,male,NL,99,jan
+Tweede Jan Van Der Heijden straat,male,NL,99,jan
+Tweede Keuchenius straat,male,NL,100,tweede
+Tweede Kostverloren kade,male,US,59,kade
+Tweede Laurierdwars straat,male,NL,100,tweede
+Tweede Leeghwater straat,male,NL,100,tweede
+Tweede Leliedwars straat,male,NL,100,tweede
+Tweede Lindendwars straat,male,NL,100,tweede
+Tweede Looiersdwars straat,male,NL,100,tweede
+Tweede Marnixdwars straat,male,NL,100,tweede
+Tweede Marnix plantsoen,male,NL,100,marnix
+Tweede Nassau straat,male,US,73,nassau
+Tweede Oosterpark straat,male,NL,100,tweede
+Tweede Passeerdersdwars straat,male,NL,100,tweede
+Tweede Rozendwars straat,male,NL,100,tweede
+Tweede Schinkel straat,male,NL,100,tweede
+Tweede Sweelinck straat,male,NL,100,tweede
+Tweede Tuindwars straat,male,NL,100,tweede
+Tweede Van Der Helst straat,male,NL,65,van
+Tweede Van Swinden straat,male,NL,65,van
+Tweede Vogel straat,male,US,63,vogel
+Tweede Weteringdwars straat,male,NL,100,tweede
+Tweede Wetering plantsoen,male,NL,100,tweede
+Tweede Wittenburgerdwars straat,male,NL,100,tweede
+Tweelingen hof,female,NL,100,hof
+Twello straat,null,null,null,null
+Twente straat,male,NL,100,twente
+Twikkel,null,null,null,null
+Twiske straat,null,null,null,null
+U.J. Klaren straat,female,AE,100,klaren
+Ubbo Emmius hof,male,NL,100,ubbo
+Uffizi laan,female,US,65,laan
+Uilenburger steeg,null,null,null,null
+Uilenburgerwerf,null,null,null,null
+Uilen gouw,female,ID,57,gouw
+Uilenstede,null,null,null,null
+Uitdammer Dorps straat,null,null,null,null
+Uitweg pad,female,TH,52,pad
+Uiver brug,male,PY,100,brug
+Ukkel hof,female,NL,100,hof
+Uranus straat,male,TH,50,uranus
+Urk straat,male,TR,57,urk
+Ursemmer pad,female,TH,52,pad
+Utopia,male,NL,100,utopia
+Utrechtsedwars straat,null,null,null,null
+Utrechtse straat,null,null,null,null
+Vaalmuiden,null,null,null,null
+Vaart straat,male,ID,67,vaart
+Van Bosse straat,male,NL,65,van
+Uitdammer dijk,male,NL,100,dijk
+Uiterwaarden straat,null,null,null,null
+Uitgeest straat,null,null,null,null
+Uithoorn straat,null,null,null,null
+Valburg dreef,null,null,null,null
+Valckenier straat,null,null,null,null
+Valentijn kade,male,US,59,kade
+Valerius plein,male,ID,100,valerius
+Valerius straat,male,ID,100,valerius
+Valeriusterras,null,null,null,null
+Valkenburger straat,null,null,null,null
+Valkenisse weg,male,NL,100,weg
+Valkenstein,null,null,null,null
+Valken weg,male,US,50,valken
+Valk hof,female,NL,100,valk
+Valkkoog straat,null,null,null,null
+Valreep,null,null,null,null
+Valscherm kade,male,US,59,kade
+Valuta boulevard,male,US,63,boulevard
+Van 'T Hoff laan,male,NL,65,van
+Van Abbe straat,female,US,61,abbe
+Van Alphen straat,male,NL,65,van
+Van Baerle straat,male,NL,65,van
+Van Beuningen plein,male,NL,65,van
+Van Beuningen straat,male,NL,65,van
+Van Bleiswijk straat,male,NL,65,van
+Van Boetzelaer straat,male,NL,65,van
+Van Bommel-Van Dam pad,female,TH,52,pad
+Van Boshuizen straat,male,NL,65,van
+Van Bosse pad,female,TH,52,pad
+Van Brakel straat,male,NL,65,van
+Van Bree straat,male,NL,65,van
+Van Brienenhofje,male,NL,65,van
+Van Den Veer plein,male,IN,99,veer
+Van Der Boechorst straat,male,NL,65,van
+Van Der Duijn straat,male,NL,65,van
+Van Der Helst plein,male,NL,65,van
+Van Der Hoop straat,male,NL,65,van
+Van Der Kun straat,male,NL,65,van
+Van Der Palm kade,male,US,59,kade
+Van Der Pek plein,male,MY,54,pek
+Van Der Sande Lacoste brug,male,NL,65,van
+Van Der Vijver straat,male,NL,65,van
+Van Diemen kade,male,US,59,kade
+Van Diemen straat,male,NL,65,van
+Van Eeghen laan,male,NL,65,van
+Van Eeghen straat,male,NL,65,van
+Van Effen straat,male,NL,65,van
+Van Gent straat,male,NL,65,van
+Van Gilse straat,male,NL,65,van
+Van Hall brug,male,TH,79,hall
+Van Lim burg Stirum straat,male,NL,65,van
+Van Hall straat,male,TH,79,hall
+Van Hanxleden Houwert straat,male,NL,65,van
+Van Heemskerck straat,male,NL,65,van
+Van Heenvliet laan,male,NL,65,van
+Van Helt Stocade straat,male,NL,65,van
+Van Hilligaert straat,male,NL,65,van
+Van Hogendorp plein,male,NL,65,van
+Van Hogendorp straat,male,NL,65,van
+Van Houweningen straat,male,NL,65,van
+Van Karnebeek straat,male,NL,65,van
+Van Kinsbergen straat,male,NL,65,van
+Van Koetsveld straat,male,NL,65,van
+Van Leijenbergh laan,male,NL,65,van
+Van Miereveld straat,male,NL,65,van
+Van Mierlo brug,male,NL,65,van
+Van Moerkerken straat,male,NL,65,van
+Van Mourik Broekman straat,male,NL,65,van
+Van Musschenbroek straat,male,NL,65,van
+Van Neck straat,male,NL,65,van
+Van Nijenrode weg,male,NL,65,van
+Van Noordt kade,male,US,59,kade
+Van Oldenbarneveldt plein,male,NL,65,van
+Van Oldenbarneveldt straat,male,NL,65,van
+Van Ollefen straat,male,NL,65,van
+Van Ostade straat,male,NL,65,van
+Van Rappard straat,male,NL,65,van
+Van Reede straat,male,NL,65,van
+Van Reenen straat,male,NL,65,van
+Van Reigersbergen straat,male,NL,65,van
+Van Rensselaer straat,male,NL,65,van
+Vee laan,female,US,65,laan
+Van Riebeeckhaven weg,male,NL,65,van
+Van Slingelandt brug,male,NL,65,van
+Van Slingelandt plein,male,NL,65,van
+Van Speijk straat,male,NL,65,van
+Van Suchtelen Van De Haare straat,male,NL,65,van
+Van Tuyll Van Serooskerken plein,male,NL,65,van
+Van Tuyll Van Serooskerken weg,male,NL,65,van
+Van Walbeeck straat,male,NL,65,van
+Van Wou straat,male,NL,65,van
+Van Zeggelaar straat,male,NL,65,van
+Vancouver straat,male,CA,57,vancouver
+Varen weg,female,ID,59,varen
+Varik straat,male,RU,100,varik
+Varkenssluis,null,null,null,null
+Vecht straat,null,null,null,null
+Veemarkt,null,null,null,null
+Veembroeder hof,female,NL,100,hof
+Veem kade,male,US,59,kade
+Veenbes straat,null,null,null,null
+Veeneik brug,male,PY,100,brug
+Veeneik pad,female,TH,52,pad
+Veenendaal plein,female,FR,100,plein
+Veer straat,male,IN,99,veer
+Veeteelt straat,null,null,null,null
+Vega straat,female,NL,100,vega
+Velazquez straat,male,MX,67,velazquez
+Veldbies straat,null,null,null,null
+Veldzicht,null,null,null,null
+Velser weg,male,NL,100,weg
+Verlengde Rijn kade,male,US,59,kade
+Voetboog straat,null,null,null,null
+Veluwe laan,female,US,65,laan
+Vendel straat,male,HU,100,vendel
+Venetië Hof,female,NL,100,hof
+Venetië Straat,null,null,null,null
+Venhuizen straat,null,null,null,null
+Vennepluim straat,null,null,null,null
+Venser kade,male,US,59,kade
+Venser pad,female,TH,52,pad
+Venters pad,female,TH,52,pad
+Verbindingsdam,null,null,null,null
+Verbinding straat,null,null,null,null
+Verdi straat,male,NL,100,verdi
+Verdraagzaam,null,null,null,null
+Vergeet Mij Niet,male,US,80,mij
+Verlengd Buitenveer,null,null,null,null
+Vijfde Vogel straat,male,US,63,vogel
+Vijgepeer pad,female,TH,52,pad
+Verlengde Stelling weg,male,NL,100,weg
+Verleun straat,null,null,null,null
+Veronese plantsoen,female,IT,100,veronese
+Veronese straat,female,IT,100,veronese
+Vertrouwen,null,null,null,null
+Ververs straat,null,null,null,null
+Vervooren straat,null,null,null,null
+Vespucci straat,male,ID,100,vespucci
+Vianen straat,null,null,null,null
+Victor Rutgers straat,male,NL,100,victor
+Victorie plein,female,US,100,victorie
+Vier Heemskinderensluis,female,NL,100,vier
+Vier Heemskinderen straat,female,NL,100,vier
+Vierde Vogel straat,male,US,63,vogel
+Vierhuysen,null,null,null,null
+Viermaster straat,null,null,null,null
+Vierwindendwars straat,null,null,null,null
+Vierwinden straat,null,null,null,null
+Vijverhoef,null,null,null,null
+Vijzel gracht,null,null,null,null
+Vijzel straat,null,null,null,null
+Viking pad,female,TH,52,pad
+Vilvoorde straat,null,null,null,null
+Vincent Van Gogh straat,male,NL,100,vincent
+Vingbooms brug,male,PY,100,brug
+Vinken laan,female,US,65,laan
+Vinken straat,male,AU,67,vinken
+Violen laan,female,US,65,laan
+Violette Cornelius hof,female,NL,100,violette
+Violetten straat,null,null,null,null
+Virgo hof,male,ID,63,virgo
+Vishoeker pad,female,TH,52,pad
+Viveporten straat,null,null,null,null
+Voc- Kade,male,US,59,kade
+Vlaardingen laan,female,US,65,laan
+Vlaggemast,null,null,null,null
+Vlakker weg,male,NL,100,weg
+Vleuten straat,null,null,null,null
+Vliegende steeg,male,ES,100,vliegende
+Vliegtuig straat,null,null,null,null
+Vlieland straat,male,NL,100,vlieland
+Vlier weg,male,NL,100,weg
+Vliet straat,null,null,null,null
+Vlimmeren straat,null,null,null,null
+Vlonder pad,female,TH,52,pad
+Vlothaven weg,male,NL,100,weg
+Vluchthaven brug,male,PY,100,brug
+Vluchtladder straat,null,null,null,null
+Vogelenzang straat,null,null,null,null
+Vogel kade,male,US,59,kade
+Vogel plantsoen,male,US,63,vogel
+Vogel plein,male,US,63,vogel
+Vogel singel,male,US,63,vogel
+Volendammer weg,male,NL,100,weg
+Volewijks hof,female,NL,100,hof
+Volharding,null,null,null,null
+Volkerak straat,null,null,null,null
+Volta plein,male,ID,71,volta
+Volta straat,male,ID,71,volta
+Von Guericke straat,male,NL,50,von
+Von Humboldt straat,female,US,63,humboldt
+Von Liebig pad,female,TH,52,pad
+Von Liebig weg,male,NL,50,von
+Von Zesen straat,male,NL,50,von
+Vondel brug,male,ID,100,vondel
+Vondelkerk straat,null,null,null,null
+Vossius straat,null,null,null,null
+Vredeman De Vries straat,male,NL,100,vries
+Vredenburger brug,male,PY,100,brug
+Vredenburger steeg,null,null,null,null
+Vondel park,female,NL,60,park
+Vondel straat,male,ID,100,vondel
+Voorburg straat,null,null,null,null
+Voordek,null,null,null,null
+Voordewind,null,null,null,null
+Voorgrift,null,null,null,null
+Wam berg,male,BR,97,berg
+Voorland pad,female,TH,52,pad
+Voormalige Gedempte Huidenvettersloot,null,null,null,null
+Voormalige Stadstimmertuin,null,null,null,null
+Voorne straat,null,null,null,null
+Voorsteven,null,null,null,null
+Voorthuizen straat,null,null,null,null
+Vorselaar straat,null,null,null,null
+Vorticella weg,male,NL,100,weg
+Vosmaer straat,null,null,null,null
+Vossenbes straat,null,null,null,null
+Wamel plein,female,FR,100,plein
+Vredenhof pad,female,TH,52,pad
+Vredenhof weg,male,NL,100,weg
+Vreedenhaven,null,null,null,null
+Vreeland plein,female,FR,100,plein
+Vreeswijk pad,female,TH,52,pad
+Vriesseveem,null,null,null,null
+Vrij burg,male,US,67,burg
+Vrije Geer,male,NL,100,geer
+Vrijheids laan,female,US,65,laan
+Vrijheit Blijheit pad,female,TH,52,pad
+Vrijzicht,null,null,null,null
+Vroegop plein,female,FR,100,plein
+Vrolik straat,null,null,null,null
+Vrouwengeluk hof,female,NL,100,hof
+Vrouwenmantel straat,null,null,null,null
+Vu Medisch Centrum,female,NL,75,centrum
+Vuile Wees pad,female,TH,52,pad
+Vumc Hoofdingang,null,null,null,null
+Vuurwerker plantsoen,null,null,null,null
+VäTtern kade,male,US,59,kade
+W.A. Meelhuysen brug,male,PY,100,brug
+W.J. Bijleveld straat,null,null,null,null
+W.J. Knoop straat,null,null,null,null
+W.L. Penning straat,null,null,null,null
+Waagdrager hof,female,NL,100,hof
+Waaigat,null,null,null,null
+Waalenburg singel,male,NL,100,singel
+Waalseiland brug,male,PY,100,brug
+Waal straat,female,BR,58,waal
+Wachterlied plantsoen,null,null,null,null
+Wadden dijk,male,NL,100,dijk
+Wamel straat,null,null,null,null
+Wandel pad Door Ondergrondse Fietsenstalling,female,TH,52,pad
+Wadden weg,male,NL,100,weg
+Wagenaar straat,null,null,null,null
+Wageningen dreef,null,null,null,null
+Wagen straat,male,ID,100,wagen
+Wakker straat,null,null,null,null
+Walcheren straat,null,null,null,null
+Waldeck Pyrmont laan,male,BR,94,waldeck
+Walden laan,male,US,88,walden
+Wallestein,male,BR,100,wallestein
+Wally Moes pad,female,TH,52,pad
+Walmolen,null,null,null,null
+Walraven Van Hall weg,male,TH,79,hall
+Walvisvaart,null,null,null,null
+Wanne pad,female,TH,52,pad
+Wanning straat,female,SG,100,wanning
+Wapen Van Delft steeg,male,NL,65,van
+Ward Bingley straat,male,NL,100,ward
+Waregem straat,null,null,null,null
+Warmoes straat,null,null,null,null
+Warmond straat,null,null,null,null
+Warnsborn,null,null,null,null
+Water baan,female,NL,100,water
+Watergangse weg,male,NL,100,weg
+Waterkering pad,female,TH,52,pad
+Waterkering weg,male,NL,100,weg
+Waterkers weg,male,NL,100,weg
+Waterland plein,female,FR,100,plein
+Waterlelie gracht,null,null,null,null
+Waterloop,null,null,null,null
+Waterloo plein,male,BR,67,waterloo
+Watermaal pad,female,TH,52,pad
+Waterman straat,male,ES,100,waterman
+Watermolen,null,null,null,null
+Waterpoort steeg,null,null,null,null
+Waterpoort weg,male,NL,100,weg
+Waterrijk weg,male,NL,100,weg
+Waterschap straat,null,null,null,null
+Water steeg,female,NL,100,water
+Watertoren plein,female,FR,100,plein
+Waterval plein,female,FR,100,plein
+Watervoort,null,null,null,null
+Watteau straat,male,BR,100,watteau
+Waver straat,male,US,50,waver
+Wedderborg,null,null,null,null
+Wederik pad,female,TH,52,pad
+Weegbree straat,null,null,null,null
+Weegschaal hof,female,NL,100,hof
+Weena hof,female,NL,100,weena
+Weerdestein,null,null,null,null
+Weersloot pad,female,TH,52,pad
+Weesper plein,female,FR,100,plein
+Weesper straat,null,null,null,null
+Wester park,female,NL,60,park
+Weesperzijde,null,null,null,null
+Weide straat,male,BR,65,weide
+Weissenbruch straat,null,null,null,null
+Weissen singel,male,NL,100,singel
+Weissman straat,null,null,null,null
+Welna straat,female,ID,100,welna
+Welsumer straat,null,null,null,null
+Wembley laan,female,US,65,laan
+Wenslauer straat,null,null,null,null
+Wester straat,male,NL,100,wester
+Weren gouw,female,ID,57,gouw
+Werf straat,null,null,null,null
+Werkendam straat,null,null,null,null
+Werkhoven straat,null,null,null,null
+Werkspoor brug,male,PY,100,brug
+Werktuig straat,null,null,null,null
+Wervershoof straat,null,null,null,null
+Wessel Gansfort straat,male,NL,100,wessel
+Wessel Ilcken straat,male,NL,100,wessel
+West,male,NL,100,west
+Westbroek plein,female,FR,100,plein
+Westbroek straat,null,null,null,null
+Westeinde,null,null,null,null
+Westerlengte,null,null,null,null
+Westermarkt,null,null,null,null
+Westertoegang,null,null,null,null
+Westerwolde straat,null,null,null,null
+Westelijke Merwedekanaal dijk,male,NL,100,dijk
+Westerdoks dijk,male,NL,100,dijk
+Westerdoks kade,male,US,59,kade
+Westerdoks plein,female,FR,100,plein
+Westerduinen straat,null,null,null,null
+Westergas brug,male,PY,100,brug
+Westerhoofd,null,null,null,null
+Wester kade,male,US,59,kade
+Westerkogge straat,null,null,null,null
+Westhaven weg,male,US,50,westhaven
+Westland gracht,male,GB,100,westland
+Westland pad,female,TH,52,pad
+Willem Van Konijnenburg straat,male,NL,100,willem
+Westmalle pad,female,TH,52,pad
+Westpoort weg,male,NL,100,weg
+Wethouder Insinger straat,male,NL,100,wethouder
+Wethouder Ram straat,male,NL,100,ram
+Wethouder Seegers plein,female,FR,100,plein
+Willems brug,male,NL,100,willems
+Westrand weg,male,ZA,100,westrand
+Westtunnel,null,null,null,null
+Westwouder straat,null,null,null,null
+Westzaan straat,null,null,null,null
+Wetenschap brug,male,PY,100,brug
+Wetering laan,female,US,65,laan
+Wetering plein,female,FR,100,plein
+Willem Van Weldamme laan,male,NL,100,willem
+Weteringschans,null,null,null,null
+Wetering straat,null,null,null,null
+Weth Serrurier straat,male,TH,100,weth
+Wethouder Abrahams pad,female,TH,52,pad
+Wethouder De Roos plein,female,NL,100,roos
+Wethouder De Vries plantsoen,male,NL,100,vries
+Wethouder Den Hertog straat,male,NL,89,den
+Wethouder Driessen straat,male,NL,100,wethouder
+Wethouder Ed. Polak straat,male,BE,100,polak
+Wethouder Franke weg,male,NL,100,franke
+Wethouder In 'T Veld straat,male,CA,75,veld
+Willem Witsen straat,male,NL,100,willem
+Wethouder Serrurier straat,male,NL,100,wethouder
+Wethouder Steinmetz straat,male,FR,50,steinmetz
+Wethouder Tabak straat,male,TR,57,tabak
+Wethouder Van Essen weg,male,NL,65,van
+Wethouder Van Wijck straat,male,NL,65,van
+Wethouder Vos pad,female,TH,52,pad
+Wethouder Wierdels straat,male,NL,100,wethouder
+Wevelgem straat,null,null,null,null
+Wevelswale pad,female,TH,52,pad
+Wg- Plein,female,FR,100,plein
+Wiardi Beckman straat,male,BR,80,beckman
+Wibaut hof,female,NL,100,hof
+Willem Schermerhorn straat,male,NL,100,willem
+Willem Schouten straat,male,NL,100,willem
+Willem Theunisse Blok straat,male,NL,100,willem
+Wibaut straat,null,null,null,null
+Wiborgeiland,null,null,null,null
+Wichers straat,null,null,null,null
+Wieg brug,male,PY,100,brug
+Wielewaal straat,null,null,null,null
+Wielingen straat,null,null,null,null
+Wiellader straat,null,null,null,null
+Wierde straat,null,null,null,null
+Wieringerwaard straat,null,null,null,null
+Wigbolt Ripperda straat,null,null,null,null
+Wijde Ekstergang,null,null,null,null
+Wijde Hei steeg,male,US,52,hei
+Wijde Kapel steeg,male,IN,100,kapel
+Wijde Kerk steeg,male,MY,80,kerk
+Wijde Lombard steeg,male,US,67,lombard
+Wijdegang,null,null,null,null
+Wijdenesser straat,null,null,null,null
+Wijde steeg,null,null,null,null
+Wijen burg,male,US,67,burg
+Wijker gouw,female,ID,57,gouw
+Wijmarkt hof,female,NL,100,hof
+Wijnand Nuijen straat,male,NL,100,wijnand
+Wijnkers straat,null,null,null,null
+Wijnsilopassage,null,null,null,null
+Wijnsilo straat,null,null,null,null
+Willem Van Hembyze straat,male,NL,100,willem
+Wijsent kade,male,US,59,kade
+Wijsmuller straat,null,null,null,null
+Wijttenbach straat,null,null,null,null
+Wil De Graaff brug,male,NL,69,wil
+Wilco Jiskoot pad,male,NL,100,wilco
+Wildeman,male,CO,100,wildeman
+Wildenborch,null,null,null,null
+Wildrijk straat,null,null,null,null
+Wilgen weg,male,US,100,wilgen
+Wilhelmina Bladergroen straat,female,NL,100,wilhelmina
+Wilhelmina Blomberg plein,female,FR,100,plein
+Wilhelmina Drucker straat,female,NL,100,wilhelmina
+Wilhelmina plantsoen,female,NL,100,wilhelmina
+Wilhelmina straat,female,NL,100,wilhelmina
+Wilhelmus Leemans straat,male,ID,100,wilhelmus
+Willaert straat,male,BE,60,willaert
+Willebroek straat,null,null,null,null
+Willem Augustin straat,male,NL,100,willem
+Willem Baerdesen straat,male,NL,100,willem
+Willem Bartjens hof,male,NL,100,willem
+Willem Bouwhuis pad,male,NL,100,willem
+Willem De Zwijger laan,male,NL,100,willem
+Willem Drees plantsoen,male,NL,100,willem
+Willem Fenenga straat,male,NL,100,willem
+Willem Frederik Hermans brug,male,NL,100,willem
+Willem Frederik Hermans straat,male,NL,100,willem
+Willem Gerrese pad,male,NL,100,willem
+Willem Gertenbach straat,male,NL,100,willem
+Willem Heselaars straat,male,NL,100,willem
+Willem Kes straat,male,NL,100,willem
+Willem Kloos straat,male,NL,100,willem
+Willem Kraan straat,male,NL,100,willem
+Willem Kromhout straat,male,NL,100,willem
+Willem Landré Straat,male,NL,100,willem
+Willem Leevend straat,male,NL,100,willem
+Willem Molengraaff straat,male,NL,100,willem
+Willem Moll hof,male,NL,100,willem
+Willem Mulier hof,male,NL,100,willem
+Willem Nakken straat,male,NL,100,willem
+Willem Noorlander kade,male,NL,100,willem
+Willem Paap hof,male,NL,100,willem
+Willem Parel straat,male,NL,100,willem
+Willem Passtoors straat,male,NL,100,willem
+Willem Pijper straat,male,NL,100,willem
+Willem Roelofs straat,male,NL,100,willem
+Willem Royaards straat,male,NL,100,willem
+Willemskerke straat,null,null,null,null
+Willemspark weg,male,NL,100,weg
+Willems straat,male,NL,100,willems
+Willeskop straat,null,null,null,null
+William Booth straat,male,NL,100,william
+Willink laan,female,US,65,laan
+Willy Den Ouden brug,male,NL,62,willy
+Willy La Croix straat,male,NL,62,willy
+Willy Mullens kade,male,US,59,kade
+Willy PéTillon straat,male,NL,62,willy
+Willy Sluiter straat,male,NL,62,willy
+Wilmkebreek pad,female,TH,52,pad
+Wiltzangh laan,female,US,65,laan
+Wim Ibo brug,male,NL,99,wim
+Wim Van Est laan,male,NL,99,wim
+Windau brug,male,PY,100,brug
+Windroos kade,male,US,59,kade
+Windroos plein,female,FR,100,plein
+Windtunnel kade,male,US,59,kade
+Woestduin straat,null,null,null,null
+Wingerd weg,male,NL,100,weg
+Winkler Prins hof,male,NL,100,prins
+Winterdijk straat,null,null,null,null
+Winterjan pad,female,TH,52,pad
+Winter straat,female,US,61,winter
+Winthont straat,null,null,null,null
+Wisby brug,male,US,100,wisby
+Wismar brug,male,BR,100,wismar
+Wisseloord plein,female,FR,100,plein
+Wissel straat,male,ID,100,wissel
+Wisselwerking,null,null,null,null
+Witbol straat,null,null,null,null
+Withoedenveem,null,null,null,null
+Witte Boog brug,male,US,90,boog
+Witte De With plein,male,US,62,with
+Witte De With straat,male,US,62,with
+Witte Kat brug,female,NL,90,kat
+Witte Klok,male,NL,100,witte
+Wittenburger gracht,null,null,null,null
+Wittenburger kade,male,US,59,kade
+Wittgenstein laan,female,US,65,laan
+Wodan straat,male,BE,100,wodan
+Zeil brug,female,AE,100,zeil
+Wognumer plantsoen,null,null,null,null
+Wognumer straat,null,null,null,null
+Wolbrantskerk weg,male,NL,100,weg
+Wolderwijd pad,female,TH,52,pad
+Wolfsmelk,null,null,null,null
+Wolter Brandligt straat,male,NL,96,wolter
+Woltera Van Rees straat,male,NL,65,van
+Wolven straat,male,US,100,wolven
+Word brug,male,US,79,word
+Wormerveer straat,null,null,null,null
+Woubrugge straat,null,null,null,null
+Woudrichem straat,null,null,null,null
+Woutertje Pieterse straat,null,null,null,null
+Wouwerman straat,null,null,null,null
+Wyandotte straat,null,null,null,null
+Zaagmolen straat,null,null,null,null
+Zaaiers weg,male,NL,100,weg
+Zaandammer plein,female,FR,100,plein
+Zeilmaker straat,null,null,null,null
+Zaan hof,male,CZ,64,zaan
+Zaan straat,male,CZ,64,zaan
+Zacharias Janse straat,male,BR,88,janse
+Zakslootje,null,null,null,null
+Zak steeg,male,NL,100,zak
+Zamenhof straat,male,BR,100,zamenhof
+Zand brug,male,NL,100,zand
+Zanddwars straat,null,null,null,null
+Zandhoek,null,null,null,null
+Zandhoeks brug,male,PY,100,brug
+Zand pad-Driemond,female,TH,52,pad
+Zand straat,male,NL,100,zand
+Zandstrooier straat,null,null,null,null
+Zandvoort straat,null,null,null,null
+Zaventem weg,male,NL,100,weg
+Zebra brug,female,US,55,zebra
+Zeeberg weg,male,NL,100,weg
+Zeebrugge plein,female,FR,100,plein
+Zeeburger dijk,male,NL,100,dijk
+Zeeburger kade,male,US,59,kade
+Zeeburger pad,female,TH,52,pad
+Zeeburger straat,null,null,null,null
+Zee dijk,male,NL,100,dijk
+Zeemagazijn kade,male,US,59,kade
+Zeevaart,null,null,null,null
+Zeevaart hof,female,NL,100,hof
+Zeil straat,female,AE,100,zeil
+Zekering straat,null,null,null,null
+Zelzate straat,null,null,null,null
+Zenne hof,male,TR,70,zenne
+Zeno straat,male,NL,100,zeno
+Zesde Vogel straat,male,US,63,vogel
+Zichem plein,female,FR,100,plein
+Ziekentroostersgang,null,null,null,null
+Ziesenis kade,male,US,59,kade
+Zilver berg,male,BR,97,berg
+Zilvermeeuw pad,female,TH,52,pad
+Zilverplevier straat,null,null,null,null
+Zilverschoon straat,null,null,null,null
+Zinnia laan,female,US,97,zinnia
+Zloty laan,female,US,65,laan
+Zocher straat,null,null,null,null
+Zomerdijk straat,null,null,null,null
+Zomer straat,male,NL,100,zomer
+Zonhoven straat,null,null,null,null
+Zonnebeke,null,null,null,null
+Zonnehoeks pad,female,TH,52,pad
+Zonne hof,female,NL,100,zonne
+Zonne plein,female,FR,100,plein
+Zonne weg,female,NL,100,zonne
+Zonzeel straat,null,null,null,null
+Zoom straat,male,US,74,zoom
+Zorgzaam,null,null,null,null
+Zout berg,male,BR,97,berg
+Zouthaven brug,female,NL,100,zouthaven
+Zoutkeets brug,male,PY,100,brug
+Zoutkeets gracht,null,null,null,null
+Zoutkeets plein,female,FR,100,plein
+Zoutman brug,male,PY,100,brug
+Zout steeg,male,US,100,zout
+Zuid-Beveland straat,male,NL,100,zuid
+Zuid-Holland straat,male,NL,50,holland
+Zuideinde,null,null,null,null
+Zuidelijke Wandel weg,male,BR,91,wandel
+Zuivel plein,female,FR,100,plein
+Zunderdorper gouw,female,ID,57,gouw
+Zuider Ij dijk,male,ID,100,zuider
+Zuideraker weg,male,NL,100,weg
+Zuiderkerk hof,female,NL,100,hof
+Zuidermolen weg,male,NL,100,weg
+Zuiderzee park,female,NL,60,park
+Zuidewijn,null,null,null,null
+Zuidgors straat,null,null,null,null
+Zuidoost,null,null,null,null
+Zuid plein,female,FR,100,plein
+Zuidwest,null,null,null,null
+Zus Braun straat,male,US,86,braun
+Zutendaal straat,null,null,null,null
+Zwaag straat,null,null,null,null
+Zwaardemaker straat,null,null,null,null
+Zwaluw laan,female,US,65,laan
+Zwaluw straat,null,null,null,null
+Zwanebloem laan,female,US,65,laan
+Zwanenburgwal,null,null,null,null
+Zwanen plein,female,FR,100,plein
+Zwarte gouw,female,ID,57,gouw
+Zwartehand steeg,null,null,null,null
+Zwartlaken steeg,null,null,null,null
+Zwenkgras straat,null,null,null,null
+ÖRe hof,female,NL,100,hof
