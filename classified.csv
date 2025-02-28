@@ -1,0 +1,5470 @@
+,road_name,gender,classification
+0,'S-Gravelandse Veer,male,human
+1,A. Moen straat,male,human
+2,Akkerwinde weg,male,human
+3,Akoleien straat,unknown,other
+4,Alexander straat,male,human
+5,Alfred DöBlin straat,male,human
+6,Soenda straat,male,human
+7,Amundsen weg,male,human
+8,Anfieldroad,male,human
+9,Anielewicz singel,male,human
+10,Ankerplaats,unknown,other
+11,Spook steeg,male,human
+12,Antwerpen baan,male,human
+13,Appel weg,male,human
+14,Archief straat,unknown,Object
+15,Arend Bontekoe plantsoen,male,human
+16,Aster laan,unknown,Plant
+17,Avalon,unknown,Place
+18,Avenhorn straat,unknown,other
+19,Avercamp straat,unknown,other
+20,Avogadro straat,unknown,other
+21,Azalea straat,unknown,Plant
+22,Boom steeg,unknown,Place
+23,Boom straat,unknown,Place
+24,Boorder straat,unknown,other
+25,Boot straat,unknown,Place
+26,Starrenbosch,unknown,Plant
+27,Azart plein,unknown,Object
+28,AziëHaven weg,male,human
+29,Badhuis weg,unknown,Place
+30,Bakkerswaal,unknown,other
+31,Baron De Coubertin laan,male,human
+32,Bartholomeus Ruloffs straat,male,human
+33,'S-Gravendijk dreef,unknown,Object
+34,'S-Gravenhekje,unknown,other
+35,Bavink hof,unknown,other
+36,Bawean straat,male,human
+37,Beatrix park,female,human
+38,Beeckenstein,unknown,other
+39,Beek En Hoff,male,human
+40,Beemdgras straat,unknown,Plant
+41,Beetskoog straat,unknown,other
+42,Begijnen steeg,unknown,other
+43,Bellamydwars straat,unknown,other
+44,Berg straat,unknown,Animal
+45,Bertha Von Suttner straat,female,human
+46,Beuken weg,male,human
+47,Bijlmerring kade,male,human
+48,Binair straat,unknown,other
+49,Blindeman steeg,unknown,Plant
+50,'S-Gravesande plein,male,human
+51,Boor straat,unknown,other
+52,Bosboom Toussaint straat,male,human
+53,'S-Gravesande straat,unknown,other
+54,Boterbloem straat,unknown,Plant
+55,'T Hol,male,human
+56,'T Kleine Loop veld,male,human
+57,'T Nopeind,unknown,other
+58,'T Voorwerf,unknown,other
+59,10,unknown,other
+60,1e Glans hof,male,human
+61,1e Helmers straat,unknown,other
+62,Brand Dirk Ochse park,male,human
+63,Breughel straat,male,human
+64,1e Keker straat,unknown,other
+65,2e Glans hof,unknown,other
+66,2e Helmers straat,unknown,other
+67,3e Helmers straat,unknown,other
+68,A,unknown,other
+69,A. Evers plein,female,human
+70,A. Reitsma kade,male,human
+71,A.A. De Lannoy-Willems straat,male,human
+72,A.A.H. Struijcken kade,male,human
+73,A.J. Koejemans straat,unknown,other
+74,A.J. Kropholler straat,unknown,other
+75,A.M. De Jong straat,male,human
+76,A.S. Onderwijzer hof,female,human
+77,Aaf Bouber straat,female,human
+78,Aagtdorper pad,female,human
+79,Aak hof,unknown,other
+80,Aak pad,unknown,other
+81,Aak straat,unknown,othern
+82,Aalberse straat,unknown,other
+83,Aalsmeer plein,unknown,Place
+84,Aalsmeer weg,unknown,Place
+85,Aambeeld straat,unknown,other
+86,Aandammer brug,male,human
+87,Aandewind,unknown,other
+88,Aardbei straat,unknown,Plant
+89,Aarschot pad,unknown,other
+90,Aart Klein hof,male,human
+91,Aart Van Der Leeuw straat,male,human
+92,Abbenes straat,unknown,other
+93,Abberdaan,unknown,other
+94,Borger straat,male,human
+95,Eerste Boerhaave straat,male,human
+96,Buiten Kadijken,unknown,other
+97,Burman straat,unknown,Place
+98,Borggraaf,unknown,other
+99,Borgloon straat,unknown,other
+100,Catharina Boudewijns hof,female,human
+101,Abcouder pad,unknown,other
+102,Abcouderstraat weg,male,human
+103,Abe Lenstra laan,male,human
+104,Abebe Bikila laan,male,human
+105,Abelen laan,male,human
+106,Abidjan weg,unknown,Place
+107,Abraham De Haan straat,male,human
+108,Abraham Kuyper plein,male,human
+109,Boris Pasternak straat,male,human
+110,Cesar Willem Ittman pad,male,human
+111,Abraham Kuyper straat,male,human
+112,Charlie Parker straat,male,human
+113,Chocolade weg,unknown,Object
+114,Christoffelkruid straat,unknown,Plant
+115,Clarissen hof,female,human
+116,Abraham Staalman plein,male,human
+117,Abraham Van Der Hart straat,male,human
+118,Abram Dudok Van Heel straat,male,human
+119,Colnot En Poons hof,female,human
+120,Columbus straat,male,human
+121,Consience brug,male,human
+122,Abrikozen straat,unknown,other
+123,Abtswoude pad,unknown,Place
+124,Accason,unknown,other
+125,Coornhert straat,unknown,other
+126,Copernicus straat,male,human
+127,Coppelstock straat,unknown,other
+128,Cor Van Der Hart brug,male,human
+129,Cornelis Drebbel straat,male,human
+130,Dirham pad,unknown,Object
+131,Dirk Bons straat,male,human
+132,Cornelis Schuurman hof,male,human
+133,Cosmarium straat,unknown,other
+134,Couhornerhoek,unknown,other
+135,Count Basie straat,male,human
+136,Courbet straat,unknown,other
+137,Crabschuyt straat,unknown,other
+138,Dadel straat,unknown,other
+139,Daelenbroek,unknown,other
+140,Dageraads brug,male,human
+141,Dahlia laan,female,human
+142,Accra weg,unknown,Place
+143,Accumulator weg,male,human
+144,Achilles straat,male,human
+145,Achter Oosteinde,unknown,other
+146,Achterdek,unknown,other
+147,De Dubbele Klap brug,male,human
+148,Achtergouwtje,unknown,other
+149,Achter gracht,unknown,Object
+150,Achter laan,unknown,other
+151,Achtersteven,unknown,other
+152,Ad Windig hof,male,human
+153,Adam Smith plein,male,human
+154,Adam Van Germez hof,male,human
+155,Adama Van Scheltema plein,male,human
+156,Adamello,unknown,Object
+157,Daguerre straat,unknown,other
+158,De Lier hof,male,human
+159,De Ontdekkers brug,male,human
+160,Adelaars weg,male,human
+161,Adingerdorp hof,unknown,other
+162,Dalstein dreef,unknown,other
+163,Dalton straat,male,human
+164,De-Grote-Geus plein,male,human
+165,Borneo kade,male,human
+166,Borneo laan,male,human
+167,Diepen,unknown,other
+168,Digitaal straat,unknown,other
+169,Dijle hof,unknown,Place
+170,Borneosteiger,unknown,other
+171,Dirk Witte hof,male,human
+172,Display straat,male,human
+173,Doklaantje,unknown,Object
+174,Dirk Deutekom pad,male,human
+175,Dirk Hartogh straat,male,human
+176,Dirk SchäFer straat,male,human
+177,Borneo straat,male,human
+178,Bornhout,unknown,other
+179,Borrendamme hof,female,human
+180,Borssenburg plein,female,human
+181,Borssenburg straat,unknown,other
+182,Duivendrechtse laan,female,human
+183,Dwars Spinhuis steeg,unknown,Object
+184,Eckehart hof,male,human
+185,Dirk Sonoy straat,male,human
+186,Eerste Tuindwars straat,male,human
+187,Elseneur brug,male,human
+188,Dirk Van Hasselts steeg,male,human
+189,Eerste Boomdwars straat,male,human
+190,Eerste Breeuwers straat,male,human
+191,Eerste Ceram straat,male,human
+192,Eerste Coehoorn straat,male,human
+193,AustraliëHaven weg,male,human
+194,B&W Allee,unknown,Object
+195,Dirk Vreeken straat,male,human
+196,Essen laan,unknown,Place
+197,Ethosa,unknown,other
+198,B. Merkelbach singel,male,human
+199,Baanakkers pad,unknown,other
+200,Baan brug,male,human
+201,Baanbrug steeg,unknown,Object
+202,Griselde straat,female,human
+203,Baarsjes weg,male,human
+204,Baars straat,male,human
+205,Baas Gansendonck straat,male,human
+206,First straat,male,human
+207,Bach plein,male,human
+208,Bach straat,male,human
+209,Formosa straat,unknown,Place
+210,Back-Up straat,male,human
+211,Dirkshorn plantsoen,unknown,Plant
+212,Frans De Vreng pad,male,human
+213,Fresia straat,female,human
+214,Frissenstein,unknown,other
+215,Discus straat,male,human
+216,Diskette weg,male,human
+217,Distelachter straat,unknown,other
+218,Distel kade,male,human
+219,Hondsdraf pad,unknown,other
+220,Dam,unknown,other
+221,Damlopers pad,unknown,other
+222,Distelkruis straat,unknown,other
+223,Distel laan,unknown,other
+224,Eerste Coentunnel,male,human
+225,Gageldonk,unknown,other
+226,Distel plein,male,human
+227,Distelvoor straat,unknown,other
+228,Geert Geertsen brug,male,human
+229,Eerste Ringdijk straat,male,human
+230,Eerste Rozendwars straat,male,human
+231,George Gershwin plein,male,human
+232,Eerste Schinkel straat,male,human
+233,Gerrit Mannoury straat,male,human
+234,Eerste Sweelinck straat,male,human
+235,Eerste Van Der Helst straat,male,human
+236,Gloriant straat,male,human
+237,Grevelingen straat,unknown,other
+238,Bos En Lommer plantsoen,unknown,other
+239,Ekingen straat,unknown,other
+240,Bos En Lommer plein,unknown,other
+241,Eksteenfontein,unknown,other
+242,Ekster laan,unknown,other
+243,Ekster straat,unknown,other
+244,Gustav Leonhardt brug,male,human
+245,Guus Trestorff straat,male,human
+246,Damrak,unknown,other
+247,Damrak steeg,unknown,other
+248,Dam straat,male,human
+249,Hagenau,unknown,other
+250,Burgemeester Vening Meinesz laan,male,human
+251,Burgersdijk straat,unknown,Object
+252,Burgersweer hof,unknown,other
+253,Burmandwars straat,unknown,other
+254,Hato straat,unknown,other
+255,Busken Huet straat,male,human
+256,Buskenblaser straat,unknown,other
+257,Busstation Elands gracht,unknown,Object
+258,Heintje Hoeks steeg,male,human
+259,Bussum straat,unknown,other
+260,Henk Hiensch straat,male,human
+261,DaniëL De Lange straat,male,human
+262,Butaan weg,male,human
+263,Butskop weg,unknown,other
+264,Buys kade,unknown,other
+265,Buys pad,unknown,other
+266,Buziau straat,unknown,other
+267, Hof Van Groenen,male,human
+268,BöHler pad,unknown,other
+269,C. Kruyswijk straat,unknown,other
+270,DaniëL Defoe laan,male,human
+271,Emma plein,female,human
+272,Hollandse Iep brug,unknown,other
+273,Honingen,unknown,other
+274,Bos En Lommer weg,male,human
+275,Bosbraak hof,unknown,other
+276,Bosch Van Drakestein pad,male,human
+277,C. Van Eesteren laan,male,human
+278,C.J.K. Van Aalst straat,male,human
+279,C.J.Van Houten laan,male,human
+280,Bosplaat,unknown,other
+281,Bosrank straat,unknown,other
+282,Boterdiep straat,unknown,other
+283,Boterkers straat,unknown,other
+284,Bottelarijpassage,unknown,other
+285,Bottelarij straat,unknown,other
+286,Bottelier plein,unknown,other
+287,C.K. Elout straat,male,human
+288,Botter straat,unknown,other
+289,Botteskerk singel,male,human
+290,Botticelli straat,male,human
+291,Boulevard pad,unknown,other
+292,Houtkopersburgwal,unknown,other
+293,Bouten burg,male,human
+294,Boutens straat,unknown,other
+295,Bouvigne,unknown,other
+296,Bouwen Ewoutsz straat,male,human
+297,Baden Powell weg,male,human
+298,Boven Rijkersloot,male,human
+299,Bovenkarspel straat,unknown,other
+300,Ijzerwerker straat,unknown,other
+301,Bovenkruier,unknown,other
+302,Entrepot hof,unknown,other
+303,Badhuis kade,male,human
+304,Badrian hof,male,human
+305,Baeto straat,unknown,other
+306,Baffin straat,male,human
+307,Baionen,unknown,other
+308,Esplanade De Meer,unknown,other
+309,Jan Goeverneur hof,male,human
+310,Jan Postma hof,male,human
+311,Henk Gortzak straat,male,human
+312,Esther De Boer-Van Rijk straat,female,human
+313,Jeroenen steeg,unknown,other
+314,Johan Schamp pad,male,human
+315,Ethekwini,male,human
+316,Johannes De Beka hof,female,human
+317,Joop Eijl straat,male,human
+318,Bakhuizen Van Den Brink hof,male,human
+319,Bakhuys Roozeboom straat,unknown,Plant
+320,Bakkers brug,male,human
+321,Bakkers straat,male,human
+322,Johannes Van Der Steur straat,male,human
+323,Bakkum straat,unknown,other
+324,Falck straat,male,human
+325,Kanaal post,unknown,other
+326,Karel Van De Woestijne straat,male,human
+327,Joop Gerritze straat,male,human
+328,Kastanje weg,male,human
+329,Balatonmeer laan,unknown,other
+330,Balboa plein,male,human
+331,Balboa straat,male,human
+332,Baldermoer,unknown,other
+333,Baldwin straat,male,human
+334,Joop Ijisberg straat,male,human
+335,Kemirie straat,unknown,other
+336,Balearen laan,unknown,other
+337,Balgzand straat,unknown,other
+338,Bali straat,male,human
+339,Ballen brug,male,human
+340,Balthasar Florisz straat,male,human
+341,Bamberg hof,male,human
+342,Bananen straat,unknown,other
+343,Bandijk straat,unknown,Object
+344,Banka straat,male,human
+345,Bankwerkerij,unknown,other
+346,Fannius Scholten straat,unknown,other
+347,Fanny Blankers-Koen laan,male,human
+348,King'S Cross,male,human
+349,Klieverink,unknown,other
+350,Bovenover,unknown,other
+351,Boy Edgar straat,male,human
+352,Boymans weg,male,human
+353,Braak En Bosch,male,human
+354,Brachthuijzer straat,unknown,other
+355,Fanny Durack straat,female,human
+356,Braeburn straat,unknown,other
+357,Kokospalm hof,unknown,Plant
+358,Brahms straat,male,human
+359,Joop Van Weezel hof,male,human
+360,Joop Woortman plein,male,human
+361,Korte Leidsedwars straat,unknown,Plant
+362,Bramzeil,unknown,other
+363,Kromelleboog steeg,unknown,other
+364,Bramzeil hof,unknown,other
+365,Brand brug,male,human
+366,Banne Buiksloot laan,female,human
+367,Banne Centrum,unknown,other
+368,Banne plein,unknown,other
+369,Ban straat,male,human
+370,Bantammer brug,male,human
+371,Banterij,unknown,other
+372,Barajas weg,male,human
+373,Barbara Strozzi laan,female,human
+374,Brandewijn steeg,unknown,other
+375,Barbara Van Meerten straat,female,human
+376,Barbusse laan,unknown,other
+377,Barcelona plein,unknown,Place
+378,Brandnetel pad,unknown,other
+379,Brandslang straat,unknown,other
+380,Lamong brug,unknown,other
+381,Brandts Buys straat,male,human
+382,Brandweer brug,unknown,Place
+383,Barentsz plein,male,human
+384,Barentsz straat,male,human
+385,Brantas brug,male,human
+386,Brede Kerke pad,unknown,other
+387,Leiduin straat,unknown,other
+388,Bark pad,unknown,other
+389,Barnde steeg,unknown,other
+390,Barnevelder straat,unknown,Object
+391,Baron G.A. Tindal plein,male,human
+392,Baron G.A. Tindal straat,male,human
+393,Joos Banckers plantsoen,male,human
+394,Baron Schimmelpenninck Van Der Oye weg,male,human
+395,Baronie pad,unknown,other
+396,Brede Vogel straat,male,human
+397,Brederode straat,unknown,other
+398,Brede weg,male,human
+399,Bredius straat,unknown,other
+400,Liesbeth Den Uyl brug,female,human
+401,Linter hof,unknown,other
+402,Justus Lipsius straat,male,human
+403,Louis De Visser straat,male,human
+404,Louise De Coligny straat,female,human
+405,Breed veld,male,human
+406,Baronie straat,male,human
+407,Baron straat,male,human
+408,Bart De Ligt straat,male,human
+409,Bart Poesiat straat,male,human
+410,Bart Van Der Leck plantsoen,male,human
+411,Bart Van Hove straat,male,human
+412,Bartholomeus Diaz straat,male,human
+413,Justus Van Maurik straat,male,human
+414,Juttepeer pad,unknown,Plant
+415,Bartholomeus Drijfhout straat,male,human
+416,Martinus Nijhoff straat,male,human
+417,Bartholt Enthes straat,unknown,other
+418,Breehorn straat,unknown,other
+419,Breezand pad,unknown,other
+420,Breitner straat,male,human
+421,Brem singel,unknown,Plant
+422,Ken Saro-Wiwa straat,male,human
+423,Brem straat,unknown,Plant
+424,Brenner,male,human
+425,Brentano straat,unknown,other
+426,Bretten laan,unknown,other
+427,Fazanten laan,unknown,other
+428,Fazanten weg,male,human
+429,Broekzijdsche pad,unknown,other
+430,Broenshofje,unknown,other
+431,Bromo straat,male,human
+432,Bronckhorst straat,unknown,other
+433,K+R,unknown,other
+434,Brouwers gracht,unknown,Animal
+435, Brug 102,unknown,Place
+436, Brug 142,unknown,Place
+437, Brug 38,unknown,Place
+438, Brug 39,unknown,Place
+439, Brug 40,unknown,Place
+440, Brug 66,unknown,Place
+441, Brug 69,unknown,Place
+442, Brug 812,unknown,Place
+443, Brug 848,unknown,Place
+444, Brug 849,unknown,Place
+445, Brug 850,unknown,Place
+446,Bruins Slot straat,male,human
+447,Bruinvis straat,unknown,other
+448,Bruno Van Moerkerkenpassage,male,human
+449,Brussel singel,male,human
+450,Buffer straat,male,human
+451,Februari plein,male,human
+452,Monnikendwars straat,unknown,other
+453,C.P.M. Romme plantsoen,male,human
+454,Cabot straat,male,human
+455,Cabral straat,male,human
+456,Cacao weg,male,human
+457,Mt. Ondina weg,unknown,Object
+458,Callantsoog straat,unknown,other
+459,Camera Obscura brug,male,human
+460,Basis weg,unknown,other
+461,Campanula pad,unknown,other
+462,Namen hof,unknown,other
+463,Campanula straat,unknown,other
+464,Camper straat,unknown,other
+465,Cannen burg,unknown,other
+466,Ndsm-Pier,unknown,Place
+467,Henk HenriëT straat,male,human
+468,Nida Senff straat,female,human
+469,Henk Ooms pad,male,human
+470,Fokkezeil,unknown,other
+471,Bastenaken straat,unknown,other
+472,Bastiaan Plooij straat,male,human
+473,Basting straat,unknown,other
+474,Batavia straat,male,human
+475,Batjan straat,unknown,other
+476,Batterypark straat,unknown,Place
+477,Bauduin laan,male,human
+478,Capri weg,unknown,Place
+479,Carillon straat,unknown,other
+480,Carnap straat,unknown,other
+481,Feike De Boer laan,female,human
+482,Fenny Heemskerk brug,female,human
+483,Fonteinkruid straat,unknown,other
+484,Fluweelboom laan,unknown,Plant
+485,Kenau Simons Hasselaar straat,male,human
+486,Frits Rotgans hof,male,human
+487,Kampina,unknown,other
+488,Chassé Straat,unknown,other
+489,Noordkaap straat,unknown,other
+490,Chesterton laan,male,human
+491,Chet Baker straat,male,human
+492,Kennemerduin straat,unknown,other
+493,Beemster straat,unknown,other
+494,Beethoven plein,male,human
+495,Fritz Conijn straat,male,human
+496,FröBel straat,unknown,other
+497,Funen kade,male,human
+498,Keratella straat,unknown,other
+499,Chico Mendes straat,male,human
+500,Chopin straat,male,human
+501,Chris Lebeau straat,male,human
+502,Christiaan BrüNings straat,male,human
+503,Christiaan De Wet straat,male,human
+504,Christiaan Huygens plein,male,human
+505,Christian Neefe straat,male,human
+506,Christine Poolman hof,female,human
+507,Christine Stoetz hof,female,human
+508,Karel Van Het Reve brug,male,human
+509,Het Amsterdamse Pad,unknown,Place
+510,Karimata straat,unknown,other
+511,Kerdijk hof,male,human
+512,Christoffel Plantijn gracht,male,human
+513,DaniëL Goedkoop straat,male,human
+514,DaniëL Stalpert straat,male,human
+515,Dante straat,male,human
+516,Orca straat,male,human
+517,Clio straat,unknown,other
+518,Coenhaven weg,male,human
+519,Coentje Gans plantsoen,male,human
+520,Kleine Hout straat,male,human
+521,Buiksloterbreek,unknown,other
+522,Oterleek straat,unknown,other
+523,Lanseloet straat,male,human
+524,David Vos straat,male,human
+525,David Wijnkoop straat,male,human
+526,Davis straat,male,human
+527,Hoekenrode,unknown,other
+528,Karl GröGer singel,male,human
+529,Jan Vrijman straat,male,human
+530,Paulusbroedersluis,unknown,Object
+531,Pesthuis laan,unknown,other
+532,De Borcht,unknown,other
+533,Karl Marx pad,male,human
+534,Pier De Boer brug,male,human
+535,Golfbaan pad,unknown,other
+536,De Breek straat,unknown,other
+537,Gooijer steeg,unknown,other
+538,Gooilandse weg,male,human
+539,Karlskrona-Eiland,unknown,Place
+540,Pieter Goos straat,male,human
+541,Karnemelk steeg,unknown,other
+542,Buiksloter weg,unknown,other
+543,Buiten Bantammer straat,male,human
+544,Johanna Ter Meulen plein,female,human
+545,Buiten Brouwers straat,male,human
+546,Buiten Dommers straat,male,human
+547,Buiten Oranje straat,male,human
+548,Buiten Vissers straat,male,human
+549,Buiten Wieringer straat,male,human
+550,Johanna park,female,human
+551,Karn straat,male,human
+552,Buiten dijk,male,human
+553,Buitendraaierij,unknown,other
+554,Gooilust straat,unknown,other
+555,Gooimeer straat,unknown,other
+556,De Witten kade,male,human
+557,De Witten straat,male,human
+558,Buiten gouw,female,human
+559,Buitenkerker weg,male,human
+560,Buitenrust pad,female,human
+561,Buiten singel,male,human
+562,Derde Kostverloren kade,male,human
+563,Derde Leliedwars straat,male,human
+564,Derde Looiersdwars straat,male,human
+565,Derde Marnixdwars straat,male,human
+566,Gouwenaars steeg,unknown,other
+567,Gouwzee straat,unknown,Place
+568,President Kennedy laan,male,human
+569,Derde Oosterpark straat,male,human
+570,Derde Schinkel straat,male,human
+571,Derde Vogel straat,male,human
+572,Derde Weteringdwars straat,male,human
+573,Derde Wittenburgerdwars straat,male,human
+574,Beethoven straat,male,human
+575,Begijn hof,female,human
+576,Begonia straat,unknown,Plant
+577,Beijerland straat,unknown,other
+578,Beira weg,unknown,Place
+579,Beitel kade,unknown,Place
+580,Prof. Tulp straat,male,human
+581,België Plein,unknown,Place
+582,Bella Vista straat,female,human
+583,Bellamy plein,male,human
+584,Ptolemaeus straat,unknown,other
+585,Bellamy straat,male,human
+586,Bellefleur hof,unknown,Plant
+587,Belmermeer,unknown,other
+588,Beloega straat,unknown,other
+589,Belvedere weg,male,human
+590,Ben Alder,male,human
+591,Ben Avon,male,human
+592,Ben Bril straat,male,human
+593,Ben Hope,male,human
+594,Ben Lawers,male,human
+595,Ben Nevis,male,human
+596,Ben Van Meerendonk straat,male,human
+597,Ben Webster straat,male,human
+598,Ben Wyvis,male,human
+599,Benedenlangs,unknown,other
+600,Benelux baan,male,human
+601,Karpata straat,unknown,other
+602,Benit,male,human
+603,Benjamin Britten straat,male,human
+604,Benkoelen straat,unknown,other
+605,Bennebroek straat,unknown,other
+606,Benno Stokvis straat,male,human
+607,Bentinck straat,unknown,other
+608,Govert Flinck straat,male,human
+609,Rentmeesters laan,unknown,other
+610,Ribes laan,unknown,other
+611,Benzol weg,male,human
+612,Bep Bakhuys straat,male,human
+613,Bep Van Klaveren boulevard,male,human
+614,Berberis straat,unknown,other
+615,Berceuse straat,unknown,other
+616,Berchvliet,unknown,other
+617,Bercy laan,unknown,other
+618,Graaf Floris straat,male,human
+619,Karper straat,unknown,other
+620,Berend Boeijinga straat,male,human
+621,Beren straat,unknown,Animal
+622,Bergmolen,unknown,Object
+623,Beringen straat,unknown,other
+624,Berkel straat,male,human
+625,Berken laan,male,human
+626,Berken straat,male,human
+627,Berkhout hof,female,human
+628,Johannes Blooker weg,male,human
+629,Berlaar straat,unknown,other
+630,Berlage brug,male,human
+631,Berlage hof,male,human
+632,Bernabeu hof,male,human
+633,Bernard Koch straat,male,human
+634,Bernard Leene pad,male,human
+635,Bernard Loder straat,male,human
+636,Bernard Shaw singel,male,human
+637,Bernard Zweers kade,male,human
+638,Bernhard Eilers hof,male,human
+639,Bernisse straat,unknown,other
+640,Bert Haanstra hof,male,human
+641,Graafschap straat,unknown,other
+642,Johannes Hilverdink straat,male,human
+643,Rutherford straat,male,human
+644,Derkinderen straat,male,human
+645,Schieland plein,unknown,Place
+646,Des PréS straat,male,human
+647,Descartes pad,male,human
+648,Descartes straat,male,human
+649,Desiderius brug,male,human
+650,Dessel straat,unknown,other
+651,Buitenveldertse laan,unknown,Place
+652,Buitenzagerij,unknown,other
+653,Science Park,male,human
+654,Buizerd laan,unknown,Animal
+655,Bulgerstein,unknown,other
+656,Bullebak,unknown,Animal
+657,Bulle brug,unknown,Animal
+658,Bulle pad,unknown,Animal
+659,Kleine Pimpernel straat,male,human
+660,Kruitberg hof,unknown,other
+661,Bullewijk pad,unknown,other
+662,Bultrug pad,unknown,other
+663,Deurloo straat,male,human
+664,Deutzenhofje,unknown,other
+665,Bund laan,female,human
+666,Burgemeester Bletz straat,male,human
+667,Burgemeester Cramer gracht,male,human
+668,Develstein,unknown,other
+669,Dever,male,human
+670,Lanzarote straat,male,human
+671,Bert Haanstra kade,male,human
+672,Bertelman plein,male,human
+673,Bertelman straat,male,human
+674,Berthelot straat,male,human
+675,Berthold Brecht straat,male,human
+676,Bertrand Russell straat,male,human
+677,Bertus Van Grouw straat,male,human
+678,Berzelius straat,unknown,other
+679,Bessemer straat,unknown,other
+680,Bessie Smith brug,male,human
+681,Lodewijk Trip straat,male,human
+682,BestevâEr straat,unknown,other
+683,Betelgeuze straat,unknown,other
+684,BethaniëNdwars straat,unknown,other
+685,BethaniëN straat,unknown,other
+686,Bethlem steeg,unknown,Place
+687,Deyman straat,male,human
+688,Diamantbewerkers brug,unknown,Place
+689,Diamant straat,unknown,Place
+690,Stoof steeg,male,human
+691,Betuwe straat,unknown,other
+692,Beuling straat,unknown,Animal
+693,Beurspassage,unknown,other
+694,Beurs plein,funknown,other
+695,Beurspoortje,unknown,Object
+696,Beurs straat,unknown,other
+697,Beveren straat,male,human
+698,Beverwijk straat,unknown,other
+699,Beyster veld,male,human
+700,Diatoma straat,unknown,other
+701,Dichtershofje,unknown,other
+702,Dick Greiner straat,male,human
+703,Realen gracht,unknown,Object
+704,Burgemeester Rendorp straat,male,human
+705,Laboratorium straat,male,human
+706,Generaal Vetter straat,male,human
+707,Generator straat,male,human
+708,Tjalk straat,unknown,other
+709,Bezaanjacht plein,unknown,other
+710,Bezembinders pad,unknown,other
+711,Bickers gracht,unknown,Place
+712,Bickerswerf,unknown,Place
+713,Bierdragersgang,unknown,other
+714,Bierens De Haan straat,male,human
+715,Biesbosch straat,unknown,Plant
+716,Bieslook pad,unknown,other
+717,Bijdorp plantsoen,unknown,Plant
+718,Bijdorp straat,unknown,Place
+719,Dick Hillenius pad,male,human
+720,Concertgebouw plein,unknown,Place
+721,Trianon pad,unknown,other
+722,Concordiahofje-Noord,unknown,other
+723,Trouringh straat,unknown,other
+724,Tulpen laan,unknown,Plant
+725,Genhoes,unknown,other
+726,Tweede Ceram straat,male,human
+727,Bijlmerplein pad,unknown,Place
+728,Bijlmerringsloot,unknown,Place
+729,Bijlmerweide,unknown,Place
+730,Bijltjes pad,female,human
+731,Bilderdijk kade,male,human
+732,Bilderdijk park,male,human
+733,Condensator weg,male,human
+734,Confucius plein,male,human
+735,Conny Stuart straat,female,human
+736,Conrad straat,male,human
+737,Constantiahofje,unknown,other
+738,Tjeukemeer hof,unknown,Place
+739,Dickens laan,male,human
+740,Diderot straat,male,human
+741,Valken steeg,male,human
+742,Groen Van Prinsterer straat,male,human
+743,Tweede Disteldwars straat,male,human
+744,Ladogameer hof,unknown,Place
+745,Cornelis Van Alkemade straat,male,human
+746,Cornelis Van Der Linden straat,male,human
+747,Cornelis Van Rij plantsoen,male,human
+748,Cornelis Van Vollenhoven straat,male,human
+749,Cornelis Vermuyden straat,male,human
+750,Verf straat,male,human
+751,Cornelis Vriendt straat,male,human
+752,Coronel straat,male,human
+753,Corsgen brug,male,human
+754,Dienst pad,unknown,other
+755,Diepenbeek plantsoen,unknown,Plant
+756,Groenburgwal,unknown,other
+757,Groene Ridder hof,male,human
+758,Bilderdijk straat,unknown,Object
+759,Billie Holiday straat,female,human
+760,Billiton straat,unknown,other
+761,Binnen Brouwers straat,male,human
+762,Binnen Dommers straat,male,human
+763,Binnen Oranje straat,male,human
+764,Binnen Vissers straat,male,human
+765,Binnen Wieringer straat,male,human
+766,Binnendraaierij,unknown,other
+767,Binnengasthuis straat,unknown,Object
+768,Binnenhof straat,unknown,other
+769,Dijksloot,unknown,Object
+770,Binnenka dijk,male,human
+771,Groene Ridder pad,male,human
+772,Binnenkant,unknown,other
+773,Binnenpolderring dijk Noord,male,human
+774,Dijk straat,male,human
+775,Lage Brug,male,human
+776,Groenehuyzen,unknown,other
+777,Groenendaal straat,unknown,other
+778,Van Linschoten straat,male,human
+779,Dijkwater,unknown,other
+780,Binnenvaart,unknown,other
+781,Binnenzagerij,unknown,other
+782,Biot hof,male,human
+783,Bitterzoet straat,male,human
+784,Blaauwlaken steeg,unknown,other
+785,Blaeu Erf,male,human
+786,Blaeu straat,unknown,other
+787,Blancefloor straat,unknown,other
+788,Blankenberge straat,unknown,other
+789,Blanken straat,unknown,other
+790,Blasius straat,male,human
+791,Vuurwerker weg,male,human
+792,Dijkweg pad,unknown,Place
+793,Laing'S Nek straat,male,human
+794,Dijsselhof plantsoen,unknown,Plant
+795,Dikninge,unknown,other
+796,Blauw brug,male,human
+797,Blauwburgwal,unknown,Animal
+798,Blauwdas straat,unknown,other
+799,Blauwezand brug,male,human
+800,Blauwhoedenveem,unknown,other
+801,Blauwpijp straat,unknown,other
+802,Blauwvoet straat,unknown,other
+803,Dilbeek pad,unknown,Place
+804,Dille hof,male,human
+805,Dille straat,male,human
+806,Blazer pad,unknown,other
+807,Bleijenbeek,unknown,other
+808,Bloed straat,unknown,other
+809,Dilsen straat,female,human
+810,Dina Appeldoorn straat,female,human
+811,Dinarpromenade,unknown,other
+812,Lakenhal straat,unknown,other
+813,Van Marum straat,male,human
+814,Lamarck hof,male,human
+815,Molenbeek straat,unknown,other
+816,Nieuwe Passeerders straat,unknown,Plant
+817,Soerabaja straat,male,human
+818,Gentiaan plein,unknown,other
+819,Van Middellandt straat,male,human
+820,Gentiaan straat,unknown,other
+821,Corsica weg,unknown,other
+822,Cort Van Der Linden kade,male,human
+823,Cortenbach,unknown,other
+824,Corversbos straat,unknown,Plant
+825,CoöPeratie hof,unknown,other
+826,Crack-State,male,human
+827,Cromme Camp,male,human
+828,Cronjé Straat,unknown,other
+829,George Balanchine straat,male,human
+830,Soerapati straat,unknown,other
+831,Bloemendaler gouw,unknown,Plant
+832,Bloemendaler weg,unknown,Plant
+833,Bloem gracht,unknown,Plant
+834,Bloem straat,unknown,Plant
+835,Blokker straat,unknown,other
+836,Zuiderzee weg,unknown,Place
+837,Blokmaker straat,unknown,Place
+838,Blomwijcker pad,unknown,other
+839,Bloys Van Treslong straat,male,human
+840,Zwarte Pad,unknown,other
+841,Admiraal De Ruijter weg,male,human
+842,Admiraal Helfrich straat,male,human
+843,Admiralen gracht,unknown,Object
+844,Admiraliteit straat,unknown,other
+845,Adolf Van Nassau straat,male,human
+846,Adolf Van Nassau weg,male,human
+847,Adolphine Eduardine Kok plantsoen,male,human
+848,Adriaan Ditvoorst hof,male,human
+849,Adriaan Dorsman straat,male,human
+850,Adriaan Kluit straat,male,human
+851,Adriaan Loosjes straat,male,human
+852,Adriaan Van Bergen straat,male,human
+853,Adriaan Van Der Horst straat,male,human
+854,Adriaan Van Oordt hof,male,human
+855,Adrianus Van Waert weg,male,human
+856,Adrichem straat,unknown,other
+857,AdèLe Opzoomer straat,female,human
+858,Afrodite kade,male,human
+859,Agamemnon straat,male,human
+860,Agatha Christie singel,female,human
+861,Agatha Deken straat,female,human
+862,Akbar straat,male,human
+863,Akerpolder straat,unknown,Place
+864,Aker singel,male,human
+865,Akersluis,unknown,Object
+866,Akerwatering straat,unknown,other
+867,Akkerdistel straat,unknown,other
+868,Akker straat,unknown,other
+869,Albarda gracht,male,human
+870,Albarda kade,male,human
+871,Albatros pad,unknown,other
+872,Alberdingk Thijm straat,male,human
+873,Albert Camus laan,male,human
+874,Blussé Straat,unknown,other
+875,Boas En Judels hof,male,human
+876,Albert Cuyp straat,male,human
+877,Albert Hahn plantsoen,male,human
+878,Albert Helman brug,male,human
+879,Albert Luthuli straat,male,human
+880,Albert Mol hof,male,human
+881,Albert Neuhuys straat,male,human
+882,Albert Schultens hof,male,human
+883,Albert Verwey straat,male,human
+884,Albert Wittenberg plein,male,human
+885,Albertus Magnus hof,male,human
+886,Alblas straat,male,human
+887,Albrecht DüRer straat,male,human
+888,Albrecht Rodenbach hof,male,human
+889,Alcantara straat,male,human
+890,Aldebaran plein,unknown,other
+891,Aldebaran straat,unknown,other
+892,Aldendriel,unknown,other
+893,Aldengoor,unknown,other
+894,Aletta Jacobs laan,female,human
+895,Alexander Boers straat,male,human
+896,Alexander kade,male,human
+897,Alexander plein,male,human
+898,Alexandrine Tinne hof,female,human
+899,Oude Kinker brug,unknown,other
+900,Alfred Tepe pad,female,human
+901,Algol straat,unknown,other
+902,Alhambra laan,unknown,other
+903,Alida Van Den Bos straat,male,human
+904,Alkmaar straat,male,human
+905,Allard Pierson straat,male,human
+906,Allen straat,male,human
+907,Alma Tadema straat,female,human
+908,Alm straat,unknown,other
+909,Alpert Van Metz hof,male,human
+910,Aluminium brug,male,human
+911,Amalia straat,female,human
+912,Amandel straat,unknown,other
+913,Amazonen straat,unknown,other
+914,Ambacht straat,unknown,other
+915,Ambon plein,male,human
+916,Ambon straat,male,human
+917,Ambulanceingang Vumc,unknown,other
+918,Ambulanceinrit Bovenij,unknown,other
+919,Amc pad,unknown,other
+920,Ameland straat,unknown,other
+921,Amerbos,unknown,Plant
+922,Amerikahaven weg,male,human
+923,Amoeba straat,male,human
+924,AmpèRe straat,unknown,other
+925,Oude Lelie straat,unknown,Animal
+926,Amstel,unknown,Place
+927,Amstelbest pad,unknown,Place
+928,Amstelbest straat,unknown,Place
+929,Amstel boulevard,unknown,Place
+930,Bob Haarms laan,male,human
+931,Bocholt straat,unknown,other
+932,Bodensee hof,male,human
+933,Boecken burg,male,human
+934,Boeiers pad,unknown,other
+935,Boenin laan,unknown,other
+936,Boeren steeg,unknown,other
+937,Boerenwetering pad,unknown,other
+938,Boerhaave plein,unknown,other
+939,Boeroe straat,unknown,other
+940,Boeton straat,unknown,other
+941,Bogortuin,unknown,other
+942,Cruquius kade,male,human
+943,Amstel dijk,unknown,Place
+944,Amstel dijk Noord,unknown,Place
+945,Amstel kade,unknown,Place
+946,Amstelland laan,unknown,Place
+947,Amstel park,unknown,Place
+948,Amstel plein,unknown,Place
+949,Amstelstationunknown,Place
+950,Amstel straat,unknown,Place
+951,Amstelstroom laan,unknown,Place
+952,Bok De Korver weg,male,human
+953,Bokkinghangen,unknown,Place
+954,Bolestein,unknown,other
+955,Bolk straat,unknown,Place
+956,Bolstoen,unknown,other
+957,Amstelveense weg,unknown,Place
+958,Amstel veld,unknown,Place
+959,Oude Looiers straat,unknown,Plant
+960,Amstelvliet straat,unknown,other
+961,Amsterdam Arena,unknown,Place
+962,Amsterdam Bijlmer Arena,unknown,Place
+963,Amsterdam Rijnkanaal kade,unknown,Place
+964,Amsterdam Sloter dijk,unknown,Place
+965,Amsterdamsestraat weg,unknown,Place
+966,Analoog straat,unknown,Place
+967,Ananas plein,unknown,Plant
+968,Anderiesen straat,unknown,other
+969,Anderlecht laan,female,human
+970,Andersen singel,male,human
+971,Andijk straat,unknown,Object
+972,Andoorn straat,unknown,other
+973,Andreas Bonn straat,male,human
+974,Andreas Schelfhout straat,male,human
+975,Andreas plein,male,human
+976,Andrej Sacharov straat,male,human
+977,Andries Copier straat,male,human
+978,Andries Snoek straat,male,human
+979,Cruquius straat,unknown,other
+980,Andries Vierlingh straat,male,human
+981,Andromeda straat,unknown,Object
+982,Anemoon straat,unknown,Plant
+983,Anjeliers straat,unknown,other
+984,Ank Van Der Moer straat,male,human
+985,Anker weg,male,human
+986,Anna Bijns straat,female,human
+987,Anna Blaman singel,female,human
+988,Anna Pavlova straat,female,human
+989,Anna Spengler straat,female,human
+990,Anna Van Buren straat,female,human
+991,Anna Vock straat,female,human
+992,Annabella weg,female,human
+993,Anne Frank straat,female,human
+994,Anne Kooistra hof,female,human
+995,Annemonen laan,unknown,Plant
+996,Annette Versluys pad,female,human
+997,Annie M.G. Schmidt brug,female,human
+998,Annie M.G. Schmidt straat,female,human
+999,Annie Romein plein,female,human
+1000,Anselmus hof,unknown,other
+1001,Anske Lamminga straat,male,human
+1002,Antarus straat,unknown,other
+1003,Anthonie Van Aken straat,male,human
+1004,Anthonie Van Dijck straat,male,human
+1005,Anthony Fokker weg,male,human
+1006,Anthony Spatzier hof,male,human
+1007,Antillen straat,unknown,other
+1008,Anton Constandse straat,male,human
+1009,Anton De Kom plein,male,human
+1010,Anton HöLzel singel,male,human
+1011,Anton Joling brug,male,human
+1012,Anton Peters hof,male,human
+1013,Bombraak,unknown,other
+1014,Haarlemmermeerstation,unknown,Place
+1015,Anton Schlepers pad,male,human
+1016,Anton Struik straat,male,human
+1017,Anton Verheij straat,male,human
+1018,Anton Waldorp straat,male,human
+1019,Antonie Heinsius straat,male,human
+1020,Antonio Vivaldi straat,male,human
+1021,Antony Modderman straat,male,human
+1022,Antoon Keldermans straat,male,human
+1023,Apollo laan,unknown,other
+1024,Aquamarin,unknown,Place
+1025,Arago hof,unknown,Place
+1026,Arcadia,unknown,Place
+1027,Arcella straat,unknown,Place
+1028,Bomenrijk,unknown,other
+1029,Bonaire plein,female,human
+1030,Bonaire straat,male,human
+1031,Archangel kade,male,human
+1032,Archangel weg,male,human
+1033,Archimedes laan,male,human
+1034,Archimedes plantsoen,male,human
+1035,Archimedes weg,male,human
+1036,Ardennen laan,unknown,Place
+1037,Arenborg,unknown,other
+1038,Arend laan,male,human
+1039,Arendonk singel,male,human
+1040,Da Costa straat,male,human
+1041,Arent Janszoon Ernst straat,male,human
+1042,Arent Krijts straat,male,human
+1043,Argonauten straat,unknown,other
+1044,Argo straat,unknown,other
+1045,Ariana Nozeman straat,female,human
+1046,Arie Biemond straat,male,human
+1047,Arij Prins straat,male,human
+1048,Aristide Briand straat,male,human
+1049,Aristoteles straat,male,human
+1050,Arlanda weg,male,human
+1051,Arm brug,male,human
+1052,Armeense brug,male,human
+1053,Arnold Geulincx pad,male,human
+1054,Arnold Ingwersen pad,male,human
+1055,Arnold SchöNberg laan,male,human
+1056,Arondeus straat,unknown,other
+1057,Artemis straat,female,human
+1058,Arthur Meerwaldt pad,male,human
+1059,Arthur Van Schendel straat,male,human
+1060,Aruba straat,female,human
+1061,ArèNpalm straat,unknown,Plant
+1062,Asingaborg,unknown,other
+1063,Assendelft straat,unknown,other
+1064,Assum burg,male,human
+1065,Asta Elstak straat,female,human
+1066,Astasia straat,female,human
+1067,Asterdwars weg,male,human
+1068,Aster weg,unknown,other
+1069,AtatüRk,male,human
+1070,Atje Keulen-Deelstra straat,male,human
+1071,Atlantis plein,unknown,Place
+1072,Atlas Maior brug,male,human
+1073,August Allebé Plein,male,human
+1074,August Vermeylen straat,male,human
+1075,Aula laan,unknown,Place
+1076,Aurikel straat,unknown,other
+1077,Bongerd kade,male,human
+1078,Bongerd kade (Druiven straat),male,human
+1079,Bonhoeffer singel,male,human
+1080,Boni plein,unknown,other
+1081,Boni straat,unknown,other
+1082,Bonnefanten straat,unknown,other
+1083,Bontekoe straat,unknown,other
+1084,Mr. P.N. Arntzenius weg,male,human
+1085,Bijlmer dreef,unknown,Place
+1086,Bijlmer plein,unknown,Place
+1087,Boomgaard laan,unknown,Place
+1088,Boomklok straat,unknown,Object
+1089,Bretten pad,female,human
+1090,Brienzer straat,male,human
+1091,Brink,male,human
+1092,Brinkie pad,female,human
+1093,Brink straat,male,human
+1094,Brisselkerk straat,unknown,Object
+1095,Bristou,unknown,other
+1096,Britten burg,female,human
+1097,Broeker gouw,female,human
+1098,Hardware weg,male,human
+1099,Buiksloter dijk,male,human
+1100,Buiksloterkerk pad,female,human
+1101,Buikslotermeer dijk,male,human
+1102,Daalwijk,unknown,other
+1103,Buikslotermeer plein,female,human
+1104,Burgemeester Van Leeuwen laan,male,human
+1105,Burgemeester Van Tienhoven gracht,male,human
+1106,George Gershwin laan,male,human
+1107,George Orton pad,male,human
+1108,George Sand straat,male,human
+1109,Burgemeester De Vlugt laan,unknown,Place
+1110,Burgemeester Elias straat,male,human
+1111,Burgemeester Fock straat,male,human
+1112,Burgemeester Hogguer straat,male,human
+1113,Burgemeester Kastelein straat,male,human
+1114,Burgemeester Mul straat,male,human
+1115,George Slieker kade,male,human
+1116,Burgemeester RöEll straat,male,human
+1117,Burgemeester Straman weg,male,human
+1118,Burgemeester Tellegen straat,male,human
+1119,Burgemeester Van De Poll straat,male,human
+1120,Dorps weg Rans dorp,male,human
+1121,Carolina Macgillavry laan,female,human
+1122,Carolina Mcgillivray Laan,female,human
+1123,Carrasco plein,male,human
+1124,Carry Pothuis-Smit straat,female,human
+1125,Carry Van Bruggen straat,male,human
+1126,Cas Oorthuys kade,male,human
+1127,Casablanca weg,male,human
+1128,Castor plein,unknown,other
+1129,Castor straat,unknown,other
+1130,Catharina Van Rennes straat,male,human
+1131,Catharina Van Tussenbroek straat,male,human
+1132,Catharinahofje,unknown,other
+1133,Ceder laan,unknown,Plant
+1134,George Westinghouse straat,male,human
+1135,Geraardsbergen straat,unknown,Place
+1136,Geranium weg,unknown,Object
+1137,Ceintuur baan,unknown,other
+1138,Ceintuur brug,unknown,other
+1139,Celebes straat,male,human
+1140,Cellebroers steeg,unknown,other
+1141,Celsius straat,male,human
+1142,Centaurus straat,unknown,other
+1143,Centavos hof,unknown,other
+1144,Centime hof,unknown,other
+1145,Centraal Station,unknown,Place
+1146,Centrale Groothandelsmarkt,unknown,Place
+1147,Daalwijk dreef,unknown,other
+1148,Centrale Hem weg,male,human
+1149,Chaloen,male,human
+1150,Changi weg,male,human
+1151,Charles Boissevain straat,male,human
+1152,Charles Leickert straat,male,human
+1153,Charlotte Bronté Straat,female,human
+1154,Charlotte Cooper pad,female,human
+1155,Charlotte De Bourbon straat,female,human
+1156,Daam Van Haren straat,male,human
+1157,Christoffel Plantijn pad,female,human
+1158,Chrysanten laan,female,human
+1159,Chrysanten straat,unknown,other
+1160,Churchill- Laan,male,human
+1161,Cilliers straat,male,human
+1162,Circus plein,female,human
+1163,Cissy Van Marxveldt straat,male,human
+1164,Citroenen straat,unknown,other
+1165,Clara Barton straat,female,human
+1166,Clara Meyer-Wichmann straat,male,human
+1167,Clara Zetkin straat,female,human
+1168,Claus Van Amsberg straat,male,human
+1169,Clauskindere weg,male,human
+1170,Clematis straat,male,human
+1171,Clifford straat,male,human
+1172,Coentunnelcircuit,unknown,other
+1173,Coentunnel weg,male,human
+1174,Colenbrander hof,unknown,other
+1175,Colenso straat,male,human
+1176,Colima straat,unknown,other
+1177,Columbus plein,female,human
+1178,Comenius straat,unknown,other
+1179,Commandants brug,male,human
+1180,Commelin straat,unknown,other
+1181,Compagnie straat,male,human
+1182,Computer weg,male,human
+1183,Conakry weg,male,human
+1184,Concertgebouw,unknown,other
+1185,Daan Roodenburgh plein,male,human
+1186,Contact weg,male,human
+1187,Cor Hermus straat,male,human
+1188,Cor Ruys hof,male,human
+1189,Cor Van Weele hof,male,human
+1190,Corantijn straat,unknown,other
+1191,Corelli straat,unknown,other
+1192,Corfu plantsoen,male,human
+1193,Cornelis Aarnouts straat,male,human
+1194,Cornelis De Groot pad,male,human
+1195,Cornelis De Rooij pad,male,human
+1196,Cornelis Dijksterhuis straat,male,human
+1197,Cornelis Dirksz straat,male,human
+1198,Cornelis Dopper kade,male,human
+1199,Cornelis Douwes weg,male,human
+1200,Daan Van Dijk pad,male,human
+1201,Dachstein,unknown,other
+1202,Dadelpalm straat,unknown,Plant
+1203,Gerard Brandt straat,male,human
+1204,Cornelis Kruseman straat,male,human
+1205,Cornelis Lely laan,male,human
+1206,Cornelis Lely plein,male,human
+1207,Cornelis Outshoorn straat,male,human
+1208,Cornelis Roobol straat,male,human
+1209,Cornelis Roos straat,male,human
+1210,Cornelis Schuyt straat,male,human
+1211,Cornelis Sorgdrager straat,male,human
+1212,Cornelis Springer straat,male,human
+1213,Cornelis Troost plein,male,human
+1214,Gerard Callenburg straat,male,human
+1215,Cruquius weg,male,human
+1216,Cruuskerk straat,unknown,Object
+1217,Crynssen straat,unknown,other
+1218,CuraçAo straat,unknown,other
+1219,Curie straat,female,human
+1220,Cuwbland straat,unknown,other
+1221,Cuyperspassage,male,other
+1222,Cuyperstrap,male,other
+1223,Cycladen laan,unknown,Place
+1224,Cyclamen straat,unknown,Place
+1225,Czaar Peter straat,male,human
+1226,CéRamique laan,unknown,Object
+1227,D.L. Hudig straat,male,other
+1228,Da Costa kade,male,human
+1229,Da Costa plein,male,human
+1230,Danzigerbocht,unknown,other
+1231,Danziger kade,male,human
+1232,Dapper plein,male,human
+1233,Dapper straat,male,human
+1234,Darling straat,female,human
+1235,Darwin plantsoen,male,human
+1236,Daveren,unknown,other
+1237,David Bles straat,male,human
+1238,David Hume hof,male,human
+1239,David Kouwenaar straat,male,human
+1240,David Ricardo straat,male,human
+1241,De Alpen,male,human
+1242,De Arend brug,male,human
+1243,De Bazel hof,male,human
+1244,De Bieten brug,male,human
+1245,De Biezen hof,female,human
+1246,De Bleeckster,unknown,other
+1247,De Boele laan,unknown,other
+1248,De Boele laan / Vu,unknown,other
+1249,Gerard Dou plein,male,human
+1250,Oude Meer hof,unknown,other
+1251,De Clercq straat,unknown,other
+1252,De Corridor,unknown,other
+1253,De Cuser straat,unknown,other
+1254,De Duiker straat,unknown,other
+1255,De Egmonden straat,unknown,other
+1256,De Entree,unknown,other
+1257,De Genestet straat,unknown,other
+1258,De Groene Zoom,male,human
+1259,De Kamp,unknown,other
+1260,De Kempenaer straat,unknown,other
+1261,De Kluft straat,unknown,other
+1262,De La Reij straat,male,human
+1263,De La Salle straat,unknown,Place
+1264,Gerard Dou straat,male,human
+1265,De Lairesse straat,unknown,other
+1266,De Leeuw Van Vlaanderen straat,male,human
+1267,De Leggende Os straat,unknown,other
+1268,De Liefde,unknown,other
+1269,De Loper,unknown,other
+1270,De Miranda laan,female,human
+1271,De Oase,unknown,Place
+1272,De Octopus,male,human
+1273,De Passage,unknown,Place
+1274,De Peerel straat,unknown,other
+1275,De Rijp gracht,unknown,Object
+1276,De Rijp straat,unknown,other
+1277,De Roos Van Dekama weg,male,human
+1278,Dintel straat,unknown,other
+1279,Gerard Reve brug,male,human
+1280,De Ruijter kade,male,human
+1281,De Savornin Lohman straat,male,human
+1282,De Schaapherder straat,unknown,other
+1283,De Schorren straat,unknown,other
+1284,De Sitter straat,male,human
+1285,De Tourton Bruyns straat,male,human
+1286,De Wieden,unknown,other
+1287,Decca weg,unknown,Place
+1288,Dekschuit straat,unknown,other
+1289,Del Court Van Krimpen straat,unknown,Place
+1290,Delfland laan,unknown,Place
+1291,Delfland plein,unknown,Place
+1292,Deli straat,male,human
+1293,Delle Alpi hof,male,human
+1294,Delta straat,male,human
+1295,Demerara straat,unknown,other
+1296,Demer hof,male,human
+1297,Den Briel straat,unknown,Place
+1298,Den Burg straat,unknown,Place
+1299,Den Helder straat,unknown,Place
+1300,Den Tex straat,male,human
+1301,Dender hof,unknown,Plant
+1302,Dennen hof,unknown,Plant
+1303,Dennen laan,unknown,Plant
+1304,Dennenrode,unknown,Plant
+1305,Dennenrode pad,unknown,Plant
+1306,Derde Amstelvliet pad,unknown,Place
+1307,Derde Egelantiersdwars straat,unknown,Plant
+1308,Derde Goudsbloemdwars straat,unknown,Plant
+1309,Derde Helmers straat,male,human
+1310,Derde Hugo De Groot straat,male,human
+1311,Oude Nieuw straat,unknown,Place
+1312,Diemerbos pad,unknown,Place
+1313,Diemer hof,unknown,other
+1314,Diemer kade,unknown,other
+1315,Diemermere,unknown,other
+1316,Diemerpark laan,unknown,other
+1317,Diemerzee dijk,unknown,other
+1318,Diopter,unknown,other
+1319,Diepenbrock straat,unknown,other
+1320,Dierenriem,unknown,other
+1321,Dieze straat,unknown,Place
+1322,Dijkbraak,unknown,other
+1323,Dijkdwars straat,unknown,other
+1324,Dijkgraaf plein,unknown,Place
+1325,Dijkman pad,unknown,Place
+1326,Dijkmanshuizen straat,unknown,other
+1327,Dijkmeer laan,unknown,Place
+1328,Dijks gracht,unknown,Object
+1329,Dijksgracht kade,unknown,Place
+1330,Tweede Coehoorn straat,male,human
+1331,Distel weg,male,human
+1332,Ditlaar,unknown,other
+1333,Djakartaterras,unknown,other
+1334,Djambi straat,unknown,other
+1335,Doblijn,unknown,other
+1336,Docklands weg,male,human
+1337,Doctor H. Colijn straat,male,human
+1338,Doddendaal,unknown,other
+1339,Dokter Meurer laan,female,human
+1340,Dolfijn hof,unknown,other
+1341,Dolhaantje straat,unknown,other
+1342,Gerard Rutten hof,male,human
+1343,Gerard Schaep straat,male,human
+1344,Dolinga dreef,unknown,other
+1345,Dollard pad,female,human
+1346,Dollard plein,female,human
+1347,Dollebegijnen steeg,unknown,other
+1348,Dom H. Van Der Laan straat,male,human
+1349,Domela Nieuwenhuis straat,female,human
+1350,Don Bosco straat,male,human
+1351,Donar straat,male,human
+1352,Donau weg,male,human
+1353,Donge straat,unknown,other
+1354,Donker Curtius straat,male,human
+1355,Doorn burg,male,human
+1356,Doppler straat,male,human
+1357,Dorps plein,unknown,Place
+1358,Dorps straat Holysloot,unknown,Object
+1359,Gerard Terborg straat,male,human
+1360,Dors,unknown,other
+1361,Dortmuiden,unknown,other
+1362,Dorus Rijkers hof,male,human
+1363,Dostojevski singel,male,human
+1364,Dotterbloem straat,unknown,Plant
+1365,Douwes Dekker straat,male,human
+1366,Dovenetel straat,unknown,other
+1367,Dr. C.W. Ittmann pad,female,human
+1368,Dr. D.M. Sluys pad,female,human
+1369,Dr. E. Boekman straat,unknown,other
+1370,Dr. J.A. Ringers straat,unknown,other
+1371,Dr. Jan Van Breemen straat,male,human
+1372,Draaier weg,male,human
+1373,Drachme singel,male,human
+1374,Drakenstein,unknown,other
+1375,Drie Burg pad,unknown,Place
+1376,Drieban straat,unknown,other
+1377,Driedistel straat,unknown,other
+1378,Drieharingen brug,male,human
+1379,Driehoek straat,unknown,Plant
+1380,Driekoningen straat,unknown,Animal
+1381,Driemond pad,unknown,Place
+1382,Driemond weg,male,human
+1383,Drontermeer pad,unknown,Place
+1384,Droogbak,unknown,other
+1385,Drosten burg,male,human
+1386,Druiven brug,male,human
+1387,Druiven straat,unknown,other
+1388,Drusius hof,unknown,other
+1389,Du Perron straat,male,human
+1390,Dubbelegang,unknown,other
+1391,Dubbeleworst steeg,unknown,other
+1392,Dubbelink,unknown,other
+1393,Dubbelink dreef,unknown,other
+1394,Dubbelmonde hof,unknown,other
+1395,Dudok De Wit hof,male,human
+1396,Dufay straat,unknown,other
+1397,Duffel hof,unknown,other
+1398,Duifjes steeg,unknown,other
+1399,Duinbeek,unknown,other
+1400,Duindoorn plein,unknown,othern
+1401,Duinlust pad,unknown,other
+1402,Duinlust straat,unknown,other
+1403,Duiveland straat,unknown,other
+1404,Gerardus Van Der Groep laan,male,human
+1405,Griend straat,unknown,other
+1406,Duivendrechtse kade,male,human
+1407,Duiven steeg,unknown,other
+1408,Duizendschoon straat,unknown,other
+1409,Dukdalf weg,male,human
+1410,Duke Ellington straat,male,human
+1411,Dulcie September pad,female,human
+1412,Dulong pad,unknown,other
+1413,Dulong straat,unknown,other
+1414,Durban weg,unknown,Place
+1415,Dynamo straat,unknown,other
+1416,Easton straat,unknown,Place
+1417,Eclips hof,unknown,other
+1418,Durgerdammer dijk,unknown,other
+1419,Durgerdammer gouw,unknown,other
+1420,Dusart straat,unknown,other
+1421,Dwarswatering,unknown,other
+1422,Dwaze Moeders Plein,female,human
+1423,Dwergpalm straat,unknown,Plant
+1424,Dwergplaneten baan,unknown,other
+1425,Dwergvinvis straat,unknown,other
+1426,Ecu plein,unknown,other
+1427,Ed Pelster park,female,human
+1428,Ed Van Der Elsken hof,male,human
+1429,Edammer pad,unknown,other
+1430,Edammer straat,unknown,Object
+1431,Eden burg,female,human
+1432,Edenville,unknown,other
+1433,Edison straat,male,human
+1434,Edith Magnus straat,female,human
+1435,Eduard Hellendoorn straat,male,human
+1436,Eduard Jacobs hof,male,human
+1437,Eduard Meijer straat,male,human
+1438,Eduard Van Beinum straat,male,human
+1439,Eduard Veterman straat,male,human
+1440,Edumbe,unknown,other
+1441,Eef Kamerbeek pad,female,human
+1442,Eef Kamerbeek straat,female,human
+1443,Eemland straat,unknown,other
+1444,Eems straat,male,human
+1445,Eenden straat,unknown,other
+1446,Eendracht straat,unknown,other
+1447,Eenhoorn hof,unknown,other
+1448,Eenhoornsluis,unknown,Object
+1449,Eensgevonden,unknown,other
+1450,Eerste Amstelvliet pad,female,human
+1451,Eerste Anjeliersdwars straat,male,human
+1452,Eerste Atjeh straat,male,human
+1453,Eerste Bloemdwars straat,male,human
+1454,Eerste Constantijn Huygens straat,male,human
+1455,Eerste Disteldwars straat,male,human
+1456,Eerste Egelantiersdwars straat,male,human
+1457,Eerste Goudsbloemdwars straat,male,human
+1458,Eerste Helmers straat,male,human
+1459,Eerste Hugo De Groot straat,male,human
+1460,Eerste Jacob Van Campen straat,male,human
+1461,Eerste Jan Steen straat,male,human
+1462,Eerste Jan Van Der Heijden straat,male,human
+1463,Eerste Keuchenius straat,male,human
+1464,Eerste Kostverloren kade,male,human
+1465,Eerste Laurierdwars straat,unknown,Plant
+1466,Eerste Leeghwater straat,male,human
+1467,Eerste Leliedwars straat,male,human
+1468,Eerste Lindendwars straat,male,human
+1469,Eerste Looiersdwars straat,male,human
+1470,Eerste Marnixdwars straat,male,human
+1471,Eerste Marnix plantsoen,male,human
+1472,Eerste Nassau straat,male,human
+1473,Eerste Oosterpark straat,male,human
+1474,Eerste Passeerdersdwars straat,male,human
+1475,Eerste Van Swinden straat,male,human
+1476,Eerste Vogel straat,male,human
+1477,Eerste Weteringdwars straat,male,human
+1478,Eerste Wetering plantsoen,male,human
+1479,Eeuwige Jeugd laan,female,human
+1480,Efua Sutherland straat,male,human
+1481,Egelantiers gracht,unknown,Plant
+1482,Egelantiers straat,unknown,Plant
+1483,Egelen burg,male,human
+1484,Egelskop straat,unknown,other
+1485,Eggert straat,male,human
+1486,Egidius straat,male,human
+1487,Egoli,unknown,other
+1488,Egoli plein,unknown,Place
+1489,Eg straat,unknown,other
+1490,Ehrlich straat,male,human
+1491,Eierland straat,unknown,other
+1492,Eiger,male,human
+1493,Eiken weg,unknown,Plant
+1494,Einthoven straat,unknown,other
+1495,Eisden straat,unknown,other
+1496,Eisinga straat,unknown,other
+1497,Ekangala,unknown,other
+1498,Ekapa,unknown,other
+1499,Elands gracht,unknown,Plant
+1500,Elands straat,unknown,other
+1501,Elba weg,female,human
+1502,Elber veld,male,human
+1503,Elckerlijc straat,unknown,other
+1504,Eldorado,male,human
+1505,Elegast straat,male,human
+1506,Elektron straat,male,human
+1507,Elementen straat,unknown,other
+1508,Elfendans straat,unknown,other
+1509,Elgar Vos brug,male,human
+1510,Elim,unknown,Place
+1511,Elisabeth Boddaert straat,female,human
+1512,Elisabeth Samson straat,female,human
+1513,Elisabeth Wolff straat,female,human
+1514,Eliza Van Calcar straat,female,human
+1515,Elizabeth Cady Stanton plein,male,human
+1516,Ella Fitzgerald straat,female,human
+1517,Elleboog steeg,unknown,other
+1518,Ellert Vlierop straat,male,human
+1519,Elpermeer,unknown,other
+1520,Elpermeer pad,female,human
+1521,Elsen singel,female,human
+1522,Emma straat,female,human
+1523,Elsrijk dreef,unknown,other
+1524,Elstar straat,unknown,other
+1525,Elysium,male,human
+1526,Elzenhagen pad,female,human
+1527,Emmeline Pankhurst straat,female,human
+1528,Emmikhoven straat,unknown,other
+1529,Emmy Andriesse straat,female,human
+1530,Empangeni,unknown,other
+1531,Employee Access,male,human
+1532,Endumeni,unknown,other
+1533,Engcobo,unknown,other
+1534,Enge Kapel steeg,female,human
+1535,Enge Kerk steeg,male,human
+1536,Enge Lombard steeg,female,human
+1537,Engelse steeg,unknown,other
+1538,Enkeldoorn,unknown,other
+1539,Enkhuizer plein,female,human
+1540,Enkhuizer straat,unknown,other
+1541,Ennemaborg,unknown,other
+1542,Enny Vrede straat,female,human
+1543,Entabeni,unknown,other
+1544,Entrepot brug,male,human
+1545,Entrepotdok,unknown,other
+1546,Elzenhagen singel,male,human
+1547,Elzen laan,female,human
+1548,Elzenlaantje,unknown,Object
+1549,Emanuel Van Meteren straat,male,human
+1550,Emanzana,unknown,other
+1551,Emergency Access,male,human
+1552,Emfuleni,unknown,other
+1553,Emilie Knappert straat,female,human
+1554,Emma laan,female,human
+1555,Entrepotdoksluis,unknown,Object
+1556,Entrepot kade,male,human
+1557,Enzerinck,unknown,other
+1558,Eos straat,male,human
+1559,Epicurus straat,male,human
+1560,Erasmus gracht,male,human
+1561,Erasmus park,female,human
+1562,Ereprijs,unknown,other
+1563,Ereprijs straat,unknown,other
+1564,Erich Salomon straat,male,human
+1565,Erik De Roode straat,male,human
+1566,Ernest Staes plein,male,human
+1567,Ernest Staes straat,male,human
+1568,Ernst Cahn En Alfred Kohn brug,male,human
+1569,Ernst Cahn singel,male,human
+1570,Erts kade,male,human
+1571,Escudo laan,female,human
+1572,Esdoorn laan,female,human
+1573,Esmoreit straat,male,human
+1574,Etna straat,male,human
+1575,Eudorina straat,unknown,other
+1576,Euro kade,male,human
+1577,Europa boulevard,male,human
+1578,Fluwelen Hoofd laan,female,human
+1579,Foekje Dillema straat,female,human
+1580,Foeliedwars straat,unknown,other
+1581,Grift straat,male,human
+1582,Europa plein,female,human
+1583,Eva Besnyö Straat,female,human
+1584,Everard Van Reijd hof,male,human
+1585,Eversdal,unknown,other
+1586,Evert Cornelis straat,male,human
+1587,Evert Van Der Wall brug,male,human
+1588,Evertsweert plantsoen,unknown,Plant
+1589,Evertsweert straat,unknown,other
+1590,Ewoud Worst straat,male,human
+1591,Ezels brug,male,human
+1592,Faas Wilkes straat,male,human
+1593,Fagel straat,male,human
+1594,Fahrenheit singel,female,human
+1595,Fahrenheit straat,female,human
+1596,Ferdinand Bol straat,male,human
+1597,Ferdinand Huyck straat,male,human
+1598,Ferdinand Spit straat,male,human
+1599,Ferguut straat,unknown,other
+1600,Ferraris straat,male,human
+1601,Ferry Ploeger straat,male,human
+1602,Fibiger straat,unknown,other
+1603,Fien De La Mar Straat,female,human
+1604,Fijnje Van Salverda straat,male,human
+1605,Filips Van Almonde straat,male,human
+1606,Finsen straat,male,human
+1607,Fizeau straat,male,human
+1608,Flamingo straat,male,human
+1609,Flammarion straat,male,human
+1610,Fleerde,unknown,other
+1611,Flevo laan,female,human
+1612,Foelie straat,unknown,other
+1613,Foerster hof,female,human
+1614,Fogo straat,male,human
+1615,Fokke Simonsz straat,male,human
+1616,Fokkemast,unknown,other
+1617,Flevo park,female,human
+1618,Flevopark weg,male,human
+1619,Flierbos dreef,unknown,Plant
+1620,Flierbos pad,female,human
+1621,Flora pad,female,human
+1622,Florapark weg,male,human
+1623,Flora weg,female,human
+1624,Florence Nightingale straat,female,human
+1625,Florence Price hof,male,human
+1626,Florijn,male,human
+1627,Floris Van Der Laaken straat,male,human
+1628,Floris Verster straat,male,human
+1629,Fluessen laan,female,human
+1630,Fluitschip straat,unknown,other
+1631,Foppinga dreef,unknown,other
+1632,Forint plantsoen,unknown,Plant
+1633,Formentera pad,female,human
+1634,Fortuin straat,unknown,other
+1635,Fosfaat kade,male,human
+1636,Fosfaat weg,male,human
+1637,Fossema,unknown,other
+1638,Foucault straat,male,human
+1639,Fraijlemaborg,unknown,other
+1640,Frambozen straat,unknown,other
+1641,Francesca Caccini pad,female,human
+1642,Franciscus Claessen straat,male,human
+1643,Frank Van Der Goes straat,male,human
+1644,Frankemaheerd,unknown,other
+1645,Frankemaheerd pad,female,human
+1646,Franken straat,male,human
+1647,Frans Bastiaanse straat,male,human
+1648,Frans De Wollant straat,male,human
+1649,Frans Duwaer straat,male,human
+1650,Frans Hals straat,male,human
+1651,Frans Naerebout hof,male,human
+1652,Frans Van Mieris straat,male,human
+1653,Franz Ziegler straat,male,human
+1654,Fraunhofer straat,unknown,other
+1655,Fred Petter baan,male,human
+1656,Fred. Roeske straat,male,human
+1657,Fred. Thomas straat,male,human
+1658,Frederik Hendrik plantsoen,male,human
+1659,Gerda Brautigam straat,female,human
+1660,Grill'S Hofje,unknown,other
+1661,Frederik Hendrik straat,male,human
+1662,Frederik Van Dorp straat,male,human
+1663,Frederik Van Eeden straat,male,human
+1664,Frederiks plein,female,human
+1665,Frederiks straat,male,human
+1666,Freek Ox straat,male,human
+1667,Fregat straat,male,human
+1668,Frege laan,female,human
+1669,Freule Wttewaal pad,female,human
+1670,Fridtjof Nansen hof,male,human
+1671,Friesland straat,male,human
+1672,Frissenstein pad,female,human
+1673,Funen park,female,human
+1674,Funke KüPper straat,female,human
+1675,G.J. Scheurleer pad,male,human
+1676,G.J. Scheurleer weg,male,human
+1677,G.J.M. Sarlemijn straat,unknown,other
+1678,G.T. Ketjen weg,male,human
+1679,Gaande weg,male,human
+1680,Gaasp,unknown,other
+1681,Gaasperzoom pad,female,human
+1682,Gaasp straat,unknown,other
+1683,Gaasperdammer pad,female,human
+1684,Gaasterland pad,female,human
+1685,Gaasterland straat,unknown,other
+1686,GabriëL Metsu straat,male,human
+1687,Gaffelaars pad,female,human
+1688,Gaffel straat,unknown,other
+1689,Galant straat,male,human
+1690,Gala straat,female,human
+1691,Gaasperdammer weg,male,human
+1692,Gaaspermolen pad,female,human
+1693,Galgen brug, unknown,Place
+1694,Galgen straat,unknown,Place
+1695,Grimbergen straat,unknown,Place
+1696,Oude Spiegel straat,unknown,Animal
+1697,Gaasperpark pad,female,human
+1698,Gaasperplas pad,female,human
+1699,Galileï Plantsoen,unknown,other
+1700,Galjoen straat,unknown,other
+1701,Galvani straat,male,human
+1702,Galwin,male,human
+1703,Ganzebloem straat,unknown,Plant
+1704,Ganzenhoef pad,female,human
+1705,Ganzenveld straat,unknown,Object
+1706,Ganzen weg,male,human
+1707,Gaper steeg,male,human
+1708,Gare Du Nord,male,human
+1709,Garstkamp,unknown,other
+1710,Gasthuismolen steeg,unknown,Animal
+1711,Gebed Zonder End,male,human
+1712,Gebroeders A. En B. Wolfswinkel weg,male,human
+1713,Gedempt Hamerkanaal,unknown,other
+1714,Gedempte Begijnensloot,unknown,Object
+1715,Gedempte Insteekhaven,unknown,Object
+1716,Geduld,unknown,other
+1717,Geelbek straat,unknown,other
+1718,Geelvincks steeg,unknown,other
+1719,Geer Ban,male,human
+1720,Geleyn Bouwensz straat,unknown,other
+1721,Gerrie Knetemann laan,male,human
+1722,Hegel hof,male,human
+1723,Geerdink hof,female,human
+1724,Gelre straat,unknown,other
+1725,Gemeenschapspolder weg,male,human
+1726,Goldberger steeg,unknown,other
+1727,Grimburgwal,unknown,other
+1728,Geerdinkhof pad,female,human
+1729,Geerdinkhof weg,male,human
+1730,Geert Groote straat,male,human
+1731,Geertje Wielema pad,female,human
+1732,Geertje Wielema plein,female,human
+1733,Geertruida Van Lier straat,male,human
+1734,Geervliet,unknown,other
+1735,Gein-Noord,female,human
+1736,Gein-Zuid,female,human
+1737,Gelderse kade,male,human
+1738,Geldershoofd,unknown,other
+1739,Geleen straat,female,human
+1740,Gerrit Bronke pad,male,human
+1741,Gerrit Mol brug,male,human
+1742,Gerrit Stuyver straat,male,human
+1743,Gerrit Van Den Bosch pad,male,human
+1744,Gerrit Van Der Veen straat,male,human
+1745,Gerrit Van Erkel straat,male,human
+1746,Gerrit Versteeg straat,male,human
+1747,Geschutswerf,unknown,other
+1748,Geul straat,male,human
+1749,Geuzen kade,male,human
+1750,Geuzen straat,unknown,other
+1751,Gevle brug,male,human
+1752,Gibraltar straat,male,human
+1753,Giessen burg,male,human
+1754,Gieterij,unknown,other
+1755,Gieters straat,unknown,Plant
+1756,Gijsbrecht Van Aemstel straat,male,human
+1757,Gijsbrecht Van Ijselstein straat,male,human
+1758,Gileppe hof,female,human
+1759,Gillis Steltman straat,male,human
+1760,Gillis Van Ledenberch straat,male,human
+1761,Gladiolen laan,female,human
+1762,Glauber weg,male,human
+1763,Glitter straat,female,human
+1764,Goden brug,male,human
+1765,Goed Geluimd Hof,female,human
+1766,Goed Genoeg,female,human
+1767,Goeman Borgesius straat,male,human
+1768,Goeree straat,unknown,other
+1769,Gooioord,unknown,other
+1770,Gooise Kant,male,human
+1771,Graan straat,unknown,other
+1772,Grachtenvlinder,unknown,Plant
+1773,Graftdijker straat,unknown,Object
+1774,Gran Paradiso,male,human
+1775,Granaat straat,unknown,other
+1776,Granida straat,female,human
+1777,Granulaat plein,female,human
+1778,Grasrijk,unknown,other
+1779,Graswal,unknown,other
+1780,Gras weg,female,human
+1781,Graven straat,male,human
+1782,Gravestein,unknown,other
+1783,Grens straat,female,human
+1784,Greta laan,female,human
+1785,Gretha laan,female,human
+1786,Gooise weg,male,human
+1787,Gordijnen steeg,male,human
+1788,Gorontalo straat,male,human
+1789,Gors straat,unknown,other
+1790,Gosschalk laan,male,human
+1791,Goudbal pad,female,human
+1792,Gouden Leeuw,male,human
+1793,Gouden Regen laan,male,human
+1794,Goudestein,unknown,other
+1795,Goudreinet straat,unknown,other
+1796,Goudriaan straat,male,human
+1797,Goudsbloem laan,unknown,Plant
+1798,Goudslagersgang,unknown,other
+1799,Griane straat,unknown,other
+1800,Groeneveen,unknown,other
+1801,Groenhoedenveem,unknown,other
+1802,Groen hof,female,human
+1803,Groenhoven,unknown,other
+1804,Groenland straat,unknown,other
+1805,Groenlust,unknown,other
+1806,Groenmarkt kade,unknown,Plant
+1807,Groen pad,female,human
+1808,Groentepraam brug,male,human
+1809,Groesbeek dreef,unknown,other
+1810,Groet straat,unknown,other
+1811,Groeze straat,unknown,other
+1812,Grondzeiler,unknown,other
+1813,Groningen straat,unknown,other
+1814,Groot Blanken berg,male,human
+1815,Groot-Essen burg,female,human
+1816,Grootslag straat,unknown,other
+1817,Grootzeil,unknown,other
+1818,Grootzeil hof,female,human
+1819,Grossglockner,unknown,other
+1820,Grote Beer straat,unknown,other
+1821,Grote Bickers straat,unknown,Place
+1822,Grote Brouwerssluis,male,human
+1823,Grote Die straat,male,human
+1824,Grote Ruwen berg,male,human
+1825,Grote Wittenburger straat,male,human
+1826,Grubbehoeve,unknown,other
+1827,Grutto laan,female,human
+1828,Guggenheim laan,female,human
+1829,Guido Gezelle straat,male,human
+1830,Guldehand steeg,unknown,other
+1831,Gulden Kruis,male,human
+1832,Gulden Kruis pad,female,human
+1833,Gulden Winckel plantsoen,male,human
+1834,Gulden Winckel straat,male,human
+1835,Guldenpromenade,unknown,other
+1836,Gunterstein,unknown,other
+1837,Gustav Mahler laan,female,human
+1838,Gustav Mahler plein,male,human
+1839,Gutser straat,unknown,other
+1840,Gyroscoop weg,male,human
+1841,H. Cleyndert weg,male,human
+1842,H. Diesveld singel,male,human
+1843,H. Gerhard straat,male,human
+1844,Hegeraat straat,unknown,other
+1845,H. Stolle plantsoen,male,human
+1846,H.A.J. Baanders kade,male,human
+1847,H.J. Algra straat,male,human
+1848,H.J.E. Wenckebach weg,male,human
+1849,H.J.M. Walenkamp straat,unknown,other
+1850,H.M. Kraaijvanger straat,unknown,other
+1851,H.M. Van Randwijk plantsoen,male,human
+1852,H.T. Zwiers plantsoen,unknown,Plant
+1853,Haag En Veld,male,human
+1854,Haagwinde weg,male,human
+1855,Haaksberg weg,male,human
+1856,Haardstee,unknown,other
+1857,Haarlemmer Houttuinen,unknown,other
+1858,Haarlemmer dijk,unknown,Place
+1859,Haarlemmermeer straat,unknown,other
+1860,Haarlemmer plein,unknown,Place
+1861,Haarlemmersluis,unknown,Object
+1862,Haarlemmer straat,unknown,other
+1863,Haarlemmer weg,unknown,Place
+1864,Haarlerberg pad,unknown,other
+1865,Haarlerberg weg,unknown,other
+1866,Habaai pad,female,human
+1867,Hacquart straat,unknown,other
+1868,Hadramout,unknown,other
+1869,Hagedoorn plein,female,human
+1870,Hagedoorn weg,male,human
+1871,Hageland,unknown,other
+1872,Hajo Brugmans hof,male,human
+1873,Hakfort,unknown,other
+1874,Halmaheira straat,unknown,other
+1875,Halvemaans brug,male,human
+1876,Halvemaan steeg,unknown,other
+1877,Hamer straat,male,human
+1878,Hammarby straat,unknown,other
+1879,Heggerank weg,male,human
+1880,Hamont straat,unknown,other
+1881,Han Hollander laan,male,human
+1882,Han Lammers brug,male,human
+1883,Han Rensenbrink pad,male,human
+1884,Han Van Zomeren brug,male,human
+1885,Handbal straat,male,human
+1886,Handboog straat,unknown,other
+1887,Handmolen,unknown,Object
+1888,Haneda straat,female,human
+1889,Hannie Dankbaarpassage,female,human
+1890,Hannie Termeulen pad,female,human
+1891,Hans Katan hof,male,human
+1892,Hans Meerum Terwogt weg,male,human
+1893,Hans Onversaagd straat,male,human
+1894,Haparandadam,unknown,Object
+1895,Haparandasteiger,unknown,other
+1896,Haparanda weg,male,human
+1897,Hardeveld straat,unknown,Object
+1898,Haringbuis dijk,male,human
+1899,Haringpakkers steeg,unknown,other
+1900,Haringvliet straat,unknown,other
+1901,Hark straat,male,human
+1902,Harmonie hof,female,human
+1903,Haroekoe straat,unknown,other
+1904,Harriet Freezer straat,female,human
+1905,Harry Bannink brug,male,human
+1906,Harry Bannink straat,male,human
+1907,Harry Koningsberger straat,male,human
+1908,Hart Nibbrig straat,male,human
+1909,Hartelstein,unknown,other
+1910,Harten straat,unknown,Animal
+1911,Hartshoorngang,unknown,other
+1912,Hartveldse weg,male,human
+1913,Hasebroek straat,unknown,other
+1914,Haspels straat,unknown,other
+1915,Hasselaers steeg,unknown,other
+1916,Haven pad,female,human
+1917,Hei brug,male,human
+1918,Heidoti straat,unknown,other
+1919,Heilige weg,male,human
+1920,Heiligewegssluis,unknown,Object
+1921,Heimans pad,female,human
+1922,Haven straat,female,human
+1923,Havikshorst,unknown,other
+1924,Haviks laan,female,human
+1925,Haya Van Someren-Downer straat,male,human
+1926,Hazelaar laan,female,human
+1927,Hazelaar straat,unknown,other
+1928,Hazen straat,male,human
+1929,Heathrow straat,male,human
+1930,Hebriden laan,female,human
+1931,Hecht En Sterk hof,male,human
+1932,Hechtel straat,unknown,other
+1933,Hector straat,male,human
+1934,Hedera brug,male,human
+1935,Heemstede straat,unknown,other
+1936,Heenweg pad,female,human
+1937,Heer Halewijn straat,female,human
+1938,Heermoes straat,unknown,other
+1939,Heester veld,male,human
+1940,Hempont plein,female,human
+1941,Heimans weg,male,human
+1942,Hein Donner brug,male,human
+1943,Heining,unknown,other
+1944,Heinze straat,male,human
+1945,Hei steeg,male,human
+1946,Hekel veld,male,human
+1947,Hekla,female,human
+1948,Heksen pad,female,human
+1949,Helena Kuipers-Rietberg hof,female,human
+1950,Helena Mercier straat,female,human
+1951,Helene Madison straat,female,human
+1952,Helicopter straat,male,human
+1953,Heliotroop straat,unknown,other
+1954,Heli pad,female,human
+1955,Helling baan,male,human
+1956,Helling straat,unknown,other
+1957,Helmers plantsoen,unknown,Plant
+1958,Helmgras straat,unknown,Plant
+1959,Helmholtz straat,female,human
+1960,Helsingfors brug,male,human
+1961,Hembrug straat,unknown,Object
+1962,Hemelsleutel,unknown,other
+1963,Hem kade,male,human
+1964,Hemony laan,female,human
+1965,Hemony straat,female,human
+1966,Hemsterhuis straat,unknown,Object
+1967,Hemtunnel,unknown,other
+1968,Hem weg,male,human
+1969,Hendricus Antonius HenriëT straat,male,human
+1970,Hendrik Bulthuis straat,male,human
+1971,Hendrik De Bruyn straat,male,human
+1972,Hendrik Dienske straat,male,human
+1973,Hendrik Godfroid hof,male,human
+1974,Hendrik Hos straat,male,human
+1975,Hendrik Jacobsz straat,male,human
+1976,Hendrik Jonker plein,unknown,Place
+1977,Hendrik Soeteboom straat,male,human
+1978,Hendrik Van Wijn straat,male,human
+1979,Hendrik Veldhuis hof,male,human
+1980,Hendrik Werkman straat,male,human
+1981,Hendrikje Stoffels straat,male,human
+1982,Hendrikus Rempe straat,male,human
+1983,Henegouwen straat,unknown,other
+1984,Henk CurièRe kade,male,human
+1985,Henk Sneevliet pad,male,human
+1986,Henk Sneevliet weg,male,human
+1987,Henri Bergson straat,male,human
+1988,Henri Berssenbrugge hof,male,human
+1989,Henri Borel straat,male,human
+1990,Henri Dunant straat,male,human
+1991,Henri Polak laan,unknown,Place
+1992,Henri Viotta kade,male,human
+1993,Henri Zagwijn straat,male,human
+1994,Henric Van Veldeke hof,male,human
+1995,Henrick De Keijser plein,male,human
+1996,Henrick De Keijser straat,male,human
+1997,HenriëTte Bosmans straat,female,human
+1998,HenriëTte Roland Holst straat,male,human
+1999,HenriëTte Ronner plein,female,human
+2000,HenriëTte Ronner straat,female,human
+2001,HenriëTte Van Heukelom-Van Den Brandeler brug,male,human
+2002,Hensbroeker straat,unknown,other
+2003,Herbert Spencer hof,male,human
+2004,Hercules Seghers straat,male,human
+2005,Hercules straat,male,human
+2006,Herder hof,male,human
+2007,Hoekenrode pad,female,human
+2008,Heren gracht,unknown,Animal
+2009,Herenmarkt,unknown,other
+2010,Heren straat,unknown,Animal
+2011,Herentals straat,male,human
+2012,Herfst straat,unknown,other
+2013,Herikerberg weg,male,human
+2014,Heringa-State,female,human
+2015,Herman Akkerman pad,male,human
+2016,Herman Bon pad,male,human
+2017,Herman De Man straat,male,human
+2018,Herman Helling plantsoen,male,human
+2019,Herman Poort straat,male,human
+2020,Herman Robbers straat,male,human
+2021,Hermanus Coenradi straat,male,human
+2022,Hermanus Van Der Tuuk hof,male,human
+2023,Hermieten straat,unknown,other
+2024,Hermitage laan,female,human
+2025,Hertingen straat,unknown,other
+2026,Hertspieghel weg,male,human
+2027,Hertzog straat,unknown,other
+2028,Hertz straat,male,human
+2029,Herwijk,unknown,other
+2030,Hessenberg weg,male,human
+2031,Hestia straat,female,human
+2032,Het Breed,male,human
+2033,Het Dok,male,human
+2034,Het Hoogt,male,human
+2035,Het Laagt,male,human
+2036,Het Tuin pad Van Mijn Vader,female,human
+2037,Hettenheuvel weg,male,human
+2038,Hetty Blok straat,female,human
+2039,Heusden straat,unknown,other
+2040,Heverlee straat,unknown,other
+2041,Hexaan weg,male,human
+2042,Hijskraan straat,unknown,other
+2043,Hilbert Van Dijk hof,male,human
+2044,Hildebrand straat,male,human
+2045,Hildegard Von Bingen straat,male,human
+2046,Hildo Krop plein,male,human
+2047,Hildsven,unknown,other
+2048,Hillegom straat,unknown,other
+2049,Hillenraadt,unknown,other
+2050,Hilletjes Brug,male,human
+2051,Hilmanhofje,unknown,other
+2052,Hilverbeek straat,unknown,other
+2053,Hoekschewaard plein,female,human
+2054,Oude Turfmarkt,female,human
+2055,Hilversum straat,unknown,other
+2056,Hinderstein,unknown,other
+2057,Hirschpassage,unknown,other
+2058,Hissink straat,unknown,other
+2059,Hobbema kade,male,human
+2060,Hobbema straat,unknown,other
+2061,Hodenpijl kade,male,human
+2062,Hodshon-Dedel hof,female,human
+2063,Hoe Langer Hoe Liever,male,human
+2064,Hoek Van Holland straat,male,human
+2065,Hoekenes,unknown,other
+2066,Hoekenes pad,female,human
+2067,Hoekenes plantsoen,unknown,Plant
+2068,Hoekschewaard weg,male,human
+2069,Hoeksloot straat,unknown,Object
+2070,Hoendiep straat,unknown,other
+2071, Hof Van Eden,male,human
+2072, Hof Van Parijs,male,human
+2073, Hof Van Versailles,male,human
+2074,Hofgeest,unknown,other
+2075,Hofjen Van De Weduwe Roosen,male,human
+2076,Hofmeester straat,unknown,other
+2077,Hofmeyr straat,male,human
+2078,Hofsteden weg,male,human
+2079,Hofwijck straat,unknown,other
+2080,Hoge Brug,male,human
+2081,Hogebooms pad,female,human
+2082,Hogehil weg,male,human
+2083,Hogen dijk,male,human
+2084,Hogenes plantsoen,unknown,Plant
+2085,Hogevecht,unknown,other
+2086,Hoge weg,male,human
+2087,Hondecoeter straat,unknown,other
+2088,Holbein straat,male,human
+2089,Holendrecht dreef,unknown,other
+2090,Holendrechter weg,male,human
+2091,Holendrecht plein,female,human
+2092,Holendrecht straat,unknown,other
+2093,Hollandia Kattenburg pad,female,human
+2094,Hollandia gracht,unknown,Object
+2095,Hollandse Tuin,unknown,Place
+2096,Hollandse kade,unknown,Place
+2097,Holterberg weg,male,human
+2098,Holtmeulen,unknown,other
+2099,Holwerda hof,female,human
+2100,Holy,male,human
+2101,Hondius straat,unknown,other
+2102,Hondsrug weg,male,human
+2103,Honselersdijk straat,unknown,Object
+2104,Honthorst straat,unknown,other
+2105,Hoofddorp plein,female,human
+2106,Hoofddorp weg,male,human
+2107,Hoogoord plein,female,human
+2108,Hoogte Ka dijk,male,human
+2109,Hoogwoud straat,unknown,other
+2110,Hooi straat,female,human
+2111,Hoopende Swaen,unknown,other
+2112,Hoorneboeg,unknown,other
+2113,Oude Waal,female,human
+2114,Hoofd weg,female,human
+2115,Hooge Venne,male,human
+2116,Hoogheemraad weg,male,human
+2117,Hoogkamersgang,unknown,other
+2118,Hoogoord,unknown,other
+2119,Hoogoord dreef,unknown,other
+2120,Hoogoord dreef / Atlas,male,human
+2121,Hoornse straat,unknown,other
+2122,Hoortensia laan,female,human
+2123,Hoptille,unknown,other
+2124,Hoptille pad,female,human
+2125,Horizon,male,human
+2126,Horn weg,male,human
+2127,Horsten berg,male,human
+2128,Hortensia straat,female,human
+2129,Hortus plantsoen,unknown,Place
+2130,Houdringe,unknown,other
+2131,Houthalen straat,unknown,other
+2132,Hunneschans,unknown,Object
+2133,Oude-Ijsel straat,female,human
+2134,Houthaven kade,male,human
+2135,Houthaven weg,male,human
+2136,Houtkopersdwars straat,unknown,other
+2137,Houtmandwars straat,unknown,other
+2138,Houtman kade,male,human
+2139,Houtman straat,male,human
+2140,Houtrijk straat,unknown,other
+2141,Hoveniers laan,unknown,other
+2142,Hoyer pad,male,human
+2143,Hudde kade,male,human
+2144,Hudde straat,male,human
+2145,Hudson hof,male,human
+2146,Hudson straat,male,human
+2147,Hugo De Groot kade,male,human
+2148,Ingelanden weg,male,human
+2149,Ingenhousz hof,male,human
+2150,Ingogo straat,unknown,other
+2151,Hugo De Groot plein,male,human
+2152,Hugo De Vries laan,male,human
+2153,Hugo Floris Ruys straat,male,human
+2154,Hugo Verriest hof,male,human
+2155,Huidekoper straat,male,human
+2156,Huiden straat,unknown,Animal
+2157,Huifkar pad,unknown, other
+2158,Huigenbos,unknown,Plant
+2159,Huismans hof,unknown, other
+2160,Hullenberg weg,male,human
+2161,Hulst weg,male,human
+2162,Humberto Delgado plein,male,human
+2163,Humber weg,male,human
+2164,Huntum,unknown,other
+2165,Huntum dreef,unknown,other
+2166,Huntum pad,female,human
+2167,Hunze straat,unknown,other
+2168,Hyacinthen laan,unknown,Plant
+2169,HygiëA straat,unknown,other
+2170,HäNdel straat,unknown,other
+2171,HéLèNe Swarth straat,female,human
+2172,Ibiza straat,male,human
+2173,Ibrahim Moustafa pad,male,human
+2174,Idee brug,unknown,other
+2175,Iepen laan,unknown,Plant
+2176,Iepen plein,unknown,Plant
+2177,Iepen weg,male,human
+2178,Ij-Hal,male,human
+2179,Ij-Passage,unknown,Place
+2180,Ij plein,unknown,Place
+2181,Inlaag straat,unknown,other
+2182,Johannes J. Glas weg,male,human
+2183,Ij-Tunnel,unknown,Place
+2184,Ijburg laan,unknown,Place
+2185,Ijdok,unknown,other
+2186,Ijdoorn laan,unknown,Place
+2187,Ijpromenade,unknown,other
+2188,Jacob Van Artevelde straat,male,human
+2189,Ijsbaan pad,funknown,Place
+2190,Ijselmonde straat,unknown,other
+2191,Ijsel straat,unknown,other
+2192,Ijslandt pad,unknown,Place
+2193,Ijsselmeer laan,unknown,Place
+2194,Ijsselmeer straat,unknown,other
+2195,Ijzer hof,unknown,Place
+2196,Ilpendammer straat,unknown,Object
+2197,Ilperveld straat,unknown,Object
+2198,Image brug,male,human
+2199,Imbos,unknown,Plant
+2200,Immanuel Kant hof,male,human
+2201,Imogirituin,unknown,other
+2202,Imstenrade,unknown,other
+2203,In De Houtzaagmolen,unknown,Object
+2204,Inari straat,female,human
+2205,Industrie weg,male,human
+2206,Johannes Jelgerhuis hof,male,human
+2207,Pieter Van Den Heuvel pad,male,human
+2208,Insulinde weg,male,human
+2209,Internet straat,male,human
+2210,Inzet,unknown,other
+2211,Ir. B. Bijvoet brug,male,human
+2212,Ir. Jakoba Mulder plein,female,human
+2213,Irawan Soejono straat,male,human
+2214,Iris laan,female,human
+2215,Isaac Gogel weg,male,human
+2216,Isaac Titsingh kade,male,human
+2217,Isaak Gosses hof,male,human
+2218,Isar weg,male,human
+2219,IsaäC Asscher pad,female,human
+2220,Iseo plantsoen,male,human
+2221,Isolator weg,male,human
+2222,IsraëL Querido straat,male,human
+2223,Ite Boerema straat,male,human
+2224,Iwan Kanteman plein,male,human
+2225,J. Cals straat,male,human
+2226,Roskam steeg,male,human
+2227,J. De Koo straat,male,human
+2228,J. Drijver weg,male,human
+2229,J. Dunnebier straat,unknown,other
+2230,J. Kruiswijk hof,male,human
+2231,J.A. DèR Mouw straat,male,human
+2232,J.C. Breen straat,male,human
+2233,J.C. SchröDer straat,male,human
+2234,J.C. Van Epen straat,male,human
+2235,J.F. Ankersmit straat,unknown,other
+2236,J.F. Berghoef plantsoen,unknown,Plant
+2237,J.F. Van Hengel straat,male,human
+2238,J.G. Suurhoff straat,unknown,other
+2239,J.H. Hisgen pad,male,human
+2240,J.H. Van Heek pad,male,human
+2241,Jan Schaefer brug,male,human
+2242,Jan Van Zutphen plantsoen,male,human
+2243,J.H. Van Heek weg,male,human
+2244,J.J. Cremer plein,male,human
+2245,J.J. Cremer straat,male,human
+2246,J.J. Viotta straat,unknown,other
+2247,J.J.M. Vegter straat,male,human
+2248,J.M. Den Uyl straat,male,human
+2249,J.M. Van Der Mey laan,male,human
+2250,J.P. Kloos straat,unknown,other
+2251,J.S. Ruppert straat,male,human
+2252,J.W. Siebbeles hof,male,human
+2253,Jaag pad,male,human
+2254,Jaap Eden straat,male,human
+2255,Jaap Nunes Vaz straat,male,human
+2256,Jaargetijden,unknown,other
+2257,Jac. P. Thijsse plein,male,human
+2258,Jan Voerman straat,male,human
+2259,Jachthaven weg,male,human
+2260,Jacob Bontiusplaats,male,human
+2261,Jacob Burggraaf straat,male,human
+2262,Jacob Cabeliau straat,male,human
+2263,Jacob Cats kade,male,human
+2264,Jacob De Rijk hof,male,human
+2265,Jacob Frank hof,male,human
+2266,Jacob Geel straat,male,human
+2267,Jacob Groen plantsoen,male,human
+2268,Jacob Honig straat,male,human
+2269,Jacob Husley straat,male,human
+2270,Jacob IsraëL De Haan straat,male,human
+2271,Jacob Kraus straat,male,human
+2272,Jacob KrüSe straat,male,human
+2273,Jacob Maris plein,male,human
+2274,Jacob Maris straat,male,human
+2275,Jacob Melkman straat,male,human
+2276,Jacob Obrecht plein,male,human
+2277,Jacob Obrecht straat,male,human
+2278,Jacob Olie pad,male,human
+2279,Jacob Paff straat,male,human
+2280,Jacob Til straat,male,human
+2281,Jacob Van Lennep kade,male,human
+2282,Jacob Van Lennep straat,male,human
+2283,Jacob Van Maerlant straat,male,human
+2284,Jacob Van Wassenaar Obdam straat,male,human
+2285,Jacob Van Weesenbeke straat,male,human
+2286,Jacobus Van Looy straat,male,human
+2287,Jacobus Willems pad,male,human
+2288,Jacques Perk straat,male,human
+2289,Jacques Veltman straat,male,human
+2290,Jaddanbai kade,male,human
+2291,James Cook straat,male,human
+2292,James Ross kade,male,human
+2293,James Watt straat,male,human
+2294,Jan Abelsz straat,male,human
+2295,Jan Schaefer pad,male,human
+2296,Jan Sluijters straat,male,human
+2297,Jan Smit straat,male,human
+2298,Jan Somer hof,male,human
+2299,Jan Springer hof,male,human
+2300,Jan Beijer pad,male,human
+2301,Jan Berts straat,male,human
+2302,Jan Bonga straat,male,human
+2303,Jan Boterenbrood straat,male,human
+2304,Jan Bottema straat,male,human
+2305,Jan C. De Vos hof,male,human
+2306,Jan Cele straat,male,human
+2307,Jan Cupido hof,male,human
+2308,Jan De Greef straat,male,human
+2309,Jan De Jongh kade,male,human
+2310,Jan De Jongh straat,male,human
+2311,Jan De Louter pad,male,human
+2312,Jan De Louter straat,male,human
+2313,Jan Den Haen straat,male,human
+2314,Jan Eisenloeffel straat,male,human
+2315,Jan Swammerdam brug,male,human
+2316,Jan Theunisz hof,male,human
+2317,Jan ThoméE pad,male,human
+2318,Jan Van Zutphen straat,male,human
+2319,Jan Veth straat,male,human
+2320,Jan Vlietman brug,male,human
+2321,Jan Voermam straat,male,human
+2322,Jan Evertsen straat,male,human
+2323,Jan Goldschmeding straat,male,human
+2324,Jan Hanzen straat,male,human
+2325,Jan Haring straat,male,human
+2326,Jan Janzen straat,male,human
+2327,Jan Kist straat,male,human
+2328,Jan Leliman hof,male,human
+2329,Jan Ligthart straat,male,human
+2330,Jan Luijken straat,male,human
+2331,Jan Maijen straat,male,human
+2332,Jan Mankes straat,male,human
+2333,Jan Mens plein,male,human
+2334,Jan Met De Hakengang,male,human
+2335,Jan Musch straat,male,human
+2336,Jan Nauta hof,male,human
+2337,Jan Oudegeest straat,male,human
+2338,Jan Peppink straat,male,human
+2339,Jan Pieter Heije straat,male,human
+2340,Jan Poyt straat,male,human
+2341,Jan Punt straat,male,human
+2342,Jan Rebel straat,male,human
+2343,Jan Ringel straat,male,human
+2344,Jan Toorop straat,male,human
+2345,Jan Van Beers straat,male,human
+2346,Jan Van Boendale straat,male,human
+2347,Jan Van Der Neut hof,male,human
+2348,Jan Van Duivenvoorde straat,male,human
+2349,Jan Van Eijck straat,male,human
+2350,Jan Van Galen straat,male,human
+2351,Jan Van Goyen kade,male,human
+2352,Jan Van Hout hof,male,human
+2353,Jan Van Riebeek straat,male,human
+2354,Jan Van Schaffelaar plantsoen,male,human
+2355,Rosmarijn steeg,female,human
+2356,Jan Vroegop singel,male,human
+2357,Jan Willem Brouwers straat,male,human
+2358,Jan Witheijn straat,male,human
+2359,Jan Zijvertsz straat,male,human
+2360,Jan Zwanenburg hof,male,human
+2361,Janna Van Der Weg laan,male,human
+2362,Janusz Korczak plantsoen,male,human
+2363,Janusz Korczak straat,male,human
+2364,Jara singel,male,human
+2365,Jarmuiden,unknown,other
+2366,Jasmijn laan,female,human
+2367,Jasmijn straat,female,human
+2368,Jason straat,male,human
+2369,Jasper Leijnsen straat,male,human
+2370,Jasper Warner straat,male,human
+2371,Java kade,male,human
+2372,Java plantsoen,female,human
+2373,Java plein,female,human
+2374,Java straat,female,human
+2375,Jean Desmet straat,male,human
+2376,Jeker straat,male,human
+2377,Jelle Posthuma pad,male,human
+2378,Jeltje De Bosch Kemper pad,female,human
+2379,Jenner straat,male,human
+2380,Jephta straat,male,human
+2381,Jeremisegang,unknown,other
+2382,Jesse Owens hof,male,human
+2383,Jim Thorpe pad,male,human
+2384,Jisperveld straat,unknown,Object
+2385,Joan Melchior Kemper straat,female,human
+2386,Joan Muysken weg,female,human
+2387,Joannes De Swaef hof,male,human
+2388,Joannes Reddingius straat,male,human
+2389,Jodenbree straat,unknown,other
+2390,Johannes Meewis straat,male,human
+2391,Joh.M. Coenen straat,male,human
+2392,Johan Basius hof,male,human
+2393,Johan Braakensiek hof,male,human
+2394,Johan Broedelet straat,male,human
+2395,Johan Brouwer pad,male,human
+2396,Johan Colterman pad,male,human
+2397,Johan Cousset straat,male,human
+2398,Johan Cruijff Boulevard,male,human
+2399,Johan De Meester straat,male,human
+2400,Johan Greive straat,male,human
+2401,Johan Herman Doorn straat,male,human
+2402,Johan Hofman straat,male,human
+2403,Johan Huijsen straat,male,human
+2404,Johan Huizinga laan,male,human
+2405,Johannes Post straat,male,human
+2406,Rosmolen,unknown,Object
+2407,Johan Jongkind straat,male,human
+2408,Johan Kern straat,male,human
+2409,Johan Limpers straat,male,human
+2410,Johan Ramaer straat,male,human
+2411,Johan Rijnja straat,male,human
+2412,Johan Schippers plantsoen,male,human
+2413,Johan Van Der Keuken straat,male,human
+2414,Johan Van Hasselt kade,male,human
+2415,Johan Van Hasselt weg,male,human
+2416,Johan Van Hulst brug,male,human
+2417,Johan Van Kuyck straat,male,human
+2418,Johan Van Soesdijk straat,male,human
+2419,Johann Sieger straat,male,human
+2420,Johanna Naber straat,female,human
+2421,Johanna Reynvaan straat,female,human
+2422,Rossini straat,male,human
+2423,Johannes Van Der Waals straat,male,human
+2424,Johannes Van Meurs hof,male,human
+2425,Johannes Verhulst straat,male,human
+2426,Johannes Vermeer plein,male,human
+2427,Johannes Vermeer straat,male,human
+2428,Johannes Worp straat,male,human
+2429,Johannis De Rijke straat,male,human
+2430,John Blankenstein straat,male,human
+2431,John Coltrane straat,male,human
+2432,John Fernhout hof,male,human
+2433,John Franklin straat,male,human
+2434,John Kelly pad,male,human
+2435,John Locke hof,male,human
+2436,John M. Keynes plein,male,human
+2437,John Motley hof,male,human
+2438,Johnny & Jones brug,male,human
+2439,Jolicoeur straat,unknown,other
+2440,Jolleman hof,female,human
+2441,Jollen pad,female,human
+2442,Jonagold straat,male,human
+2443,Jonas DaniëL Meijer plein,male,human
+2444,Jonathan hof,male,human
+2445,Jonge Roelen steeg,unknown, other
+2446,Joop Geesink weg,male,human
+2447,Joos Banckers weg,male,human
+2448,Joos De Moor straat,male,human
+2449,Joost Bilhamer straat,male,human
+2450,Joris Ivens plein,male,human
+2451,Joris Ivens straat,male,human
+2452,Joris Van Andringa straat,male,human
+2453,Joris Van Den Bergh weg,male,human
+2454,Joseph Haydn pad,male,human
+2455,Joseph Scaliger straat,male,human
+2456,Joseph Schumpeter straat,male,human
+2457,Josephus Jitta straat,male,human
+2458,Joubert straat,male,human
+2459,Jouke Zietsma straat,male,human
+2460,Jozef IsraëLs kade,male,human
+2461,Jul 15-Mar 15,female,human
+2462,Juliana Van Stolberg straat,male,human
+2463,Juliana plein,female,human
+2464,Julius Perger straat,male,human
+2465,Jungfrau,unknown, Place
+2466,Jupiter straat,unknown,other
+2467,Justus Halbertsma straat,male,human
+2468,Kaapstad weg,male,human
+2469,Kaasjeskruid straat,unknown,other
+2470,Kaassluis,unknown,Object
+2471,Kabelgast straat,unknown,other
+2472,Kabel weg,male,human
+2473, Kade West,male,human
+2474,Kadijks plein,unknown,other
+2475,Kadoelen brug,unknown,other
+2476,Kadoelen pad,unknown,other
+2477,Kadoelen weg,unknown,other
+2478,Kagelink kade,unknown,other
+2479,Kajuit pad,unknown,other
+2480,Kajuit weg,unknown,other
+2481,Kalfjes laan,unknown,Animal
+2482,Kalkmarkt,unknown,other
+2483,Kalkoen straat,male,human
+2484,Kalmar brug,male,human
+2485,Kalmoes straat,unknown,other
+2486,Kalverengang,unknown,other
+2487,Kalverpassage,unknown,other
+2488,Kalver straat,unknown,other
+2489,Kalver toren,unknown,other
+2490,Kamelengang,unknown,other
+2491,Kamerlingh Onnes laan,female,human
+2492,Kamerpalm hof,female,human
+2493,Kamille straat,female,human
+2494,Kamperfoelie weg,unknown,other
+2495,Kampervenus pad,unknown,other
+2496,Kanaal dijk,unknown,other
+2497,Kanaal dijk Oost,unknown,other
+2498,Kanaal dijk West,unknown,other
+2499,Kanaal pad,unknown,other
+2500,Kanaal straat,unknown,other
+2501,Kanarie straat,male,human
+2502,Kaneelappel straat,unknown,other
+2503,Kanteel,unknown,other
+2504,Kanters hof,female,human
+2505,Kantershof pad,female,human
+2506,Kantershof straat,unknown,other
+2507,Kapkar pad,female,human
+2508,Kapoeas weg,male,human
+2509,Kapteyn straat,unknown,other
+2510,Karakiet laan,female,human
+2511,Kardoes Kokersgang,male,human
+2512,Karel Doorman straat,male,human
+2513,Karel Du Jardin straat,male,human
+2514,Karel F. Vastenhoud pad,male,human
+2515,Karel Klinkenberg straat,male,human
+2516,Karper weg,male,human
+2517,Karspel dreef,unknown,other
+2518,Karthuizersdwars straat,unknown,Plant
+2519,Karthuizers plantsoen,unknown,Plant
+2520,Karthuizers straat,unknown,other
+2521,Karton straat,male,human
+2522,Karveel straat,unknown,other
+2523,Kastanje laan,unknown,Plant
+2524,Kastanje plein,unknown,Plant
+2525,Kastelen straat,unknown,Place
+2526,Kasterlee park,unknown,Place
+2527,Kastrup straat,unknown,other
+2528,Kees Broekman straat,male,human
+2529,Kees Fens brug,male,human
+2530,Katrijp straat,unknown,other
+2531,Kattenburger gracht,unknown,Object
+2532,Kattenburger hof,unknown,other
+2533,Kattenburger kade,unknown,other
+2534,Kattenburgerkruis straat,unknown,other
+2535,Kattenburger plein,unknown,other
+2536,Kattenburger straat,unknown,other
+2537,Kattengat,unknown,other
+2538,Kattenrug brug,unknown,other
+2539,Katwijk straat,unknown,other
+2540,Kazerne straat,unknown,other
+2541,Kea Bouman straat,female,human
+2542,Keerpunt,unknown,Place
+2543,Keerwal,unknown,other
+2544,Keerweer,unknown,other
+2545,Kees Abspoel straat,male,human
+2546,Kees Boeke straat,male,human
+2547,Keesje Brijde plantsoen,male,human
+2548,Keienberg weg,male,human
+2549,Keizerrijk,unknown,other
+2550,Keizers brug,male,human
+2551,Keizers gracht,unknown,Animal
+2552,Keizers straat,male,human
+2553,Kelbergen,unknown,Place
+2554,Kelbergen pad,unknown,Place
+2555,Kemminkhorst weg,male,human
+2556,Kempen laan,female,human
+2557,Kempering,unknown,other
+2558,Kerke pad,female,human
+2559,Kerke pad Holysloot-Uitdam,unknown,Place
+2560,Kerk laan Zunder dorp,unknown,Place
+2561,Kerk straat,male,human
+2562,Kermis pad,unknown,Place
+2563,Kerrie straat,unknown,Place
+2564,Kersen straat,male,human
+2565,Kerstomaat plantsoen,unknown,Plant
+2566,Kervel plantsoen,unknown,Plant
+2567,Ketelhuis brug,male,human
+2568,Ketelhuis plein,female,human
+2569,Ketelmakerij,unknown,other
+2570,Ketelmaker straat,unknown,other
+2571,Ketel straat,male,human
+2572,Keuren plein,female,human
+2573,Kever berg,male,human
+2574,Kiefskamp,unknown,other
+2575,Kiek straat,female,human
+2576,Kierkegaard straat,unknown,other
+2577,Kieviets laan,female,human
+2578,Kievit straat,unknown,other
+2579,Kijkduin straat,unknown,other
+2580,Kikkenstein,unknown,other
+2581,Kikkenstein hof,unknown,other
+2582,Kikkenstein straat,unknown,other
+2583,Kikkerbloem,unknown,Plant
+2584,Kimpo weg,male,human
+2585,Kinderdijk straat,unknown,Object
+2586,Kinderverblijf,unknown,other
+2587,King'S Dock straat,male,human
+2588,Kingsford weg,male,human
+2589,Kinker straat,unknown,other
+2590,Kinrooi straat,unknown,other
+2591,Kippe brug,unknown, other
+2592,Klaartje De Zwarte - Walvisch brug,female,human
+2593,Klaas Geerts plantsoen,male,human
+2594,Klaas Kater straat,male,human
+2595,Klaas Wannen,male,human
+2596,Kleine Wittenburger straat,male,human
+2597,Kleine Zonne plein,male,human
+2598,Oudebrug steeg,unknown,Object
+2599,Klaprozen weg,male,human
+2600,Klaren burg,male,human
+2601,Klaroen straat,unknown,other
+2602,Klatering pad,female,human
+2603,Klaverblad straat,unknown,other
+2604,Kleefkruid straat,unknown,other
+2605,Kleersloot,unknown,Object
+2606,Kleine Beer straat,unknown,other
+2607,Kleine Bickers straat,unknown,Place
+2608,Kleine Die straat,male,human
+2609,Kleine-Gartman plantsoen,male,human
+2610,Kleuter laan,female,human
+2611,Klieverink weg,male,human
+2612,Klimop brug,male,human
+2613,Klimopstraatje,unknown,other
+2614,Klimop weg,male,human
+2615,Klinker weg,male,human
+2616,Klipper straat,unknown,other
+2617,Kloekhorst straat,unknown,other
+2618,Klokkenberg weg,male,human
+2619,Klokkengang,unknown,other
+2620,Klooster straat,male,human
+2621,Kloveniersburgwal,unknown,other
+2622,Kloveniers steeg,unknown,other
+2623,KlöNne Plein,female,human
+2624,KlöNne plein,female,human
+2625,Kneppelhout straat,unknown,other
+2626,Kneppel weg,male,human
+2627,Knokke straat,male,human
+2628,Knollendam straat,unknown,Object
+2629,Kolfschoten straat,unknown,other
+2630,Kolibri straat,male,human
+2631,Kolksluis,unknown,Object
+2632,Kolk steeg,unknown,other
+2633,Knsm- Laan,female,human
+2634,Knuppel pad,female,human
+2635,Ko Van Dijk hof,male,human
+2636,Koedijk pad,female,human
+2637,Koekoeks laan,female,human
+2638,Koekoeks plein,female,human
+2639,Koekoeks straat,unknown,other
+2640,Koen Limperg straat,male,human
+2641,Koenen kade,male,human
+2642,Koeriersters plein,female,human
+2643,Koe straat,male,human
+2644,Koffie weg,female,human
+2645,Kofschip straat,unknown,other
+2646,Kogeldistel straat,unknown,other
+2647,Kogge straat,unknown,other
+2648,Koivisto kade,male,human
+2649,Kolberg brug,male,human
+2650,Koningspalm plein,female,human
+2651,Oudekennis steeg,unknown,other
+2652,Kollenberg weg,male,human
+2653,Kombuis weg,male,human
+2654,Kometen singel,unknown,other
+2655,Komijn straat,unknown,other
+2656,Kompas weg,male,human
+2657,Konijnen straat,unknown,Plant
+2658,Koningin Wilhelmina plein,female,human
+2659,Koninginne Gang,male,human
+2660,Koninginne weg,male,human
+2661,Koningsbergen brug,male,human
+2662,Koningsgang,unknown,other
+2663,Konings laan,female,human
+2664,Konings plein,female,human
+2665,Konings straat,male,human
+2666,Koog straat,male,human
+2667,Koolpalm hof,female,human
+2668,Koolrabi straat,unknown,other
+2669,Koopvaarders plantsoen,unknown,Plant
+2670,Koornhorst,unknown,other
+2671,Koos Vorrink weg,male,human
+2672,Kop Van Jut,male,human
+2673,Koperslagerij,unknown,other
+2674,Kopjacht plein,female,human
+2675,Kopjacht straat,unknown,other
+2676,Kopkewier pad,female,human
+2677,Koppeling pad,female,human
+2678,Koppenburg laan,female,human
+2679,Kopra weg,male,human
+2680,Korenbloem straat,unknown,Plant
+2681,Korfbal straat,male,human
+2682,Koriander straat,male,human
+2683,Kormelink weg,male,human
+2684,Korsjespoort steeg,unknown,Animal
+2685,Korte Water,female,human
+2686,Korte Zoutkeets gracht,unknown,Place
+2687,Korte 'S-Gravesande straat,female,human
+2688,Korte Amstel straat,male,human
+2689,Korte Blekers straat,female,human
+2690,Korte Brug,female,human
+2691,Korte De Witten straat,female,human
+2692,Korte Dijk straat,male,human
+2693,Korte Distel straat,male,human
+2694,Korte Geuzen straat,female,human
+2695,Korte Keizersdwars straat,female,human
+2696,Korte Keizers straat,female,human
+2697,Korte Kolk steeg,female,human
+2698,Korte Koningsdwars straat,female,human
+2699,Korte Konings straat,male,human
+2700,Korte Korsjespoort steeg,female,human
+2701,Korte Lepel straat,female,human
+2702,Korte Lijnbaans steeg,female,human
+2703,Korte Marnix kade,male,human
+2704,Korte Marnix straat,male,human
+2705,Korte Meerhuizen straat,female,human
+2706,Korte Niezel,female,human
+2707,Korte Ouderkerker brug,female,human
+2708,Korte Ouderkerker dijk,male,human
+2709,Korte Papaver weg,female,human
+2710,Korte Prinsen gracht,unknown,Animal
+2711,Korte Reguliersdwars straat,female,human
+2712,Korte Schimmel straat,female,human
+2713,Korte Spinhuis steeg,female,human
+2714,Korte Storm steeg,male,human
+2715,Korte Tol straat,male,human
+2716,Korte Van Eeghen straat,male,human
+2717,Korte Wagen straat,male,human
+2718,Oudekerks brug,male,human
+2719,Rossum plein,female,human
+2720,Kortenaer straat,unknown,other
+2721,Kortenaken straat,unknown,other
+2722,Kortenberg pad,female,human
+2723,Korteweg hof,female,human
+2724,Kortrijk,female,human
+2725,Kortvoort,unknown,other
+2726,Kortwoude pad,female,human
+2727,Kos pad,female,human
+2728,Kostverloren straat,unknown,other
+2729,Kostverloren weg,male,human
+2730,Kotteraar straat,unknown,other
+2731,Kotters pad,female,human
+2732,Kousenband straat,unknown,other
+2733,Kouter straat,unknown,other
+2734,Kouwenoord,unknown,Place
+2735,Kouwenoord weg,male,human
+2736,Koxhorn,unknown,other
+2737,Kraaiennest,unknown,other
+2738,Kratontuin,unknown,other
+2739,Kreeft straat,unknown,other
+2740,Kreek straat,male,human
+2741,Krelis Louwen straat,male,human
+2742,Kreta weg,female,human
+2743,Kreupel steeg,unknown,other
+2744,Kribbe straat,female,human
+2745,Pablo Neruda laan,male,human
+2746,Kraaiennest pad,female,human
+2747,Kraaien plein,female,human
+2748,Kraailook straat,unknown,other
+2749,Kraaipan straat,unknown,other
+2750,Kraandrijver straat,unknown,other
+2751,Kraansluis,unknown,Object
+2752,Kraanspoor,unknown,other
+2753,Krabbendam straat,unknown,Object
+2754,Kraijenhoff straat,unknown,other
+2755,Kralenbeek,unknown,other
+2756,Kramat plantsoen,male,human
+2757,Kramat weg,male,human
+2758,Krammer straat,male,human
+2759,Kranen burg,male,human
+2760,Krasseur straat,unknown,other
+2761,Rostock brug,male,human
+2762,Krijn Breur straat,male,human
+2763,Krijn Taconis kade,male,human
+2764,Krom Boomssloot,male,human
+2765,Krombek straat,unknown,other
+2766,Kromme Distel straat,male,human
+2767,Kromme Leimuiden straat,unknown,other
+2768,Kromme Palm straat,unknown,Plant
+2769,Kromme Waal,female,human
+2770,Kromme-Mijdrecht straat,unknown,other
+2771,Krommehoek straat,unknown,other
+2772,Krommenie straat,unknown,other
+2773,Krommert straat,unknown,other
+2774,Kromwijk dreef,unknown,other
+2775,Kronstadt brug,male,human
+2776,Kroon weg,male,human
+2777,Kruit berg,male,human
+2778,Krooswijk hof,female,human
+2779,Kroot straat,female,human
+2780,Kropaar straat,unknown,other
+2781,Kruger plein,male,human
+2782,Kruisbessen straat,unknown,other
+2783,Kruisheren pad,female,human
+2784,Kruis laan,female,human
+2785,Kruithuis straat,unknown,Object
+2786,Krulsla plantsoen,unknown,Plant
+2787,Kruysweer straat,unknown,other
+2788,Ks. Ibis plantsoen,male,human
+2789,Ks. Ibis weg,male,human
+2790,Kuilsenhof weg,male,human
+2791,Kuinder straat,unknown,other
+2792,Kuiperberg weg,male,human
+2793,Kuipers steeg,female,human
+2794,Kuipers straat,female,human
+2795,Kunst brug,male,human
+2796,Kurk,male,human
+2797,Kustvaarder straat,unknown,other
+2798,Kwadijker straat,unknown,Object
+2799,Kwadrant weg,male,human
+2800,Kwakers plein,female,human
+2801,Kwakers straat,unknown,other
+2802,Kwartel straat,unknown,other
+2803,Kwartiermeester straat,unknown,other
+2804,Kweekhoven,unknown,other
+2805,Kweek pad,female,human
+2806,Kwekerij laan,female,human
+2807,Kwelder weg,male,human
+2808,Kwintsheul straat,unknown,other
+2809,KöLpin straat,unknown,other
+2810,L. Van Sonsbeeck straat,male,human
+2811,L.J.M. Beel straat,female,human
+2812,La Guardia weg,male,human
+2813,La Meye,female,human
+2814,Lambert Rima straat,male,human
+2815,Luchtvaart straat,unknown,other
+2816,Laagte Ka dijk,male,human
+2817, Laan Der Hesperiden,female,human
+2818, Laan Van Spartaan,male,human
+2819, Laan Van Vlaanderen,male,human
+2820,Laan weg,female,human
+2821,Laarderhoogt weg,male,human
+2822,Laarzen pad,female,human
+2823,Lambertus Zijl plein,female,human
+2824,Lamong gracht,male,human
+2825,Lampenisten straat,unknown,other
+2826,Lampong straat,male,human
+2827,Lanaken straat,unknown,other
+2828,Land Van Cocagne plein,male,human
+2829,Landbouw straat,unknown,other
+2830,Landlust pad,female,human
+2831,Landskroon,unknown,other
+2832,Landsmeerder dijk,male,human
+2833,Landsteiner straat,male,human
+2834,Landzicht,unknown,other
+2835,Lange straat,unknown,Animal
+2836,Langkat straat,male,human
+2837,Langsom,unknown,other
+2838,Langswater,unknown,other
+2839,Langbroek dreef,unknown,other
+2840,Langbroek pad,female,human
+2841,Lange Distel straat,male,human
+2842,Lange Houtgang,male,human
+2843,Lange Leidsedwars straat,unknown,Plant
+2844,Lange Niezel,female,human
+2845,Lange Stammer dijk,male,human
+2846,Lange Vogel straat,male,human
+2847,Lange Vonder,male,human
+2848,Langebrug steeg,unknown,Object
+2849,Lariks laan,female,human
+2850,Lassus straat,unknown,other
+2851,Lastage weg,male,human
+2852,Latex weg,male,human
+2853,Latherus straat,unknown,other
+2854,Lathyrus laan,female,human
+2855,Lau Mazirel straat,female,human
+2856,Lauernesse straat,unknown,other
+2857,Laurier gracht,unknown,Plant
+2858,Laurier hof,unknown,Plant
+2859,Laurier straat,unknown,Plant
+2860,Lavas pad,female,human
+2861,Lavendel straat,unknown,other
+2862,Lavoisier straat,male,human
+2863,Le Maire kade,male,human
+2864,Le Maire straat,female,human
+2865,Le Tourmalet,unknown,other
+2866,Lederambacht straat,unknown,other
+2867,Leendert Schijveschuurder straat,male,human
+2868,Leendert Valstar hof,male,human
+2869,Leenhof straat,unknown,other
+2870,Leerdam hof,female,human
+2871,Leidse plein,unknown,Plant
+2872,Leeuwarder weg,male,human
+2873,Leeuwendalers pad,female,human
+2874,Leeuwendalers weg,male,human
+2875,Leeuwenhoek straat,unknown,other
+2876,Leeuwenwerf,unknown,other
+2877,Leeuwerik laan,female,human
+2878,Leeuwerik straat,unknown,other
+2879,Leghorn straat,unknown,other
+2880,Legmeer plein,female,human
+2881,Legmeer straat,unknown,other
+2882,Leibniz straat,male,human
+2883,Leidekkers steeg,unknown,other
+2884,Leidsche Hand,male,human
+2885,Leidsebosje,unknown,Plant
+2886,Leidse gracht,unknown,Animal
+2887,Leidse kade,unknown,Plant
+2888,Leidsekruis straat,unknown,other
+2889,Lindenhofje,unknown,other
+2890,Linden straat,male,human
+2891,Marguerite Yourcenar straat,female,human
+2892,Leidse straat,unknown,Plant
+2893,Leimuiden straat,unknown,other
+2894,Lekkeresluis,unknown,Object
+2895,Leksmond hof,female,human
+2896,Leksmond plein,female,human
+2897,Lek straat,male,human
+2898,Lelie gracht,unknown,Animal
+2899,Leliendaal straat,unknown,other
+2900,Leliesluis,unknown,Object
+2901,Lemelerberg weg,male,human
+2902,Lemoen pad,female,human
+2903,Lente straat,female,human
+2904,Leo Frijda hof,male,human
+2905,Leo Heijdenrijk straat,male,human
+2906,Leo Horn straat,male,human
+2907,Leonard Springer brug,male,human
+2908,Leonardo straat,male,human
+2909,Leopold straat,male,human
+2910,Lepelkruis straat,unknown,other
+2911,Lepel straat,unknown,other
+2912,Lesbos straat,unknown,Plant
+2913,Letelier straat,male,human
+2914,Leusden hof,female,human
+2915,Leuven straat,male,human
+2916,Levant kade,male,human
+2917,Levant plein,male,human
+2918,Lex Althoff straat,male,human
+2919,Libau-Eiland,female,human
+2920,Lichter straat,unknown,other
+2921,Licht straat,male,human
+2922,Lidewijde pad,female,human
+2923,Lido straat,male,human
+2924,Liedekerke plantsoen,unknown,Plant
+2925,Liefdesbruggetje,unknown,Object
+2926,Liefdesverklaring,unknown,other
+2927,Lien Gisolf pad,female,human
+2928,Lienden hof,female,human
+2929,Linnaeusdwars straat,unknown,other
+2930,Linnaeus hof,male,human
+2931,Locatelli kade,male,human
+2932,Lier gouw,female,human
+2933,Lies Bakhuyzen laan,female,human
+2934,Liesdelsluis,unknown,Object
+2935,Lieven De Key straat,male,human
+2936,Lieven Keersemaker straat,male,human
+2937,Light brug,male,human
+2938,Liguster hof,female,human
+2939,Lijnbaans brug,unknown,Plant
+2940,Lijnbaans gracht,unknown,Plant
+2941,Lijnbaans steeg,unknown,Plant
+2942,Lijnbaans straat,unknown,Plant
+2943,Lijnden straat,unknown,Plant
+2944,Lijnolie straat,unknown,other
+2945,Lijsterbes laan,female,human
+2946,Lijster laan,female,human
+2947,Lijzijde,unknown,other
+2948,Limburg hof,female,human
+2949,Limmen straat,unknown,other
+2950,Limmerick,unknown,other
+2951,Lina Radke pad,female,human
+2952,Lindekers straat,unknown,other
+2953,Linde laan,female,human
+2954,Linden gracht,unknown,Plant
+2955,Lindenhoeve straat,unknown,other
+2956,Lindenhoeve weg,male,human
+2957,Locomotief straat,unknown,other
+2958,Linnaeus kade,male,human
+2959,Linnaeus pad,female,human
+2960,Linnaeuspark weg,male,human
+2961,Linnaeus plantsoen,male,human
+2962,Linnaeus straat,male,human
+2963,Lipari weg,male,human
+2964,Lippijn straat,unknown,other
+2965,Lire straat,female,human
+2966,Lisdodde laan,female,human
+2967,Lise Meitner pad,female,human
+2968,Litas weg,male,human
+2969,Livorno straat,male,human
+2970,Lizzy Ansingh straat,female,human
+2971,Lloyd plein,male,human
+2972,Lobo-Braakensiek straat,male,human
+2973,Lodewijk Boisot straat,male,human
+2974,Lodewijk Van Deyssel straat,male,human
+2975,Lodewijk Van Duuren straat,male,human
+2976,Loefzijde,unknown,other
+2977,Loenen dreef,unknown,other
+2978,Loenermark,unknown,other
+2979,Loenermark brug,male,human
+2980,Loevestein,unknown,other
+2981,Lof Der Zotheid brug,male,human
+2982,Logger hof,male,human
+2983,Lohuis,unknown,Object
+2984,Lokeren straat,unknown,other
+2985,Loman straat,male,human
+2986,Lombardshofje,unknown,other
+2987,Lombok straat,male,human
+2988,Lommel straat,male,human
+2989,Lommert brug,male,human
+2990,Lomond laan,female,human
+2991,Lontarpalm straat,unknown,Plant
+2992,Loodskotter hof,female,human
+2993,Looiers gracht,unknown,Plant
+2994,Lucien Gaudin straat,male,human
+2995,Ludovicus Immink pad,female,human
+2996,Luik singel,male,human
+2997,Loosdrecht dreef,unknown,other
+2998,Loosduinen straat,unknown,other
+2999,Loots straat,female,human
+3000,Loowaard,unknown,other
+3001,Lopik hof,female,human
+3002,Lord Kelvin straat,male,human
+3003,Lorentz laan,female,human
+3004,Lorreinen straat,unknown,other
+3005,Lorrie straat,female,human
+3006,Los kade Riekerhaven,male,human
+3007,Lou Jansen plein,male,human
+3008,Louis Apol straat,male,human
+3009,Louis Armstrong straat,male,human
+3010,Louis Bouwmeester Straat,male,human
+3011,Louis Bouwmeester straat,male,human
+3012,Louis Chrispijn straat,male,human
+3013,Louis Couperus straat,male,human
+3014,Lumeij straat,unknown,other
+3015,Maria Antonia Walpurgis laan,female,human
+3016,Louis Davids straat,male,human
+3017,Louis De Visser plein,male,human
+3018,Louis J. Welter brug,male,human
+3019,Louis Moor hof,male,human
+3020,Louis Naarstig straat,male,human
+3021,Louis Raemaekers straat,male,human
+3022,Louis Schotting straat,male,human
+3023,Louise Marie Loeber plantsoen,female,human
+3024,Louise Went straat,female,human
+3025,Louvre laan,female,human
+3026,Louweshoek,unknown,other
+3027,Louwes weg,male,human
+3028,Lucelle straat,female,human
+3029,Pacaya straat,unknown,other
+3030,LumièRe straat,female,human
+3031,Lupine laan,female,human
+3032,Lupine plein,female,human
+3033,Lupine straat,female,human
+3034,Lust hof,female,human
+3035,Luthuli plein,female,human
+3036,Lutkemeer weg,male,human
+3037,Lutma straat,unknown,other
+3038,Luton hof,male,human
+3039,Luttenberg weg,male,human
+3040,Luvernes,unknown,other
+3041,Luyendijkje,unknown,Object
+3042,Luzac straat,unknown,other
+3043,Lyceum brug,male,human
+3044,LüBeck brug,male,human
+3045,M. Berdenis Van Berlekom straat,male,human
+3046,M. Gandhi laan,female,human
+3047,M. Hanenberg straat,unknown,other
+3048,M.C. Addicks straat,unknown,other
+3049,M.J. Granpré MolièRe plein,female,human
+3050,M.J.E. Lippits straat,unknown,other
+3051,Ma Braun pad,female,human
+3052,Maagdenpalm straat,unknown,Plant
+3053,Maan straat,unknown,other
+3054,Maarkedal pad,female,human
+3055,Maarsen hof,female,human
+3056,Maarten Harpertszoon Tromp straat,male,human
+3057,Maarten Jansz. Koster straat,male,human
+3058,Maasdriel hof,female,human
+3059,Maaseik pad,female,human
+3060,Maaseik straat,unknown,Plant
+3061,Maasland straat,unknown,other
+3062,Marco Polo straat,male,human
+3063,Marcus straat,male,human
+3064,Marga Klompé Laan,female,human
+3065,Maassluis straat,unknown,Object
+3066,Maas straat,male,human
+3067,Madeira pad,female,human
+3068,Madelieven straat,unknown,Plant
+3069,Madura straat,male,human
+3070,Magalhaens plein,female,human
+3071,Magerhorst,unknown,other
+3072,Magersfontein straat,unknown,other
+3073,Magneet straat,unknown,other
+3074,Magnolia laan,female,human
+3075,Magnolia straat,female,human
+3076,Mainhaven weg,male,human
+3077,Majang brug,female,human
+3078,Majoor Bosshardt brug,male,human
+3079,Majoor Frans weg,male,human
+3080,Majoor Van Moerkerk pad,female,human
+3081,Makassar plein,male,human
+3082,Makassar straat,male,human
+3083,Makelaarsbruggetje,unknown,Object
+3084,Margaret Bonds hof,female,human
+3085,Margot Fonteyn straat,female,human
+3086,Margriete Van Cleve laan,male,human
+3087,Malden hof,male,human
+3088,Malie baan,female,human
+3089,Malta weg,male,human
+3090,Malus laan,female,human
+3091,Malva straat,female,human
+3092,Mandarijnen straat,unknown,other
+3093,Mandenmakers pad,female,human
+3094,Mandenmakers steeg,unknown,other
+3095,Manege straat,male,human
+3096,Manenburg straat,unknown,other
+3097,Manna De Wijs-Mouton hof,male,human
+3098,Maputo weg,male,human
+3099,Marathon weg,male,human
+3100,Marcanti laan,female,human
+3101,Marcellus Emants straat,male,human
+3102,Marchant hof,male,human
+3103,Maria Austria straat,female,human
+3104,Maria Bes hof,female,human
+3105,Maria Montessori straat,female,human
+3106,Maria Sibylla Merian brug,female,human
+3107,Maria SkłOdowska-Curie brug,female,human
+3108,Maria Snel plantsoen,female,human
+3109,Mariadistel kade,male,human
+3110,Mariahoeve pad,female,human
+3111,Marianella straat,female,human
+3112,Marianne Hilarides plantsoen,female,human
+3113,Marianne Philips straat,female,human
+3114,Marie Altelaar plein,female,human
+3115,Marie Baron laan,female,human
+3116,Marie Heineken plein,female,human
+3117,Marie Van Westerhoven straat,female,human
+3118,Marieken Van Nimwegen straat,male,human
+3119,Marifoon weg,male,human
+3120,Mariniers kade,male,human
+3121,Mariotte plein,female,human
+3122,Mariotte straat,female,human
+3123,Maritz straat,female,human
+3124,Marius Bauer plantsoen,male,human
+3125,Marius Bauer straat,male,human
+3126,Marius Meijboom straat,male,human
+3127,Marius Van Bouw dijk Bastiaanse straat,male,human
+3128,MariëNdaal,unknown,other
+3129,Marjolein straat,female,human
+3130,Markelerberg pad,female,human
+3131,Marken gouw,female,human
+3132,Markengouwtunnel,unknown,other
+3133,Marken plein,male,human
+3134,Marker veld,male,human
+3135,Markies pad,female,human
+3136,Markon straat,male,human
+3137,Mark singel,male,human
+3138,Marmolada,unknown,other
+3139,Marnix kade,unknown,Plant
+3140,Marnix plein,unknown,Plant
+3141,Marnix straat,unknown,Plant
+3142,Maroa straat,female,human
+3143,Marquette,female,human
+3144,Marskramer straat,unknown,other
+3145,Marsman straat,male,human
+3146,Mars straat,unknown,other
+3147,Martelaars gracht,unknown,Object
+3148,Marten Corver hof,male,human
+3149,Martien Coppens hof,male,human
+3150,Martin Ennals plein,male,human
+3151,Martin Ennals straat,male,human
+3152,Martin Luther King Park,male,human
+3153,Martin Luther King laan,male,human
+3154,Martin Luther King park,male,human
+3155,Martin NiemöLler straat,male,human
+3156,Martin Vlaar kade,male,human
+3157,Martini Van Geffen straat,male,human
+3158,Martinus Jan Langeveld straat,male,human
+3159,Nedersticht,unknown,other
+3160,Mary Van Der Sluis straat,female,human
+3161,Mary Wollstonecraft brug,female,human
+3162,Mary Zeldenrust straat,female,human
+3163,Mastbos,unknown,Plant
+3164,Mast hof,male,human
+3165,Mata Hari hof,female,human
+3166,Mataram straat,male,human
+3167,Matenesse- Hof,female,human
+3168,Mathijs Vermeulen pad,male,human
+3169,Mathura straat,female,human
+3170,Matrozen hof,female,human
+3171,Mattenbies straat,unknown,other
+3172,Matterhorn,male,human
+3173,Mattheus Sladus hof,male,human
+3174,Maurice Peeters pad,male,human
+3175,Maurice Ravel laan,male,human
+3176,Maurits Binger plantsoen,male,human
+3177,Maurits Kann straat,male,human
+3178,Maurits Sabbe hof,male,human
+3179,Meer pad,female,human
+3180,Meester Treub laan,female,human
+3181,Methaan weg,male,human
+3182,Maurits kade,male,human
+3183,Maurits straat,male,human
+3184,Mauve straat,male,human
+3185,Max De Haas straat,male,human
+3186,Max Euwe plein,male,human
+3187,Max Planck straat,male,human
+3188,Maxwell straat,male,human
+3189,Mechelen singel,male,human
+3190,Medemblik straat,unknown,other
+3191,Meent straat,female,human
+3192,Meer En Vaart,male,human
+3193,Meerhuizen plein,female,human
+3194,Meerhuizen straat,unknown,other
+3195,Meerkerk dreef,unknown,Object
+3196,Meerlucht laan,female,human
+3197,Meermont kade,male,human
+3198,Meern hof,female,human
+3199,Menara hof,female,human
+3200,Mendel hof,male,human
+3201,Meester Visser plein,male,human
+3202,Meeuwen laan,female,human
+3203,Meeuwen plein,female,human
+3204,Mendes Da Costa hof,male,human
+3205,Menno Ter Braak straat,male,human
+3206,Mensinge,unknown,other
+3207,Metroplaats,unknown,other
+3208,Metrostation Nieuwmarkt,unknown,other
+3209,Rosy Wertheim straat,female,human
+3210,Meiberg dreef,unknown,other
+3211,Metrostation Waterloo plein,male,human
+3212,Oetgensdwars straat,unknown,other
+3213,Meiberg pad,female,human
+3214,Meidoorn plein,female,human
+3215,Meidoorn weg,male,human
+3216,Meimorgen straat,unknown,other
+3217,Mekong weg,male,human
+3218,Melis Stoke hof,female,human
+3219,Melkdistel straat,unknown,other
+3220,Melkmeisjes brug,male,human
+3221,Melk weg,unknown,other
+3222,Melkweg brug,male,human
+3223,Meloenen straat,unknown,other
+3224,Melsbroek hof,female,human
+3225,Memeleiland,unknown,Place
+3226,Memling straat,male,human
+3227,Menado straat,unknown,other
+3228,Mercator plein,female,human
+3229,Mercator straat,unknown,other
+3230,Merce Cunningham plantsoen,female,human
+3231,Mercken burg,male,human
+3232,Mercurius plein,unknown,other
+3233,Mercurius straat,unknown,other
+3234,Merel pad,female,human
+3235,Merel straat,female,human
+3236,Merlijn straat,male,human
+3237,Merwede plein,female,human
+3238,Mesdag straat,unknown,other
+3239,Messchaert straat,unknown,other
+3240,Messina straat,male,human
+3241,Metaalbewerker weg,male,human
+3242,Meteoren singel,unknown,other
+3243,Meteoren weg,unknown,other
+3244,Midden weg,male,human
+3245,Rotgans steeg,unknown,other
+3246,Metrostation Weesper plein,female,human
+3247,Metrostation Wibaut straat,unknown,other
+3248,Metsel straat,unknown,other
+3249,Mezen laan,female,human
+3250,Mezen straat,male,human
+3251,Mezquita laan,female,human
+3252,MichaëL plein,male,human
+3253,Michel De Klerk hof,male,human
+3254,Michel Fokine straat,male,human
+3255,Michel Foucault brug,male,human
+3256,Michelangelo straat,male,human
+3257,Michiel De Ruijtertunnel,male,human
+3258,Middelhoff straat,unknown,other
+3259,Middelie straat,unknown,other
+3260,Middelveld straat,unknown,Object
+3261,Midden laan Zunder dorp,female,human
+3262,Middenmeer,unknown,other
+3263,Middenmeer pad,female,human
+3264,Middentunnel,unknown,other
+3265,Midscheeps,unknown,other
+3266,Midwoud pad,female,human
+3267,Mien Labberton straat,female,human
+3268,Mien Ruys brug,female,human
+3269,Mije hof,male,human
+3270,Mijnden hof,female,human
+3271,Mikonos pad,female,human
+3272,Millet straat,female,human
+3273,Millingen hof,female,human
+3274,Milovan Djilas plein,male,human
+3275,Milovan Djilas straat,male,human
+3276,Minahassa straat,unknown,other
+3277,Minckelers straat,unknown,other
+3278,Minervahaven weg,male,human
+3279,Minerva laan,female,human
+3280,Minerva pad,female,human
+3281,Minerva plein,female,human
+3282,Minnemoers straat,unknown,Place
+3283,Mira plein,unknown,other
+3284,Moddermolen brug,male,human
+3285,Moddermolen straat,unknown,Object
+3286,Modelmaker straat,unknown,other
+3287,Modem straat,male,human
+3288,Moeder Alacoque brug,female,human
+3289,Moederkruid straat,unknown,other
+3290,Moeras pad,female,human
+3291,Moerbeien straat,unknown,other
+3292,Moerbeke,unknown,other
+3293,Moerdijk straat,unknown,Object
+3294,Moermansk kade,male,human
+3295,Moersbergen,unknown,Place
+3296,Moestuin laan,female,human
+3297,Moezelhaven weg,male,human
+3298,Moker straat,male,human
+3299,Molen 'T Haasje pad,female,human
+3300,Molenaars weg,male,human
+3301,Molen gouw,unknown,Animal
+3302,Molen kade,male,human
+3303,Molen pad,unknown,Animal
+3304,Molen steeg,male,human
+3305,Molenwerf,unknown,other
+3306,Molenwijk,unknown,other
+3307,Mol steeg,male,human
+3308,Molukken straat,unknown,other
+3309,Molukken straat (Insulinde weg),unknown,Plant
+3310,Mona Gowan pad,female,human
+3311,Mondlane straat,unknown,other
+3312,Monitor straat,male,human
+3313,Nieuwmarkt,unknown,other
+3314,Monnikendammer plantsoen,unknown,Plant
+3315,Monnikendammer weg,male,human
+3316,Monniken straat,unknown,other
+3317,Monnikskap straat,unknown,other
+3318,Mont Blanc plein,female,human
+3319,Mont Ventoux pad,female,human
+3320,Monte Adi,male,human
+3321,Monte Perdido,male,human
+3322,Monte Rosa plein,male,human
+3323,Montefiore park,female,human
+3324,Montelbaans brug,male,human
+3325,Montelbaan straat,unknown,other
+3326,Montferland straat,unknown,other
+3327,Montfoort hof,female,human
+3328,Moreelse straat,unknown,other
+3329,Morellen straat,unknown,other
+3330,Morra hof,female,human
+3331,Mortel straat,male,human
+3332,Mos plein,female,human
+3333,Mos straat,male,human
+3334,Mosterdpot steeg,unknown,other
+3335,Mos veld,male,human
+3336,Motor kade,male,human
+3337,Motorwal,unknown,other
+3338,Mouthaan steeg,unknown,other
+3339,Mozart kade,male,human
+3340,Mozes En AäRon straat,male,human
+3341,Mr. J.J. Van Der Velde brug,male,human
+3342,Ms. Oslofjord weg,male,human
+3343,Ms. Tarn weg,female,human
+3344,Ms. Van Riemsdijk weg,male,human
+3345,Mt. Lincoln weg,male,human
+3346,Mubretia laan,female,human
+3347,Muiderberg brug,male,human
+3348,Muider straat,unknown,other
+3349,Muntberg weg,male,human
+3350,Muntendam straat,unknown,Object
+3351,Munt plein,male,human
+3352,Murillo straat,male,human
+3353,Museum plein,female,human
+3354,Museum straat,female,human
+3355,Mussen straat,unknown,other
+3356,Muurbloem straat,unknown,Plant
+3357,Muur weg,male,human
+3358,Muzen plein,female,human
+3359,MáRia Telkes straat,female,human
+3360,N. Lansdorp straat,unknown,Place
+3361,Naaldwijk straat,unknown,other
+3362,Naardermeer straat,unknown,other
+3363,Nachtegaal laan,female,human
+3364,Nachtegaal straat,male,human
+3365,Nachtwacht laan,female,human
+3366,Nadezjda Mandelstam straat,female,human
+3367,Nadia En Lili Boulanger plantsoen,female,human
+3368,Nadir straat,male,human
+3369,Nadorst steeg,unknown,other
+3370,Nageljongen straat,unknown,other
+3371,Nannie Van Wehl straat,female,human
+3372,Nanno plein,male,human
+3373,Narita weg,female,human
+3374,Narva-Eiland,male,human
+3375,Narwal straat,male,human
+3376,Ndsm- Plein,female,human
+3377,Ndsm- Straat,unknown,other
+3378,Nieuwpoort kade,male,human
+3379,Onze Lieve Vrouwe steeg,female,human
+3380,Nassau kade,male,human
+3381,Nassau plein,male,human
+3382,Nathan F. IsraëL weg,male,human
+3383,Ndsm- Kade,male,human
+3384,Nederhoven,unknown,other
+3385,Pieter Van Der Does straat,male,human
+3386,Neerkanne,unknown,other
+3387,Neerlandia plein,female,human
+3388,Nellestein pad,female,human
+3389,Nellie Bodenheim straat,female,human
+3390,Nellie Van Kol straat,male,human
+3391,Nelson Mandela park,male,human
+3392,Nemesia laan,female,human
+3393,Neptunus plein,female,human
+3394,Neptunus straat,male,human
+3395,Nepveu straat,unknown,other
+3396,Nes,female,human
+3397,Nescio brug,male,human
+3398,Nesserhoek,unknown,other
+3399,Nesserland,unknown,other
+3400,Nesserton,unknown,other
+3401,Netwerk weg,male,human
+3402,Nias straat,female,human
+3403,Nibbixwoud straat,unknown,other
+3404,Nic. De Roever straat,male,human
+3405,Nickerie straat,unknown,other
+3406,Nieuw Herlaer,female,human
+3407,Nico Broekhuysen weg,male,human
+3408,Nico Jesse kade,male,human
+3409,Nico Snijders straat,male,human
+3410,Nico Van Suchtelen hof,male,human
+3411,Nicolaas Anslijn straat,male,human
+3412,Nicolaas Beets plantsoen,male,human
+3413,Nicolaas Beets straat,male,human
+3414,Nicolaas Berchem straat,male,human
+3415,Nicolaas Henneman hof,male,human
+3416,Nicolaas Japikse straat,male,human
+3417,Nicolaas Maes straat,male,human
+3418,Nicolaas Ruychaver straat,male,human
+3419,Nicolaas Tetterode straat,male,human
+3420,Nicolaas Witsen kade,male,human
+3421,Nicolaas Witsen straat,male,human
+3422,Niek Engelschman brug,male,human
+3423,Nienke Van Hichtum straat,female,human
+3424,Nierkerke straat,unknown,Object
+3425,Niers straat,unknown,other
+3426,Nieuwe Houttuinen,male,human
+3427,Nieuwe Jonker straat,male,human
+3428,Nieuw-Zeeland weg,female,human
+3429,Nieuwe Achter gracht,male,human
+3430,Nieuwe Aker weg,male,human
+3431,Nieuwe Amstel brug,male,human
+3432,Nieuwe Amstel straat,male,human
+3433,Nieuwe Amsterdamse weg,male,human
+3434,Nieuwe Batavier straat,male,human
+3435,Nieuwe Doelen straat,male,human
+3436,Nieuwe Egelantiers straat,unknown,Plant
+3437,Nieuwe Foelie straat,male,human
+3438,Nieuwe Gang,male,human
+3439,Nieuwe Gieters straat,unknown,Plant
+3440,Nieuwe Gouw,female,human
+3441,Nieuwe Haagse weg,male,human
+3442,Nieuwe Hem weg,male,human
+3443,Nieuwe Heren gracht,male,human
+3444,Nieuwe Hoog straat,male,human
+3445,Nieuwe Keizers gracht,male,human
+3446,Nieuwe Kerk straat,male,human
+3447,Nieuwe Laan,female,human
+3448,Nieuwe Leeuwarder weg,male,human
+3449,Nieuwe Lelie straat,unknown,Plant
+3450,Nieuwe Looiersdwars straat,male,human
+3451,Nieuwe Looiers straat,male,human
+3452,Nieuwe Maan straat,male,human
+3453,Nieuwe Meer pad,female,human
+3454,Nieuwe Nieuw straat,male,human
+3455,Nieuwe Oostenburgerdwars straat,male,human
+3456,Nieuwe Oostenburger straat,male,human
+3457,Nieuwe Oostenburgervoor straat,male,human
+3458,Nieuwe Osdorper gracht,male,human
+3459,Pieter Van Der Meulen hof,male,human
+3460,Nieuwe Prinsen gracht,male,human
+3461,Nieuwe Purmer weg,male,human
+3462,Nieuwe Ridder straat,male,human
+3463,Nieuwe Schermer straat,male,human
+3464,Nieuwe Sint Pieterspoort,male,human
+3465,Nieuwe Spaarpot steeg,male,human
+3466,Nieuwe Spiegel straat,male,human
+3467,Nieuwe Teertuinen,unknown,Place
+3468,Nieuwe Tuin straat,unknown,Plant
+3469,Nieuwe Uilenburger straat,male,human
+3470,Nieuwe Utrechtse weg,male,human
+3471,Nieuwe Vijzel straat,male,human
+3472,Nieuwe Wagen straat,male,human
+3473,Nieuwenhuysen straat,unknown,other
+3474,Nieuwerhoek,unknown,other
+3475,Nieuwpoort straat,unknown,Object
+3476,Nieuwe Westerdok straat,male,human
+3477,Nieuwe Wetering straat,male,human
+3478,Nieuwe Willems straat,unknown,Plant
+3479,Nieuwe Zonne weg,male,human
+3480,Nieuwe-Hoofd hof,male,human
+3481,Nieuwe-Wercks brug,male,human
+3482,Nieuwebrug steeg,unknown,Object
+3483,Nieuwegein laan,female,human
+3484,Nieuwegrachtje,unknown,Object
+3485,Nieuwendammer Molen pad,female,human
+3486,Nieuwendammer Sluis pad,female,human
+3487,Nieuwendammer dijk,male,human
+3488,Nieuwendammer kade,male,human
+3489,Nieuwendammer straat,unknown,Object
+3490,Nieuwen dijk,male,human
+3491,Nieuwersluis hof,female,human
+3492,Nieuwevaart,unknown,other
+3493,Nieuwevaart kade,male,human
+3494,Nieuwevaart weg,male,human
+3495,Nieuwezijds Arm steeg,male,human
+3496,Nieuwezijds Kolk,unknown,other
+3497,Nieuwezijds Voorburgwal,unknown,other
+3498,Nieuwland hof,female,human
+3499,Noordsche Compagnie brug,male,human
+3500,Niftrik hof,female,human
+3501,Nigelle straat,female,human
+3502,Nigtevecht hof,female,human
+3503,Nijen burg,male,human
+3504,Nijlpaarden brug,male,human
+3505,Nilda Pinto straat,female,human
+3506,Nimrod,male,human
+3507,Ninette De Valois kade,male,human
+3508,Nirwana,female,human
+3509,Nisser straat,unknown,other
+3510,Nobel weg,male,human
+3511,Nolens straat,male,human
+3512,Noord,unknown,place
+3513,Noord-Beveland straat,unknown,other
+3514,Noorder Ij dijk,unknown,object
+3515,Noorder Valdeur,unknown,other
+3516,Noorderaker weg,male,human
+3517,Noordwal,unknown,other
+3518,Noordzeekanaal weg,male,human
+3519,Oetewaler pad,female,human
+3520,Noorderbreedte,unknown,Place
+3521,Noorderdwars straat,unknown,Place
+3522,Noorderhaaks pad,unknown,Place
+3523,Noorderhoofd,unknown,Place
+3524,Noorderkerk straat,unknown,Plant
+3525,Noorderkroon straat,unknown,other
+3526,Noordermarkt,unknown,Plant
+3527,Noorder park,female,Place
+3528,Noorder straat,unknown,Place
+3529,Noordhollandschkanaal dijk,unknown,Place
+3530,Noordholland straat,unknown,Place
+3531,Noordkaper weg,unknown,Place
+3532,Noordzee weg,unknown,Place
+3533,Noordzijde,unknown,Place
+3534,Notarisappel straat,unknown,other
+3535,Notenboom laan,female,human
+3536,Noten straat,unknown,other
+3537,Not weg,unknown,other
+3538,Nova Zembla straat,female,human
+3539,Nuldernauw pad,female,human
+3540,Obi plein,unknown,Place
+3541,Oceanen weg,unknown,Place
+3542,Ochten hof,unknown,Object
+3543,Octaan weg,male,human
+3544,Ode brug,unknown,Object
+3545,Oder weg,unknown,Object
+3546,Oermilla Tewarie straat,female,human
+3547,Oesjesduiker,unknown,Object
+3548,Oetewaler straat,unknown,Object
+3549,Oeverlanden weg,unknown,Object
+3550,Oever pad,unknown,other
+3551,Ogentroost straat,unknown,Plant
+3552,Ohm straat,male,human
+3553,Okeghem straat,unknown,other
+3554,Oldambt straat,unknown,Object
+3555,Oldengaarde,unknown,other
+3556,Oleander straat,male,human
+3557,Olga De Haas straat,female,human
+3558,Oliepalm straat,unknown,Plant
+3559,Olieslagers steeg,unknown,Plant
+3560,Olifantswerf,unknown,other
+3561,Oliphants brug,unknown,other
+3562,Olmen laan,unknown,Place
+3563,Olof Palme plein,male,human
+3564,Oltmans straat,unknown,other
+3565,Olympia kade,male,human
+3566,Oogst straat,unknown,other
+3567,Ooievaar pad,unknown,Animal
+3568,Ooievaars weg,unknown,Animal
+3569,Rotterdammer brug,unknown,Place
+3570,Olympia plein,unknown,Place
+3571,Olympia straat,unknown,Place
+3572,Olympia weg,unknown,Place
+3573,Olympisch Stadion,unknown,Place
+3574,Ombilin straat,unknown,other
+3575,Ommegang,unknown,other
+3576,Ommeren hof,unknown,other
+3577,Omval,unknown,other
+3578,Onbekende gracht,unknown,Object
+3579,Onderlangs,unknown,other
+3580,Onkelboeren steeg,unknown,other
+3581,Onsenoort,unknown,other
+3582,Onstein,unknown,other
+3583,Ookmeer weg,unknown,Place
+3584,Oossaander Hoop,male,human
+3585,Oost,unknown,Place
+3586,Oost 1,unknown,Place
+3587,Oost-Indische Huis brug,unknown,Place
+3588,Oostakker straat,unknown,Place
+3589,Oosteinde,unknown,Place
+3590,Oosterse kade,unknown,Place
+3591,Oostelijke Handels kade,unknown,Place
+3592,Oostenburgerdwars straat,unknown,other
+3593,Oostenburger gracht,unknown,Object
+3594,Oostenburgermidden straat,unknown,other
+3595,Oostenburger park,unknown,other
+3596,Oostenburgervoor straat,unknown,other
+3597,Ooster Ring dijk,unknown,other
+3598,Oosterdok,unknown,other
+3599,Oosterdoksdraai brug,male,human
+3600,Oudaen,unknown,Place
+3601,Pieter Van Der Werf straat,male,human
+3602,Oosterdoks kade,unknown,other
+3603,Oosterdoks straat,unknown,other
+3604,Oosterend straat,unknown,other
+3605,Oosterlengte,unknown,other
+3606,Oostermeer straat,unknown,other
+3607,Ooster park,unknown,other
+3608,Oosterring dijk,unknown,other
+3609,Oosterspoor plein,unknown,other
+3610,Oostertoegang,unknown,other
+3611,Oosthuizen straat,unknown,other
+3612,Oostoever,unknown,Place
+3613,Oosttunnel,unknown,other
+3614,Oostzaan straat,unknown,other
+3615,Oostzaner dijk,male,human
+3616,Oostzee weg,male,human
+3617,Opdijk straat,unknown,Object
+3618,Openhart steeg,unknown,other
+3619,Ophemert hof,female,human
+3620,Ouddiemer laan,female,human
+3621,Opheusden hof,female,human
+3622,Opijnen hof,female,human
+3623,Opmerkzaam,unknown,other
+3624,Opperdoes pad,unknown,Place
+3625,Oranje Nassau laan,unknown,Object
+3626,Oranje-Vrijstaat kade,unknown,Place
+3627,Oranje brug,unknown,Place
+3628,Oranje laan,unknown,Place
+3629,Oranje plantsoen,unknown,Plant
+3630,Orgeldraaiers pad,unknown,Object
+3631,Orion plantsoen,unknown,Object
+3632,Orion straat,unknown,Object
+3633,Orkney pad,unknown,Place
+3634,Oude Braak,unknown,other
+3635,Oude Doelen straat,unknown,Place
+3636,Orly plein,unknown,Place
+3637,Ornstein straat,male,human
+3638,Ortelius kade,male,human
+3639,Ortelius pad,female,human
+3640,Ortelius straat,unknown,other
+3641,Ortler,unknown,other
+3642,Osdorper Ban,unknown,Place
+3643,Oude Haagse weg,unknown,Place
+3644,Oude Hoog straat,unknown,other
+3645,Osdorper weg,unknown,Place
+3646,Osdorp plein,unknown,Place
+3647,Ossenspook steeg,unknown,other
+3648,Ostwald straat,male,human
+3649,Otopeni weg,unknown,Place
+3650,Ottho Heldring straat,male,human
+3651,Oturia,unknown,other
+3652,Ouborg,unknown,other
+3653,Oudekerks plein,unknown,Place
+3654,Oudemanhuispoort,unknown,Object
+3655,Oudenaarde plantsoen,unknown,Plant
+3656,Oudenrijn laan,female,human
+3657,Ouderkerker dijk,male,human
+3658,Oudeschans,unknown,Object
+3659,Oudezijds Achterburgwal,unknown,other
+3660,Oudezijds Arm steeg,male,human
+3661,Oudezijds Kolk,unknown,other
+3662,Oudezijds Voorburgwal,unknown,other
+3663,Oudorper straat,unknown,Place
+3664,Ouwerdingen pad,female,human
+3665,Overamstel straat,unknown,other
+3666,Pieter Vlaming straat,male,human
+3667,Overbraker pad,female,human
+3668,Overdam,unknown,Object
+3669,Overdiemer weg,male,human
+3670,Overflakkee straat,unknown,other
+3671,Overhaalsgang,unknown,other
+3672,Overhaal straat,unknown,other
+3673,Overhoekspark laan,unknown,Place
+3674,Overleg,unknown,other
+3675,Overpelt straat,unknown,other
+3676,Overschie straat,unknown,other
+3677,Oversinge,unknown,other
+3678,Overslag,unknown,other
+3679,Overslag hof,female,human
+3680, Pad Achter Volkstuin Lissabon,unknown,Place
+3681,Padang straat,male,human
+3682,Paerlduiker,unknown,other
+3683,Pakinge hof,female,human
+3684,Paladru hof,female,human
+3685,Palamedes straat,male,human
+3686,Paleis straat,female,human
+3687,Palembang straat,male,human
+3688,Palestrina straat,unknown,other
+3689,Palet straat,male,human
+3690,Palmdwars straat,unknown,Plant
+3691,Overtoom,unknown,other
+3692,Overveen straat,unknown,other
+3693,Overvoorde,unknown,other
+3694,Overzicht weg,female,human
+3695,P Amstel park,female,human
+3696,P+R Zee burg I,male,human
+3697,P. Dijkstra plein,female,human
+3698,P. Hans Frankfurther singel,male,human
+3699,P. Lieftinck straat,unknown,other
+3700,P.E. Tegelberg plein,female,human
+3701,P.J. Oud straat,male,human
+3702,P.L. Marnette straat,female,human
+3703,P5 Villa Arena,female,human
+3704,Pa Sem brug,male,human
+3705,Paalberg weg,male,human
+3706,Paardekraal straat,unknown,other
+3707,Paarden straat,unknown,other
+3708,Paasheuvel weg,male,human
+3709,Paavo Nurmi pad,male,human
+3710,Palm gracht,unknown,Place
+3711,Palm straat,unknown,Place
+3712,Paltrok,unknown,other
+3713,Pamir straat,male,human
+3714,Pampus laan,female,human
+3715,Panama kade,male,human
+3716,Panama laan,female,human
+3717,Panchuli steeg,unknown,other
+3718,Pancras straat,male,human
+3719,Pandim steeg,unknown,other
+3720,Pandorina straat,unknown,other
+3721,Pannerden straat,unknown,other
+3722,Pantograaf straat,unknown,other
+3723,Papaverhoek,unknown,other
+3724,Polanen hof,female,human
+3725,Papaver weg,male,human
+3726,Papenbroeks steeg,unknown,other
+3727,Papenbrug steeg,unknown,Object
+3728,Papendrecht straat,unknown,other
+3729,Papiermolensluis,unknown,Object
+3730,Papier weg,unknown,Object
+3731,Paradijsappel straat,unknown,other
+3732,Paradijs plein,female,human
+3733,Paradiso,female,human
+3734,Paramaribo plein,female,human
+3735,Paramaribo straat,unknown,other
+3736,Parel straat,male,human
+3737,Park hof,unknown,other
+3738,Parlevinker,unknown,other
+3739,Parlevinker pad,unknown,other
+3740,Parmenides straat,male,human
+3741,Pazzani straat,male,human
+3742,Peel straat,male,human
+3743,Pegasus straat,male,human
+3744,Scharenslijpers pad,female,human
+3745,Parnassus weg,male,human
+3746,Paros straat,male,human
+3747,Parthenon hof,female,human
+3748,Pascal straat,male,human
+3749,Passage 2,unknown,other
+3750,Passage 3,unknown,other
+3751,Passeerders gracht,unknown,Plant
+3752,Passeerders straat,unknown,Plant
+3753,Passtukken pad,unknown,other
+3754,Pastel straat,unknown,other
+3755,Pasteur straat,unknown,other
+3756,Pasubio,unknown,other
+3757,Pater Van Kilsdonk brug,male,human
+3758,Paternoster steeg,male,human
+3759,Paters laan,unknown,other
+3760,Patrice Lumumba straat,male,human
+3761,Patroclos straat,unknown,other
+3762,Paul Huf kade,male,human
+3763,Paul Scholten straat,male,human
+3764,Paul Schuitema hof,male,human
+3765,Paul Van Vlissingen straat,male,human
+3766,Paulus Potter straat,male,human
+3767,Paulus Van Hemert straat,male,human
+3768,Pauwels-Van Biene straat,male,human
+3769,Pauwen pad,female,human
+3770,Scharrebiersluis,unknown,Object
+3771,Peilscheidings kade,male,human
+3772,Pekelharing straat,unknown,other
+3773,Pelerin,unknown,other
+3774,Pelikaan brug,female,human
+3775,Pelikaan straat,female,human
+3776,Pelister steeg,female,human
+3777,Penninks hof,female,human
+3778,Penny hof,female,human
+3779,Penseel straat,unknown,other
+3780,Pentagon,male,human
+3781,Peper straat,male,human
+3782,Pepijn pad,male,human
+3783,Peren pad,female,human
+3784,Pernau brug,male,human
+3785,Perseus straat,male,human
+3786,Persijn,male,human
+3787,Pers straat,male,human
+3788,Perzik straat,unknown,other
+3789,Peseta laan,female,human
+3790,Pestalozzi hof,female,human
+3791,Pesthuys brug,male,human
+3792,Petemayen brug,male,human
+3793,Peter Schat straat,male,human
+3794,Peter Van Anrooy straat,male,human
+3795,Peter Wotke hof,male,human
+3796,Petmolen,unknown,Object
+3797,Pieter Langendijk straat,male,human
+3798,Polanen straat,unknown,other
+3799,Petroleumhaven weg,male,human
+3800,Petrus Blok hof,male,human
+3801,Petten straat,unknown,other
+3802,Peursum straat,unknown,other
+3803,Philip Bloemendal brug,male,human
+3804,Philip Vingboons straat,male,human
+3805,Piarco plein,female,human
+3806,Pieneman straat,unknown,other
+3807,Pier Afrika,unknown,Place
+3808,Pramen pad,unknown,other
+3809,Pier Amerika,unknown,other
+3810,Pier Azië,unknown,other
+3811,Pier Europa,unknown,other
+3812,Pier Pander straat,male,human
+3813,Pierre Cuypers hof,male,human
+3814,Pierre Lallement straat,male,human
+3815,Piet Dickentman brug,male,human
+3816,Piet Gijzenbrug straat,male,human
+3817,Piet Hein Garage,male,human
+3818,Piet Hein kade,male,human
+3819,Pieter Lastman kade,male,human
+3820,Pieter Lodewijk Tak straat,male,human
+3821,Pieter Oosterhuis straat,male,human
+3822,Pieter Oosterlee hof,male,human
+3823,Pieter Pauw straat,male,human
+3824,Pieter Post pad,male,human
+3825,Piet Heintunnel,male,human
+3826,Piet Ikelaar pad,male,human
+3827,Piet Kranenberg pad,male,human
+3828,Piet Laroo straat,male,human
+3829,Piet Meerburg brug,male,human
+3830,Piet Moeskops pad,male,human
+3831,Piet Moes pad,male,human
+3832,Piet Mondriaan plein,male,human
+3833,Piet Mondriaan straat,male,human
+3834,Piet Nak straat,male,human
+3835,Piet Paaltjens pad,male,human
+3836,Piet Peelen brug,male,human
+3837,Piet Wiedijk straat,male,human
+3838,Piet Zwart hof,male,human
+3839,Pieter Post singel,male,human
+3840,Scharwouder straat,unknown,other
+3841,Pieter A. Van Heijninge straat,male,human
+3842,Pieter Aertsz straat,male,human
+3843,Pieter Bast straat,male,human
+3844,Pieter Boorsma pad,male,human
+3845,Pieter Bor straat,male,human
+3846,Pieter Caland laan,male,human
+3847,Pieter Caland plantsoen,male,human
+3848,Pieter Cornelisz. Hooft straat,male,human
+3849,Pieter De Hooch straat,male,human
+3850,Pieter Jacobszdwars straat,male,human
+3851,Pieter Jacobsz straat,male,human
+3852,Pieter Weers pad,male,human
+3853,Pieter Zeeman laan,male,human
+3854,Pietersberg weg,male,human
+3855,Pigment straat,male,human
+3856,Pijlkruid straat,unknown,other
+3857,Pijl steeg,unknown,other
+3858,Pikolet straat,unknown,other
+3859,Pilatus,unknown,other
+3860,Pilau brug,male,human
+3861,Piloten straat,unknown,other
+3862,Pina Bausch plein,female,human
+3863,Pinas straat,male,human
+3864,Pindos pad,unknown,other
+3865,Pindos weg,male,human
+3866,Pinksterbloem straat,unknown,Plant
+3867,Pioenen laan,unknown,Plant
+3868,Piraeus plein,unknown,Place
+3869,Piri Reis plein,male,human
+3870,Pirin steeg,unknown,Place
+3871,Pirola straat,male,human
+3872,Pisuisse hof,unknown,other
+3873,Plaatwerker straat,unknown,other
+3874,Plancius straat,unknown,other
+3875,Planeten plein,unknown,other
+3876,Planeten straat,unknown,other
+3877,Plantage Bad laan,unknown,Place
+3878,Plantage Dok laan,unknown,Place
+3879,Plantage Kerk laan,unknown,Place
+3880,Plantage Lepel laan,unknown,Place
+3881,Plantage Midden laan,unknown,Place
+3882,Plantage Muider gracht,unknown,Place
+3883,Plantage Park laan,unknown,Place
+3884,Plantage Westerman laan,unknown,Place
+3885,Plantage kade,unknown,Place
+3886,Platanen weg,unknown,other
+3887,Platenwagen weg,unknown,other
+3888,Plato straat,male,human
+3889,Pleimuiden,unknown,other
+3890, Plein '40-'45,unknown,Place
+3891,Reinaert De Vos straat,male,human
+3892, Plein Spanje '36-'39,unknown,Place
+3893,Plejaden plein,unknown,Object
+3894,Plejaden weg,unknown,Object
+3895,Plesman laan,male,human
+3896,Pleso straat,unknown,other
+3897,Plimsoll weg,male,human
+3898,Ploeg straat,unknown,other
+3899,Plotter straat,male,human
+3900,Plutarchus straat,unknown,other
+3901,Pluto straat,male,human
+3902,Pluvier plein,unknown,Animal
+3903,Pluvier straat,unknown,Animal
+3904,Poederooien straat,unknown,other
+3905,Poeldijk straat,unknown,Object
+3906,Poentunnel,unknown,other
+3907,Poggenbeek straat,unknown,other
+3908,Polder weg,male,human
+3909,Polijster weg,male,human
+3910,Pollux plein,unknown,other
+3911,Pollux straat,unknown,other
+3912,Polonceau- Kade,female,human
+3913,Polsbroek straat,unknown,other
+3914,Polygoon gracht,unknown,Object
+3915,Pomona straat,female,human
+3916,Pompman straat,unknown,other
+3917,Pond Sterling laan,male,human
+3918,Ponser straat,unknown,other
+3919,Pontanus straat,unknown,other
+3920,Pont plein,male,human
+3921,Pontsteiger,unknown,other
+3922,Poolster straat,unknown,other
+3923,Pool straat,male,human
+3924,Poortland,unknown,other
+3925,Purmer hof,unknown,Place
+3926,Reinhard Dozy hof,male,human
+3927,Poppendammer gouw,unknown,Place
+3928,Populieren laan,unknown,Plant
+3929,Populieren weg,unknown,Plant
+3930,Populier straat,unknown,Plant
+3931,Portengen straat,unknown,other
+3932,Portsmuiden,unknown,other
+3933,Posbank pad,unknown,Place
+3934,Postje Van Gerrit Vreling,male,human
+3935,Postjes kade,male,human
+3936,Postjes weg,male,human
+3937,Potgieter straat,unknown,other
+3938,Potvis straat,unknown,other
+3939,Prado laan,male,human
+3940,Raam straat,male,human
+3941,Prater laan,unknown,other
+3942,Preanger straat,unknown,other
+3943,Presanella,unknown,other
+3944,President Allende laan,male,human
+3945,President Brand straat,male,human
+3946,President Kennedy plantsoen,male,human
+3947,President Steyn plantsoen,male,human
+3948,President Steyn straat,male,human
+3949,Pretorius straat,unknown,other
+3950,Prikneus,unknown,other
+3951,Princes Dock straat,male,human
+3952,Prins Bernhard plein,male,human
+3953,Professor J.H. Gunning straat,male,human
+3954,Professor Oranje straat,male,human
+3955,Profilti gracht,unknown,Object
+3956,Programmeur straat,unknown,other
+3957,Prins Hendrik kade,male,human
+3958,Prins Hendrik laan,male,human
+3959,Prinseneiland,unknown,Place
+3960,Propaan weg,male,human
+3961,Propeller straat,unknown,Object
+3962,Psychiatrisch,unknown,other
+3963,Puck Van Duyne Brouwer brug,male,human
+3964,Raasdorper weg,male,human
+3965,Rachel Ruysch brug,female,human
+3966,Prinsen gracht,unknown,Plant
+3967,Prinsenhofs steeg,unknown,other
+3968,Prinsenliefhebbersgang,unknown,other
+3969,Prinsensluis,unknown,Object
+3970,Prinsen straat,unknown,Animal
+3971,Prinses Amalia plein,female,human
+3972,Prinses Irene straat,female,human
+3973,Prinses Margriet straat,female,human
+3974,Prinses Marijke straat,female,human
+3975,Printer straat,male,human
+3976,Processor straat,male,human
+3977,Prof. H. Bavinck straat,male,human
+3978,Prof. Ph. Kohnstamm straat,male,human
+3979,Prof. R. Casimir straat,male,human
+3980,Prof. Tulp plein,male,human
+3981,Provinciale weg,unknown,Place
+3982,Puiflijk pad,unknown,Place
+3983,Pumori plein,unknown,Place
+3984,Punters pad,unknown,other
+3985,Purmer plein,unknown,Place
+3986,Purmer weg,unknown,Place
+3987,Purperhoedenveem,unknown,other
+3988,Putten pad,unknown,other
+3989,Putter plantsoen,unknown,Object
+3990,Putter straat,unknown,Object
+3991,PyreneeëN,unknown,other
+3992,Pythagoras straat,male,human
+3993,Quellijn straat,unknown,other
+3994,Quinten Massijs straat,male,human
+3995,R. Castelijn straat,unknown,other
+3996,R.J.H. Fortuyn plein,female,human
+3997,R.J.H. Fortuyn straat,unknown,other
+3998,Raadhuis straat,unknown,Animal
+3999,Raamdwars straat,unknown,Plant
+4000,Raam gracht,unknown,Plant
+4001,Raam plein,unknown,Plant
+4002,Raampoort,unknown,Plant
+4003,Raam steeg,unknown,Plant
+4004,Radar weg,male,human
+4005,Radboud,male,human
+4006,Rademaker straat,male,human
+4007,Raden Adjeng Kartini straat,male,human
+4008,Raderboot straat,unknown,other
+4009,Raoul Wallenberghofje,male,human
+4010,Raoul Wallenberg straat,male,human
+4011,Rapen burg,male,human
+4012,Rapenburger plein,unknown,Place
+4013,Rapenburger straat,unknown,Place
+4014,Rapengang,unknown,other
+4015,Raphael Lemkin straat,male,human
+4016,RaphaëL plein,male,human
+4017,RaphaëL straat,male,human
+4018,Ravenstein plein,unknown,other
+4019,Ravenstein straat,unknown,other
+4020,Raven straat,male,human
+4021,Ravenswaai pad,male,human
+4022,Ravenwerf,unknown,other
+4023,Radio weg,male,human
+4024,Rai Parking 9-10,male,human
+4025,Rail-Construction Road,male,human
+4026,Ramskooi,unknown,other
+4027,Randmeer singel,male,human
+4028,Rand weg,male,human
+4029,Randwijk hof,unknown,other
+4030,Rangeerder straat,unknown,other
+4031,Ranonkel kade,male,human
+4032,Ranonkul laan,unknown,Plant
+4033,Reinier Claeszen plein,male,human
+4034,Recht Boomssloot,unknown,other
+4035,Recycle Point,male,human
+4036,Reesluis,unknown,Object
+4037,Ree straat,unknown,Animal
+4038,Reewijk plein,unknown,other
+4039,Regge straat,male,human
+4040,Reguliersbree straat,unknown,other
+4041,Reguliersdwars straat,unknown,other
+4042,Reguliers gracht,unknown,Object
+4043,Reigersbos,unknown,Plant
+4044,Reigersbosachterom,unknown,Plant
+4045,Reigersbos dreef,unknown,Plant
+4046,Reigersbos pad,unknown,other
+4047,Reiger weg,male,human
+4048,Reijnier Vinkeles kade,male,human
+4049,Reimerswaal straat,unknown,other
+4050,Reina Prinsen Geerligs straat,female,human
+4051,Scheepmakers kade,male,human
+4052,Reinier Claeszen straat,male,human
+4053,Reinier Engelman straat,male,human
+4054,Reinveen,unknown,other
+4055,Reitdiep straat,unknown,other
+4056,Reitz straat,male,human
+4057,Reizigers weg,male,human
+4058,Reling,unknown,other
+4059,Rembrandt park,male,human
+4060,Rembrandt plein,male,human
+4061,Remijden,unknown,other
+4062,Remmerden plein,female,human
+4063,Rengerskerke straat,unknown,Object
+4064,Renkum hof,female,human
+4065,Renooi plein,female,human
+4066,Renswoude straat,unknown,other
+4067,Reseda straat,unknown,Plant
+4068,Retief straat,male,human
+4069,Retiro brug,male,human
+4070,Revaleiland,unknown,Place
+4071,Reyer Anslo straat,male,human
+4072,Rhea straat,unknown,Object
+4073,Rudi Van Dantzig straat,male,human
+4074,Rhenen hof,male,human
+4075,Rhijnestein,unknown,other
+4076,Rhijnspoor plein,unknown,other
+4077,Rhijnvis Feith straat,male,human
+4078,Rhodos weg,male,human
+4079,RhôNe weg,unknown,Place
+4080,Ribes straat,unknown,other
+4081,Richard Hol straat,male,human
+4082,Richard Wagner straat,male,human
+4083,Ridderspoor weg,male,human
+4084,Rie Mastenbroek straat,female,human
+4085,Riekerhaven brug,male,human
+4086,Rieker weg,male,human
+4087,Rode Kruis straat,male,human
+4088,Schokland straat,unknown,other
+4089,Rietland park,unknown,Place
+4090,Rietlandterras,unknown,other
+4091,Rietnesse,unknown,other
+4092,Riet veld SchröDer pad,female,human
+4093,Rietwijker straat,unknown,other
+4094,Rietzanger weg,male,human
+4095,Riga kade,male,human
+4096,Rigel straat,male,human
+4097,Rijgersborgh,unknown,other
+4098,Rijksstraat weg,male,human
+4099,Rijn kade,unknown,Place
+4100,Rijnland laan,unknown,Place
+4101,Rijnsburg straat,unknown,other
+4102,Rijn straat,male,human
+4103,Rijsbes straat,unknown,other
+4104,Rijssenburg hof,unknown,Place
+4105,Rijswijk straat,unknown,other
+4106,Rijtuigen hof,unknown,Object
+4107,Ring dijk,unknown,Object
+4108,Ring dijk Blijkmeer,unknown,Object
+4109,Ringslang pad,unknown,Object
+4110,Rodenrijs straat,unknown,other
+4111,Roebel kade,male,human
+4112,Roelant straat,male,human
+4113,Rudolf Agricola straat,male,human
+4114,Ring weg-Noord,male,human
+4115,Roelof Hart plein,male,human
+4116,Roelof Hart straat,male,human
+4117,Roelof Klein pad,male,human
+4118,Roemer,unknown,Object
+4119,Ring weg-Oost,unknown,Place
+4120,Ring weg-Zuid,unknown,Place
+4121,Rinus Michels laan,male,human
+4122,Riouw straat,male,human
+4123,Rita Reys brug,female,human
+4124,Ritzema Bos straat,male,human
+4125,Robbert Cijfer straat,male,human
+4126,Robert Douma straat,male,human
+4127,Robert Fruin laan,male,human
+4128,Robert Koch plantsoen,male,human
+4129,Robert Scott plein,male,human
+4130,Robert Scott straat,male,human
+4131,RobiëNna brug,male,human
+4132,Rochussen straat,unknown,other
+4133,Ring weg-West,male,human
+4134,Rocket straat,male,human
+4135,Rode Brug,male,human
+4136,Roemer Visscher straat,male,human
+4137,Roepie Kruize straat,unknown,other
+4138,Roer straat,male,human
+4139,Roeselare straat,unknown,other
+4140,Roesiel,unknown,other
+4141,Roeters straat,male,human
+4142,Roggeveen straat,unknown,other
+4143,Rokin,male,human
+4144,Rolleman straat,unknown,other
+4145,Rombout Hogerbeets straat,male,human
+4146,Romeinsarm steeg,unknown,Animal
+4147,Romero straat,male,human
+4148,Rondeel,unknown,other
+4149,Rookmelder straat,unknown,other
+4150,Roomolen straat,unknown,Animal
+4151,Roompot straat,unknown,other
+4152,Roomtuintjes,unknown,other
+4153,Salzmann hof,female,human
+4154,Roosevelt laan,male,human
+4155,Roosje Vos pad,female,human
+4156,Roosje Vos straat,female,human
+4157,Rooswijck,unknown,other
+4158,Rosa Luxemburg straat,female,human
+4159,Rosa Manus straat,female,human
+4160,Rosa Overbeek brug,female,human
+4161,Roseboom,unknown,Plant
+4162,Rosendaal straat,unknown,other
+4163,Sam De Wolff straat,male,human
+4164,Rotterdamse pad,unknown,Place
+4165,Rousseau straat,male,human
+4166,Rozenboom steeg,unknown,Plant
+4167,Rozenburg laan,unknown,Plant
+4168,Rozengang,unknown,other
+4169,Rozen gracht,unknown,Plant
+4170,Rozen laan,unknown,Plant
+4171,Rozenoord pad,unknown,Plant
+4172,Rozen straat,unknown,Plant
+4173,Rozijnen straat,unknown,other
+4174,Rubens straat,male,human
+4175,Rudi Bloemgarten singel,male,human
+4176,Schaepman straat,unknown,other
+4177,Rudolf Diesel straat,male,human
+4178,Rudolf Nurejev straat,male,human
+4179,Ruigoord,unknown,other
+4180,Ruijgoord weg,male,human
+4181,Ruimzicht,unknown,other
+4182,Ruisbeek hof,unknown,other
+4183,Ruiseveen pad,unknown,Place
+4184,Ruisriet straat,unknown,other
+4185,Rumbeke,unknown,other
+4186,Rumphius straat,male,human
+4187,Run straat,unknown,Animal
+4188,Rusland,male,human
+4189,Rustenburgerdwars straat,unknown,other
+4190,Rustenburger straat,unknown,other
+4191,Rusthof pad,unknown,other
+4192,Rusthof straat,unknown,other
+4193,Ruwels pad,unknown,other
+4194,Ruwelswal,unknown,other
+4195,Ruys De Beerenbrouck straat,male,human
+4196,Ruysch straat,unknown,other
+4197,Ruysdael kade,male,human
+4198,Ruysdael straat,male,human
+4199,RéAumur straat,unknown,other
+4200,RöNtgen straat,unknown,other
+4201,S. F. Van Oss straat,male,human
+4202,Saaftinge straat,unknown,other
+4203,Saenredam straat,unknown,Object
+4204,Saffier straat,unknown,other
+4205,Sagitta hof,unknown,Object
+4206,Sajet plein,unknown,other
+4207,Salamander brug,unknown,Animal
+4208,Salamander steeg,unknown,Animal
+4209,Salentein pad,unknown,other
+4210,Salland straat,unknown,other
+4211,Saltet straat,unknown,other
+4212,Sam Van Houten straat,male,human
+4213,Samenwerking,unknown,other
+4214,Samos straat,male,human
+4215,Sandenburch,unknown,other
+4216,Sanderijn straat,female,human
+4217,Sandhorst,unknown,other
+4218,Sandino straat,male,human
+4219,Sandwijk,unknown,other
+4220,Sanne Sannes hof,male,human
+4221,Santorini weg,unknown,Place
+4222,Sape Kuiper plantsoen,male,human
+4223,Sara Burgerhart straat,female,human
+4224,Sarah Vaughan straat,female,human
+4225,Sardinië Weg,male,human
+4226,Sarphati kade,male,human
+4227,Sarphati park,male,human
+4228,Schager laan,male,human
+4229,Schaik straat,unknown,other
+4230,Schakel straat,unknown,other
+4231,Schalkwijk pad,unknown,other
+4232,Schapenburger pad,unknown,other
+4233,Schapen steeg,unknown,other
+4234,Scharen burg,male,human
+4235,Schollenbrug pad,unknown,Object
+4236,Sarphati straat,unknown,other
+4237,Saskia Van Uijlenburg kade,female,human
+4238,Sassenheim straat,unknown,other
+4239,Saturnus straat,male,human
+4240,Sausalito laan,female,human
+4241,Savelsbos,unknown,Plant
+4242,Saxen-Weimar laan,male,human
+4243,Saxenburgerdwars straat,unknown,other
+4244,Saxenburger straat,unknown,other
+4245,Scanner straat,male,human
+4246,Schaaf straat,unknown,other
+4247,Schaarbeek straat,unknown,other
+4248,Schaarsbergen straat,unknown,Place
+4249,Scheepsbouwers weg,male,human
+4250,Scheepsbouw kade,male,human
+4251,Scheepsbouw weg,male,human
+4252,Scheepsjongen plein,male,human
+4253,Scheepstimmerman straat,unknown,other
+4254,Schelde plein,unknown,other
+4255,Schelde straat,unknown,other
+4256,Schellingwouder Kerkepads brug,male,human
+4257,Schellingwouder dijk,male,human
+4258,Schelluinen straat,unknown,other
+4259,Schelvisch Hoofd,unknown,other
+4260,Schepenberg weg,male,human
+4261,Schollenbrug straat,unknown,Object
+4262,Schone Wees pad,unknown,other
+4263,Schepen laan,unknown,other
+4264,Schermer straat,unknown,other
+4265,Scherpenzeel straat,unknown,Place
+4266,Schieman straat,unknown,Place
+4267,Schiermonnikoog straat,unknown,other
+4268,Schierstins,unknown,other
+4269,Schilling dijk,unknown,Object
+4270,Schimmel straat,unknown,Plant
+4271,Schinkelhaven kade,male,human
+4272,Schinkelhaven straat,male,human
+4273,Schinkel kade,male,human
+4274,Schipbeek straat,unknown,other
+4275,Schipluiden laan,unknown,Place
+4276,Schipmolen,unknown,Object
+4277,Schippers gracht,unknown,other
+4278,Schippers straat,unknown,other
+4279,Schoener straat,unknown,other
+4280,Schoenmakersgang,unknown,other
+4281,Schoffel straat,unknown,other
+4282,Schokkerjacht dijk,male,human
+4283,Schokkers pad,unknown,other
+4284,Schonerwoerd straat,unknown,other
+4285,Schoolmeester straat,unknown,other
+4286,School pad,unknown,other
+4287,Schooltuin pad,unknown,other
+4288,Schoonboom straat,unknown,Plant
+4289,Schoonhoven dreef,unknown,other
+4290,Schoorl straat,unknown,other
+4291,Schoorsteenvegers pad,unknown,other
+4292,Schoorsteenvegers steeg,unknown,other
+4293,Schopenhauer hof,male,human
+4294,Schorpioen straat,unknown,other
+4295,Schor straat,male,human
+4296,Schotse Hooglanden,unknown,other
+4297,Schotse Huizen pad,unknown,other
+4298,Schottenburchs brug,male,human
+4299,Schouten steeg,male,human
+4300,Schouw straat,unknown,other
+4301,Schoven straat,unknown,other
+4302,Schubert straat,male,human
+4303,Schuitenhuis straat,unknown,Object
+4304,Schurenberg weg,male,human
+4305,Schuttersgalerij,unknown,other
+4306,Schutter weg,male,human
+4307,Schweigmann straat,unknown,other
+4308,Scotuslaantje,unknown,Object
+4309,Sean Macbride straat,male,human
+4310,Seifert plein,male,human
+4311,Sinderen straat,unknown,other
+4312,Seine weg,male,human
+4313,Seinwachter straat,unknown,other
+4314,Seizoenen hof,unknown,other
+4315,Sem Presser hof,male,human
+4316,Semarang straat,male,human
+4317,Seneca straat,male,human
+4318,Senefelder straat,unknown,other
+4319,Serang brug,male,human
+4320,Serang gracht,male,human
+4321,Serge Lifar steeg,male,human
+4322,Servaes Nouts straat,male,human
+4323,Servet steeg,male,human
+4324,Sextant weg,male,human
+4325,Shackleton straat,male,human
+4326,Shetland pad,unknown,Place
+4327,Siboga straat,unknown,other
+4328,Sibrandus Stratingh straat,unknown,other
+4329,Sicilië Weg,male,human
+4330,Sieg Vaz Dias straat,male,human
+4331,Sint-Jans brug,male,human
+4332,Sint-Truiden straat,male,human
+4333,Sirius straat,male,human
+4334,Sirkeci brug,male,human
+4335,Sierenborch,unknown,other
+4336,Sier plein,unknown,other
+4337,Sieverdink pad,unknown,other
+4338,Sijlhoff,unknown,other
+4339,Sijpestein,unknown,other
+4340,Sijsjesberg weg,male,human
+4341,Sijsjes straat,unknown,other
+4342,Sikkel straat,unknown,other
+4343,Silene straat,unknown,Plant
+4344,Silodam,unknown,Place
+4345,Silvolde straat,unknown,other
+4346,Silvretta,unknown,other
+4347,Simon Carmiggelt brug,male,human
+4348,Simon Carmiggelt straat,male,human
+4349,Simon Stevin straat,male,human
+4350,Simon Van Gijn pad,male,human
+4351,Simon Van Woerden straat,male,human
+4352,Simone De Beauvoir straat,female,human
+4353,Simonshaven straat,unknown,Object
+4354,Simonskerke straat,unknown,Object
+4355,Simplon,unknown,other
+4356,Simson straat,male,human
+4357,Sinaasappel straat,unknown,other
+4358,Slingerbeek straat,unknown,other
+4359, Singel,unknown,Animal
+4360,Singer straat,male,human
+4361,Sinjeur Semeyns straat,unknown,other
+4362,Sint Agnieten straat,male,human
+4363,Sint Andries hof,male,human
+4364,Sint Annendwars straat,male,human
+4365,Sint Annen straat,male,human
+4366,Sint Antoniesbree straat,male,human
+4367,Sint Antoniesluis,male,human
+4368,Sint Barberen straat,male,human
+4369,Sint Bernhardpas,male,human
+4370,Sint Geertruiden steeg,male,human
+4371,Sint Gilles hof,male,human
+4372,Sint Jacobsdwars straat,male,human
+4373,Sint Jacobs straat,male,human
+4374,Sint Jans straat,male,human
+4375,Sint Joris steeg,male,human
+4376,Sint Joris straat,male,human
+4377,Sint LuciëN steeg,male,human
+4378,Sint Nicolaas straat,male,human
+4379,Sint Olofspoort,male,human
+4380,Sint Olofs steeg,male,human
+4381,Sint Pietershal steeg,male,human
+4382,Sint Pieterspoort steeg,male,human
+4383,Sint Willibrordusdwars straat,male,human
+4384,Sint Willibrordus straat,male,human
+4385,Sint-Hubert pad,male,human
+4386,Sixhaven weg,male,human
+4387,SkûTsjes pad,unknown,Object
+4388,Slaak straat,unknown,other
+4389,Slagersgang,unknown,other
+4390,Slangen burg,male,human
+4391,Slangenwortel,unknown,other
+4392,Slapers steeg,unknown,other
+4393,Slatuinen weg,male,human
+4394,Slauerhoff straat,unknown,other
+4395,Sleewijk straat,unknown,other
+4396,Slego,unknown,other
+4397,Slepers steeg,unknown,other
+4398,Sleutelbloem straat,unknown,Plant
+4399,Sleutel brug,male,human
+4400,Slibvelden weg,male,human
+4401,Slichtenhorst straat,unknown,other
+4402,Sliedrecht straat,unknown,other
+4403,Slijk straat,unknown,other
+4404,Slijper weg,male,human
+4405,Slijter straat,unknown,other
+4406,Slikkerveer straat,unknown,other
+4407,Slimme weg,male,human
+4408,Slinger laan,unknown,Object
+4409,Slochter weg,male,human
+4410,Sloe straat,male,human
+4411,Slootdorp straat,unknown,Place
+4412,Sloot straat,unknown,other
+4413,Sloterdijker brug,unknown,Place
+4414,Sloterdijker weg,unknown,Place
+4415,Sloterdijk steeg,unknown,Place
+4416,Sloterdijk straat,unknown,Place
+4417,Sloter kade,male,human
+4418,Slotermeer laan,unknown,Place
+4419,Snorrenhoef straat,unknown,other
+4420,Society brug,unknown,other
+4421,Socrates straat,male,human
+4422,Soembawa straat,unknown,other
+4423,Sloter weg,unknown,other
+4424,Slufter,unknown,other
+4425,Sluis straat,unknown,other
+4426,Smak steeg,male,human
+4427,Smaragd plein,unknown,Object
+4428,Smaragd straat,unknown,Object
+4429,Smederij,unknown,Object
+4430,Smederij Meister brug,unknown,Object
+4431,Smit straat,unknown,Object
+4432,Sneeuwbal straat,unknown,other
+4433,Sneeuwbal weg,male,human
+4434,Snellerwaard gracht,unknown,Object
+4435,Snelleveld plein,unknown,Object
+4436,Snelleveld straat,unknown,Object
+4437,Snellius straat,unknown,other
+4438,Snijdersberg weg,male,human
+4439,Snodenhoek park,unknown,Place
+4440,Snoekjes brug,male,human
+4441,Snoekjes gracht,unknown,Object
+4442,Snoekjes steeg,unknown,other
+4443,Soestdijk straat,unknown,Object
+4444,Soesterberg hof,unknown,other
+4445,Soetendaal,unknown,other
+4446,Software weg,male,human
+4447,Solebay straat,unknown,other
+4448,Solitudo brug,unknown,other
+4449,Solitudo laan,unknown,other
+4450,Solitudo pad,unknown,other
+4451,Solo straat,unknown,other
+4452,Somerlust pad,unknown,other
+4453,Sommelsdijk straat,unknown,Object
+4454,Sonderbuur,unknown,other
+4455,Sonia Gaskell straat,female,human
+4456,Sonja Henie pad,female,human
+4457,Sonne veld,unknown,other
+4458,Sontvaarder straat,unknown,other
+4459,Sophia laan,female,human
+4460,Sophie Redmond plein,female,human
+4461,Spaanse Brabander straat,unknown,other
+4462,Spakenburg straat,unknown,other
+4463,Spinoza straat,male,human
+4464,Spitskop straat,unknown,other
+4465,Spaarndammer dijk,male,human
+4466,Spaarndammer plantsoen,unknown,Plant
+4467,Spaarndammer straat,unknown,Object
+4468,Spaarndammertunnel,unknown,Object
+4469,Spaarnwouder dijk,male,human
+4470,Spaarpot steeg,unknown,other
+4471,Spadina laan,unknown,other
+4472,Spa hof,unknown,other
+4473,Spinnekop,unknown,other
+4474,Spinoza hof,male,human
+4475,Splinter Bakkers steeg,male,human
+4476,Spakler weg,male,human
+4477,Spanderswoud straat,unknown,other
+4478,Spangen hof,unknown,other
+4479,Spankeren kade,unknown,other
+4480,Sparren laan,unknown,other
+4481,Sparren weg,male,human
+4482,Specht laan,unknown,other
+4483,Specht straat,unknown,other
+4484,Speelman straat,unknown,other
+4485,Speerdistel straat,unknown,other
+4486,Speer straat,male,human
+4487,Spelderholt,unknown,other
+4488,Spengen pad,unknown,other
+4489,Sperwer laan,unknown,other
+4490,Speulde straat,unknown,other
+4491,Spica straat,unknown,Object
+4492,Spiegel brug,male,human
+4493,Spiegel gracht,male,human
+4494,Spijkerboor steeg,unknown,other
+4495,Spijker kade,male,human
+4496,Spijtellaantje,unknown,Object
+4497,Spinaker,unknown,other
+4498,Spinaker hof,unknown,other
+4499,Spinhuis steeg,unknown,Object
+4500,Spoor pad,unknown,other
+4501,Spoorslag,unknown,other
+4502,Sporaden laan,unknown,other
+4503,Sportas,unknown,other
+4504,Sport laan,male,human
+4505,Sport park De Weeren,male,human
+4506,Sport park Kadoelen,male,human
+4507,Sport park Oostzanerwerf,male,human
+4508,Sport park Sloten,male,human
+4509,Sport park Spieringhorn,male,human
+4510,Sportpark laan,unknown,Place
+4511,Sport straat,male,human
+4512,Spreeuwen laan,unknown,other
+4513,Spreeuwen park,unknown,other
+4514,Sprinkler straat,unknown,other
+4515,Spui,unknown,other
+4516,Tegenhouder straat,unknown,other
+4517,Spui straat,unknown,other
+4518,Spyridon Louis weg,male,human
+4519,St Hubert pad,male,human
+4520,St. Thomas steeg,male,human
+4521,Staal kade,male,human
+4522,Staalman park,unknown,other
+4523,Staalmeesters laan,unknown,other
+4524,Staal straat,male,human
+4525,Staatslieden brug,male,human
+4526,Stade De Colombes,unknown,other
+4527,Starrenbosch straat,unknown,Plant
+4528,Statenjacht straat,unknown,other
+4529,Station Ganzenhoef,unknown,Place
+4530,Stadhouders kade,male,human
+4531,Stadion kade,male,human
+4532,Stadion plein,unknown,Place
+4533,Station Noord,unknown,Place
+4534,Station Rai,unknown,Place
+4535,Station Zuid,unknown,Place
+4536,Stations plein,unknown,Place
+4537,Staverden plein,unknown,Place
+4538,Steelvliet plein,unknown,Place
+4539,Steenbok straat,unknown,Place
+4540,Steenderen straat,unknown,other
+4541,Stadion weg,unknown,Place
+4542,Stag hof,unknown,Place
+4543,Stammer dijk,unknown,Place
+4544,Stammerland weg,unknown,Place
+4545,Stapels,unknown,other
+4546,Staring plein,unknown,Place
+4547,Staring straat,unknown,other
+4548,Steengroeven pad,unknown,Place
+4549,Steenhouwersgang,unknown,other
+4550,Steenhouwers steeg,unknown,other
+4551,Steiger 1,unknown,other
+4552,Steiger 2,unknown,other
+4553,Steiger 3,unknown,other
+4554,Steiger 4,unknown,other
+4555,Steiger 5,unknown,other
+4556,Steiger 6,unknown,other
+4557,Steiger 7,unknown,other
+4558,Steiger 8,unknown,other
+4559,Steiger A,unknown,other
+4560,Steiger B,unknown,other
+4561,Steiger C,unknown,other
+4562,Steiger D,unknown,other
+4563,Stekkenberg weg,male,human
+4564,Stellendam straat,unknown,Object
+4565,Stelling weg,unknown,Place
+4566,Stenen Beer,unknown,Object
+4567,Stenen Hoofd,unknown,Object
+4568,Stenendok wegun,known,Object
+4569,Steng hof,unknown,Object
+4570,Stentor straat,unknown,Animal
+4571,Stephenson straat,male,human
+4572,Stepping Stones,unknown,Object
+4573,Sterappel straat,unknown,Plant
+4574,Sterken burg,unknown,other
+4575,Sterren plein,unknown,other
+4576,Sterren straat,unknown,other
+4577,Stettineiland,unknown,Object
+4578,Steve Biko plein,male,human
+4579,Steven Van Dorpel pad,male,human
+4580,Steven Vennecool straat,male,human
+4581,Sticht straat,unknown,other
+4582,Stieltjes straat,unknown,other
+4583,Stier straat,male,human
+4584,Stintse pad,unknown,other
+4585,Stoel En Spree hof,male,human
+4586,Stoelenmatters pad,unknown,other
+4587,Stoker kade,male,human
+4588,Stolwijk straat,unknown,other
+4589,Stompetoren straat,unknown,Object
+4590,Stromboli weg,male,human
+4591,Struisgras straat,unknown,Plant
+4592,Stoomboot weg,male,human
+4593,Stoomgemaal straat,unknown,other
+4594,Storm steeg,male,human
+4595,Stormvloedkering straat,unknown,other
+4596,Stoutenburg gracht,unknown,Object
+4597,Stracké Straat,unknown,other
+4598,Stralsund brug,male,human
+4599,Strandvliet pad,unknown,other
+4600,Strawinsky laan,male,human
+4601,Streefkerk straat,unknown,Object
+4602,Strekker weg,male,human
+4603,Stromarkt,unknown,other
+4604,Stuurman kade,male,human
+4605,Stuyvesant straat,male,human
+4606,Subang straat,male,human
+4607,Suikerbakkers steeg,unknown,other
+4608,Suikerdiefje straat,unknown,other
+4609,Suikerpeer pad,unknown,other
+4610,Suiker plein,unknown,other
+4611,Sumatra kade,male,human
+4612,Sumatra plantsoen,male,human
+4613,Sumatra straat,male,human
+4614,Suriname kade,male,human
+4615,Suriname plein,unknown,Place
+4616,Suriname straat,male,human
+4617,Suze Groeneweg plantsoen,female,human
+4618,Suze Robertson straat,male,human
+4619,Swalm straat,unknown,other
+4620,Swammerdam straat,unknown,Object
+4621,Sylvia pad,female,human
+4622,Taandwars straat,unknown,other
+4623,Taan straat,unknown,other
+4624,Tafelberg weg,male,human
+4625,Tak steeg,unknown,other
+4626,Talbot straat,male,human
+4627,Talma straat,unknown,other
+4628,Taman Sapituin,male,human
+4629,Tamarisk hof,unknown,Plant
+4630,Tartaud-Klein hof,male,human
+4631,Tasman straat,male,human
+4632,Teerketel steeg,unknown,other
+4633,Tefelen straat,unknown,other
+4634,Tegelarij pad,unknown,other
+4635,Teilingen,unknown,other
+4636,Teixeira De Mattos straat,male,human
+4637,Tekkop straat,unknown,other
+4638,Telders hof,unknown,other
+4639,Teleport boulevard,male,human
+4640,Telescoop hof,unknown,Object
+4641,Tempelhof straat,unknown,other
+4642,Ten Kate plein,unknown,other
+4643,Ten Kate straat,unknown,other
+4644,Tender straat,unknown,other
+4645,Tenerife straat,male,human
+4646,Teniers straat,unknown,other
+4647,Ter Gouw straat,unknown,other
+4648,Ter Haar straat,unknown,other
+4649,Ter Kleef,unknown,other
+4650,Terheide weg,unknown,other
+4651,Terlet straat,unknown,other
+4652,Termieter gouw,unknown,other
+4653,Termieter weg,male,human
+4654,Titus Van Rijn straat,male,human
+4655,Tjasker,unknown,other
+4656,Tweede Egelantiersdwars straat,male,human
+4657,Termini,unknown,other
+4658,Ternate straat,unknown,other
+4659,Terp straat,unknown,other
+4660,Terschelling straat,male,human
+4661,Tervuren pad,unknown,other
+4662,Tesla straat,unknown,other
+4663,Tesselschade straat,unknown,other
+4664,Teteringen straat,unknown,other
+4665,Tetje De Jong brug,male,human
+4666,Teuge straat,unknown,other
+4667,Texel plein,unknown,Place
+4668,Texel weg,unknown,Place
+4669,Teyler plein,unknown,other
+4670,Th. J. Lammers laan,male,human
+4671,Th. K. Van Lohuizen laan,male,human
+4672,Th. Weevers weg,male,human
+4673,Theems weg,male,human
+4674,Theo Fransman brug,male,human
+4675,Theo Frenkel hof,male,human
+4676,Theo Koomen pad,male,human
+4677,Theo Mann-Bouwmeester hof,male,human
+4678,Theo Thijssen hof,male,human
+4679,Theo Van Doesburg straat,male,human
+4680,Theodoor Van Hoytema straat,male,human
+4681,Theodorus Dobbe straat,male,human
+4682,Theodorus Majofski straat,male,human
+4683,Theophile De Bock brug,male,human
+4684,Theophile De Bock straat,male,human
+4685,Theophilus straat,male,human
+4686,Theseus straat,male,human
+4687,Thijs Hendriksen pad,male,human
+4688,Tholen straat,unknown,other
+4689,Tjepma pad,unknown,other
+4690,Thomas Prins laan,male,human
+4691,Thomas R. Malthus straat,male,human
+4692,Thomas Van Aquino straat,male,human
+4693,Thomas Van Erpe hof,male,human
+4694,Thomas à Kempis straat,male,human
+4695,Thorbecke plein,male,human
+4696,Thorn Prikker straat,male,human
+4697,ThéRèSe Schwartze plein,female,human
+4698,ThéRèSe Schwartze straat,female,human
+4699,Tichel straat,unknown,Plant
+4700,Tidore straat,unknown,other
+4701,Tiel straat,male,human
+4702,Tienen pad,unknown,other
+4703,Tiengemeten straat,unknown,other
+4704,Tienraai kade,male,human
+4705,Tijdelijke Ontsluitings weg Holysloot,male,human
+4706,Tijl Uilenspiegel straat,male,human
+4707,Tijnmuiden,unknown,other
+4708,Tilanus straat,unknown,other
+4709,Timo Smeehuijzen brug,male,human
+4710,Timor plein,unknown,other
+4711,Timor straat,male,human
+4712,Tintoretto straat,unknown,other
+4713,Titiaan straat,male,human
+4714,Titus Brandsma brug,male,human
+4715,Tjerk Hiddes De Vries straat,male,human
+4716,Tjotters pad,unknown,other
+4717,Tobias Asser laan,male,human
+4718,Tobias M.C. Asser straat,male,human
+4719,Toetsenbord weg,male,human
+4720,Tofana,unknown,other
+4721,Tolbrug straat,unknown,Object
+4722,Toldwars straat,unknown,other
+4723,Tolhuis weg,male,human
+4724,Tolkamer straat,unknown,other
+4725,Tollens straat,unknown,other
+4726,Tollien Schuurman brug,female,human
+4727,Tolsende straat,unknown,other
+4728,Tol straat,male,human
+4729,Tom Schreurs weg,male,human
+4730,Tomaten straat,unknown,other
+4731,Tomini straat,unknown,other
+4732,Ton De Leeuw straat,male,human
+4733,Ton Van Duinhoven hof,male,human
+4734,Tonden pad,unknown,other
+4735,Tongelaer,unknown,other
+4736,Tongeren straat,unknown,other
+4737,Top Naeff straat,male,human
+4738,Top Rincker straat,male,human
+4739,Topaas straat,unknown,other
+4740,Topkapi pad,unknown,other
+4741,Torenmolen,unknown,Object
+4742,Torensluis,unknown,Object
+4743,Toren steeg,unknown,other
+4744,Torenven,unknown,other
+4745,Torres straat,male,human
+4746,Torricelli straat,male,human
+4747,Tosari straat,unknown,other
+4748,Tosarituin,unknown,other
+4749,Tourniaire straat,unknown,other
+4750,Toutenburg straat,unknown,other
+4751,Touw baan,unknown,other
+4752,Touwbaan park,unknown,other
+4753,Touwslager straat,unknown,Place
+4754,Transformator weg,male,human
+4755,Transvaal kade,male,human
+4756,Transvaal plein,female,human
+4757,Transvaal straat,male,human
+4758,Trapjes brug,male,human
+4759,Treeft steeg,unknown,other
+4760,Treiler hof,unknown,Object
+4761,Tretjakov laan,male,human
+4762,Tricht straat,unknown,other
+4763,Trijn Hulleman laan,female,human
+4764,Tritoma laan,unknown,Plant
+4765,Tweede Coentunnel,male,human
+4766,Tweede Goudsbloemdwars straat,male,human
+4767,Troelstra laan,male,human
+4768,Troepiaal singel,male,human
+4769,Trompenburg straat,unknown,other
+4770,Trompettersgang,unknown,other
+4771,Trompetters steeg,unknown,other
+4772,Truus Wijsmuller brug,female,human
+4773,Tt. Melania weg,female,human
+4774,Tt. Melissa weg,female,human
+4775,Tt. Neverita weg,male,human
+4776,Tt. Vasum weg,male,human
+4777,Tugela weg,male,human
+4778,Tuiger straat,unknown,other
+4779,Tuil straat,male,human
+4780,Tuimelaar straat,unknown,other
+4781,Tuin Van Hera,male,human
+4782,Tweede Constantijn Huygens straat,male,human
+4783,Tuinbouw straat,unknown,other
+4784,Tuinderij laan,unknown,other
+4785,Tuin straat,unknown,other
+4786,Tula straat,unknown,other
+4787,Turbine straat,unknown,Object
+4788,Turbinetanker Vasum weg,unknown,Object
+4789,TurbóN,unknown,other
+4790,Turfdraagster pad,unknown,other
+4791,Turf steeg,male,human
+4792,Turner straat,male,human
+4793,Turnhout plantsoen,unknown,other
+4794,Tussen De Bogen,male,human
+4795,Tussen Kadijken,unknown,other
+4796,Tussen Meer,unknown,other
+4797,Tussendek,unknown,other
+4798,Tutein Nolthenius straat,unknown,other
+4799,Twee Koningskinderen straat,male,human
+4800,Tweede Amstelvliet pad,unknown,other
+4801,Tweede Anjeliersdwars straat,male,human
+4802,Tweede Atjeh straat,male,human
+4803,Tweede Bloemdwars straat,unknown,Plant
+4804,Tweede Boerhaave straat,unknown,other
+4805,Tweede Boomdwars straat,unknown,Plant
+4806,Tweede Breeuwers straat,unknown,Place
+4807,Tweede Helmers straat,unknown,other
+4808,Tweede Hugo De Groot straat,male,human
+4809,Tweede Jacob Van Campen straat,male,human
+4810,Tweede Jan Steen straat,male,human
+4811,Tweede Jan Van Der Heijden straat,male,human
+4812,Tweede Keuchenius straat,male,human
+4813,Tweede Kostverloren kade,male,human
+4814,Tweede Laurierdwars straat,unknown,Plant
+4815,Tweede Leeghwater straat,male,human
+4816,Tweede Leliedwars straat,unknown,Plant
+4817,Tweede Lindendwars straat,unknown,Plant
+4818,Tweede Looiersdwars straat,unknown,Plant
+4819,Tweede Marnixdwars straat,unknown,Plant
+4820,Tweede Marnix plantsoen,unknown,Plant
+4821,Tweede Nassau straat,male,human
+4822,Tweede Oosterpark straat,male,human
+4823,Tweede Passeerdersdwars straat,unknown,Plant
+4824,Tweede Rozendwars straat,unknown,Plant
+4825,Tweede Schinkel straat,male,human
+4826,Tweede Sweelinck straat,male,human
+4827,Tweede Tuindwars straat,unknown,Plant
+4828,Tweede Van Der Helst straat,male,human
+4829,Tweede Van Swinden straat,male,human
+4830,Tweede Vogel straat,male,human
+4831,Tweede Weteringdwars straat,male,human
+4832,Tweede Wetering plantsoen,male,human
+4833,Tweede Wittenburgerdwars straat,male,human
+4834,Tweelingen hof,unknown,other
+4835,Twello straat,unknown,other
+4836,Twente straat,unknown,Place
+4837,Twikkel,unknown,other
+4838,Twiske straat,unknown,other
+4839,U.J. Klaren straat,male,human
+4840,Ubbo Emmius hof,male,human
+4841,Uffizi laan,unknown,Place
+4842,Uilenburger steeg,unknown,other
+4843,Uilenburgerwerf,unknown,other
+4844,Uilen gouw,unknown,Place
+4845,Uilenstede,unknown,other
+4846,Uitdammer Dorps straat,unknown,Object
+4847,Uitweg pad,unknown,Place
+4848,Uiver brug,male,human
+4849,Ukkel hof,unknown,Place
+4850,Uranus straat,unknown,other
+4851,Urk straat,male,human
+4852,Ursemmer pad,unknown,Place
+4853,Utopia,unknown,Place
+4854,Utrechtsedwars straat,unknown,other
+4855,Utrechtse straat,unknown,other
+4856,Vaalmuiden,unknown,other
+4857,Vaart straat,unknown,Place
+4858,Van Bosse straat,male,human
+4859,Uitdammer dijk,unknown,Place
+4860,Uiterwaarden straat,unknown,other
+4861,Uitgeest straat,unknown,other
+4862,Uithoorn straat,unknown,other
+4863,Valburg dreef,unknown,other
+4864,Valckenier straat,unknown,other
+4865,Valentijn kade,male,human
+4866,Valerius plein,male,human
+4867,Valerius straat,male,human
+4868,Valeriusterras,unknown,other
+4869,Valkenburger straat,unknown,other
+4870,Valkenisse weg,male,human
+4871,Valkenstein,unknown,other
+4872,Valken weg,male,human
+4873,Valk hof,unknown,Place
+4874,Valkkoog straat,unknown,other
+4875,Valreep,unknown,other
+4876,Valscherm kade,unknown,other
+4877,Valuta boulevard,unknown,other
+4878,Van 'T Hoff laan,male,human
+4879,Van Abbe straat,female,human
+4880,Van Alphen straat,male,human
+4881,Van Baerle straat,male,human
+4882,Van Beuningen plein,male,human
+4883,Van Beuningen straat,male,human
+4884,Van Bleiswijk straat,male,human
+4885,Van Boetzelaer straat,male,human
+4886,Van Bommel-Van Dam pad,unknown,other
+4887,Van Boshuizen straat,male,human
+4888,Van Bosse pad,unknown,other
+4889,Van Brakel straat,male,human
+4890,Van Bree straat,male,human
+4891,Van Brienenhofje,male,human
+4892,Van Den Veer plein,male,human
+4893,Van Der Boechorst straat,male,human
+4894,Van Der Duijn straat,male,human
+4895,Van Der Helst plein,male,human
+4896,Van Der Hoop straat,male,human
+4897,Van Der Kun straat,male,human
+4898,Van Der Palm kade,male,human
+4899,Van Der Pek plein,male,human
+4900,Van Der Sande Lacoste brug,male,human
+4901,Van Der Vijver straat,male,human
+4902,Van Diemen kade,male,human
+4903,Van Diemen straat,male,human
+4904,Van Eeghen laan,male,human
+4905,Van Eeghen straat,male,human
+4906,Van Effen straat,male,human
+4907,Van Gent straat,male,human
+4908,Van Gilse straat,male,human
+4909,Van Hall brug,male,human
+4910,Van Lim burg Stirum straat,male,human
+4911,Van Hall straat,male,human
+4912,Van Hanxleden Houwert straat,male,human
+4913,Van Heemskerck straat,male,human
+4914,Van Heenvliet laan,male,human
+4915,Van Helt Stocade straat,male,human
+4916,Van Hilligaert straat,male,human
+4917,Van Hogendorp plein,male,human
+4918,Van Hogendorp straat,male,human
+4919,Van Houweningen straat,male,human
+4920,Van Karnebeek straat,male,human
+4921,Van Kinsbergen straat,male,human
+4922,Van Koetsveld straat,male,human
+4923,Van Leijenbergh laan,male,human
+4924,Van Miereveld straat,male,human
+4925,Van Mierlo brug,male,human
+4926,Van Moerkerken straat,male,human
+4927,Van Mourik Broekman straat,male,human
+4928,Van Musschenbroek straat,male,human
+4929,Van Neck straat,male,human
+4930,Van Nijenrode weg,male,human
+4931,Van Noordt kade,male,human
+4932,Van Oldenbarneveldt plein,male,human
+4933,Van Oldenbarneveldt straat,male,human
+4934,Van Ollefen straat,male,human
+4935,Van Ostade straat,male,human
+4936,Van Rappard straat,male,human
+4937,Van Reede straat,male,human
+4938,Van Reenen straat,male,human
+4939,Van Reigersbergen straat,male,human
+4940,Van Rensselaer straat,male,human
+4941,Vee laan,female,human
+4942,Van Riebeeckhaven weg,male,human
+4943,Van Slingelandt brug,male,human
+4944,Van Slingelandt plein,male,human
+4945,Van Speijk straat,male,human
+4946,Van Suchtelen Van De Haare straat,male,human
+4947,Van Tuyll Van Serooskerken plein,male,human
+4948,Van Tuyll Van Serooskerken weg,male,human
+4949,Van Walbeeck straat,male,human
+4950,Van Wou straat,male,human
+4951,Van Zeggelaar straat,male,human
+4952,Vancouver straat,unknown,Place
+4953,Varen weg,unknown,other
+4954,Varik straat,male,human
+4955,Varkenssluis,unknown,Object
+4956,Vecht straat,unknown,other
+4957,Veemarkt,unknown,other
+4958,Veembroeder hof,unknown,other
+4959,Veem kade,male,human
+4960,Veenbes straat,unknown,other
+4961,Veeneik brug,male,human
+4962,Veeneik pad,female,human
+4963,Veenendaal plein,unknown,other
+4964,Veer straat,male,human
+4965,Veeteelt straat,unknown,other
+4966,Vega straat,unknown,other
+4967,Velazquez straat,male,human
+4968,Veldbies straat,unknown,other
+4969,Veldzicht,unknown,other
+4970,Velser weg,male,human
+4971,Verlengde Rijn kade,male,human
+4972,Voetboog straat,unknown,other
+4973,Veluwe laan,unknown,other
+4974,Vendel straat,male,human
+4975,Venetië Hof,unknown,other
+4976,Venetië Straat,unknown,other
+4977,Venhuizen straat,unknown,other
+4978,Vennepluim straat,unknown,other
+4979,Venser kade,male,human
+4980,Venser pad,unknown,other
+4981,Venters pad,unknown,other
+4982,Verbindingsdam,unknown,Object
+4983,Verbinding straat,unknown,other
+4984,Verdi straat,male,human
+4985,Verdraagzaam,unknown,other
+4986,Vergeet Mij Niet,male,human
+4987,Verlengd Buitenveer,unknown,other
+4988,Vijfde Vogel straat,male,human
+4989,Vijgepeer pad,unknown,other
+4990,Verlengde Stelling weg,male,human
+4991,Verleun straat,unknown,other
+4992,Veronese plantsoen,male,human
+4993,Veronese straat,male,human
+4994,Vertrouwen,unknown,other
+4995,Ververs straat,unknown,other
+4996,Vervooren straat,unknown,other
+4997,Vespucci straat,male,human
+4998,Vianen straat,unknown,other
+4999,Victor Rutgers straat,male,human
+5000,Victorie plein,female,human
+5001,Vier Heemskinderensluis,unknown,other
+5002,Vier Heemskinderen straat,unknown,other
+5003,Vierde Vogel straat,male,human
+5004,Vierhuysen,unknown,other
+5005,Viermaster straat,unknown,other
+5006,Vierwindendwars straat,unknown,Place
+5007,Vierwinden straat,unknown,Place
+5008,Vijverhoef,unknown,other
+5009,Vijzel gracht,unknown,Object
+5010,Vijzel straat,unknown,other
+5011,Viking pad,unknown,other
+5012,Vilvoorde straat,unknown,other
+5013,Vincent Van Gogh straat,male,human
+5014,Vingbooms brug,male,human
+5015,Vinken laan,unknown,other
+5016,Vinken straat,unknown,other
+5017,Violen laan,unknown,Plant
+5018,Violette Cornelius hof,female,human
+5019,Violetten straat,unknown,Plant
+5020,Virgo hof,unknown,other
+5021,Vishoeker pad,unknown,other
+5022,Viveporten straat,unknown,other
+5023,Voc- Kade,male,human
+5024,Vlaardingen laan,unknown,other
+5025,Vlaggemast,unknown,other
+5026,Vlakker weg,male,human
+5027,Vleuten straat,unknown,other
+5028,Vliegende steeg,male,human
+5029,Vliegtuig straat,unknown,other
+5030,Vlieland straat,male,human
+5031,Vlier weg,male,human
+5032,Vliet straat,unknown,other
+5033,Vlimmeren straat,unknown,other
+5034,Vlonder pad,unknown,other
+5035,Vlothaven weg,male,human
+5036,Vluchthaven brug,male,human
+5037,Vluchtladder straat,unknown,other
+5038,Vogelenzang straat,unknown,other
+5039,Vogel kade,male,human
+5040,Vogel plantsoen,male,human
+5041,Vogel plein,male,human
+5042,Vogel singel,male,human
+5043,Volendammer weg,male,human
+5044,Volewijks hof,unknown,other
+5045,Volharding,unknown,other
+5046,Volkerak straat,unknown,other
+5047,Volta plein,male,human
+5048,Volta straat,male,human
+5049,Von Guericke straat,male,human
+5050,Von Humboldt straat,male,human
+5051,Von Liebig pad,male,human
+5052,Von Liebig weg,male,human
+5053,Von Zesen straat,male,human
+5054,Vondel brug,male,human
+5055,Vondelkerk straat,unknown,Object
+5056,Vossius straat,unknown,other
+5057,Vredeman De Vries straat,male,human
+5058,Vredenburger brug,male,human
+5059,Vredenburger steeg,unknown,other
+5060,Vondel park,unknown,other
+5061,Vondel straat,male,human
+5062,Voorburg straat,unknown,other
+5063,Voordek,unknown,other
+5064,Voordewind,unknown,other
+5065,Voorgrift,unknown,other
+5066,Wam berg,male,human
+5067,Voorland pad,unknown,other
+5068,Voormalige Gedempte Huidenvettersloot,unknown,Object
+5069,Voormalige Stadstimmertuin,unknown,other
+5070,Voorne straat,unknown,other
+5071,Voorsteven,unknown,other
+5072,Voorthuizen straat,unknown,other
+5073,Vorselaar straat,unknown,other
+5074,Vorticella weg,male,human
+5075,Vosmaer straat,unknown,other
+5076,Vossenbes straat,unknown,other
+5077,Wamel plein,unknown,other
+5078,Vredenhof pad,unknown,other
+5079,Vredenhof weg,male,human
+5080,Vreedenhaven,unknown,Object
+5081,Vreeland plein,unknown,Place
+5082,Vreeswijk pad,unknown,other
+5083,Vriesseveem,unknown,other
+5084,Vrij burg,male,human
+5085,Vrije Geer,male,human
+5086,Vrijheids laan,unknown,other
+5087,Vrijheit Blijheit pad,unknown,other
+5088,Vrijzicht,unknown,other
+5089,Vroegop plein,unknown,other
+5090,Vrolik straat,unknown,other
+5091,Vrouwengeluk hof,unknown,other
+5092,Vrouwenmantel straat,unknown,other
+5093,Vu Medisch Centrum,unknown,other
+5094,Vuile Wees pad,female,human
+5095,Vumc Hoofdingang,unknown,other
+5096,Vuurwerker plantsoen,unknown,Plant
+5097,VäTtern kade,male,human
+5098,W.A. Meelhuysen brug,male,human
+5099,W.J. Bijleveld straat,unknown,Object
+5100,W.J. Knoop straat,male, human
+5101,W.L. Penning straat,unknown,other
+5102,Waagdrager hof,unknown,other
+5103,Waaigat,unknown,other
+5104,Waalenburg singel,male,human
+5105,Waalseiland brug,male,human
+5106,Waal straat,unknown,other
+5107,Wachterlied plantsoen,unknown,Plant
+5108,Wadden dijk,unknown,other
+5109,Wamel straat,unknown,other
+5110,Wandel pad Door Ondergrondse Fietsenstalling,unknown,other
+5111,Wadden weg,male,human
+5112,Wagenaar straat,unknown,other
+5113,Wageningen dreef,unknown,other
+5114,Wagen straat,male,human
+5115,Wakker straat,unknown,other
+5116,Walcheren straat,unknown,other
+5117,Waldeck Pyrmont laan,male,human
+5118,Walden laan,male,human
+5119,Wallestein,male,human
+5120,Wally Moes pad,female,human
+5121,Walmolen,unknown,Object
+5122,Walraven Van Hall weg,male,human
+5123,Walvisvaart,unknown,other
+5124,Wanne pad,unknown,other
+5125,Wanning straat,unknown,other
+5126,Wapen Van Delft steeg,male,human
+5127,Ward Bingley straat,male,human
+5128,Waregem straat,unknown,other
+5129,Warmoes straat,unknown,other
+5130,Warmond straat,unknown,other
+5131,Warnsborn,unknown,other
+5132,Water baan,unknown,other
+5133,Watergangse weg,male,human
+5134,Waterkering pad,unknown,other
+5135,Waterkering weg,unknown,other
+5136,Waterkers weg,unknown,other
+5137,Waterland plein,unknown,other
+5138,Waterlelie gracht,unknown,Plant
+5139,Waterloop,unknown,Place
+5140,Waterloo plein,unknown,Place
+5141,Watermaal pad,unknown,Place
+5142,Waterman straat,unknown,Place
+5143,Watermolen,unknown,Object
+5144,Waterpoort steeg,unknown,Object
+5145,Waterpoort weg,unknown,Place
+5146,Waterrijk weg,unknown,Place
+5147,Waterschap straat,unknown,other
+5148,Water steeg,unknown,Place
+5149,Watertoren plein,unknown,Place
+5150,Waterval plein,unknown,Place
+5151,Watervoort,unknown,other
+5152,Watteau straat,male,human
+5153,Waver straat,male,human
+5154,Wedderborg,unknown,other
+5155,Wederik pad,female,human
+5156,Weegbree straat,unknown,other
+5157,Weegschaal hof,female,human
+5158,Weena hof,female,human
+5159,Weerdestein,unknown,other
+5160,Weersloot pad,unknown,Place
+5161,Weesper plein,unknown,Object
+5162,Weesper straat,unknown,Object
+5163,Wester park,unknown,Place
+5164,Weesperzijde,unknown,other
+5165,Weide straat,male,human
+5166,Weissenbruch straat,unknown,other
+5167,Weissen singel,male,human
+5168,Weissman straat,unknown,other
+5169,Welna straat,unknown,Place
+5170,Welsumer straat,unknown,other
+5171,Wembley laan,unknown,Place
+5172,Wenslauer straat,unknown,other
+5173,Wester straat,unknown,Plant
+5174,Weren gouw,unknown,Place
+5175,Werf straat,unknown,other
+5176,Werkendam straat,unknown,Object
+5177,Werkhoven straat,unknown,other
+5178,Werkspoor brug,male,human
+5179,Werktuig straat,unknown,other
+5180,Wervershoof straat,unknown,other
+5181,Wessel Gansfort straat,male,human
+5182,Wessel Ilcken straat,male,human
+5183,West,male,human
+5184,Westbroek plein,unknown,Place
+5185,Westbroek straat,unknown,other
+5186,Westeinde,unknown,other
+5187,Westerlengte,unknown,other
+5188,Westermarkt,unknown,Animal
+5189,Westertoegang,unknown,other
+5190,Westerwolde straat,unknown,other
+5191,Westelijke Merwedekanaal dijk,unknown,Place
+5192,Westerdoks dijk,unknown,Place
+5193,Westerdoks kade,unknown,Place
+5194,Westerdoks plein,unknown,Place
+5195,Westerduinen straat,unknown,other
+5196,Westergas brug,male,human
+5197,Westerhoofd,unknown,other
+5198,Wester kade,unknown,Plant
+5199,Westerkogge straat,unknown,other
+5200,Westhaven weg,unknown,Place
+5201,Westland gracht,unknown,Place
+5202,Westland pad,unknown,Place
+5203,Willem Van Konijnenburg straat,male,human
+5204,Westmalle pad,unknown,Place
+5205,Westpoort weg,male,human
+5206,Wethouder Insinger straat,male,human
+5207,Wethouder Ram straat,male,human
+5208,Wethouder Seegers plein,unknown,Place
+5209,Willems brug,male,human
+5210,Westrand weg,male,human
+5211,Westtunnel,unknown,other
+5212,Westwouder straat,unknown,other
+5213,Westzaan straat,unknown,other
+5214,Wetenschap brug,male,human
+5215,Wetering laan,unknown,Place
+5216,Wetering plein,unknown,Place
+5217,Willem Van Weldamme laan,male,human
+5218,Weteringschans,unknown,Object
+5219,Wetering straat,unknown,other
+5220,Weth Serrurier straat,male,human
+5221,Wethouder Abrahams pad,male,human
+5222,Wethouder De Roos plein,male,human
+5223,Wethouder De Vries plantsoen,male,human
+5224,Wethouder Den Hertog straat,male,human
+5225,Wethouder Driessen straat,male,human
+5226,Wethouder Ed. Polak straat,male,human
+5227,Wethouder Franke weg,male,human
+5228,Wethouder In 'T Veld straat,male,human
+5229,Willem Witsen straat,male,human
+5230,Wethouder Serrurier straat,male,human
+5231,Wethouder Steinmetz straat,male,human
+5232,Wethouder Tabak straat,male,human
+5233,Wethouder Van Essen weg,male,human
+5234,Wethouder Van Wijck straat,male,human
+5235,Wethouder Vos pad,unknown,Place
+5236,Wethouder Wierdels straat,unknown,other
+5237,Wevelgem straat,unknown,other
+5238,Wevelswale pad,unknown,other
+5239,Wg- Plein,unknown,other
+5240,Wiardi Beckman straat,male,human
+5241,Wibaut hof,unknown,other
+5242,Willem Schermerhorn straat,male,human
+5243,Willem Schouten straat,male,human
+5244,Willem Theunisse Blok straat,male,human
+5245,Wibaut straat,unknown,other
+5246,Wiborgeiland,unknown,Place
+5247,Wichers straat,unknown,other
+5248,Wieg brug,male,human
+5249,Wielewaal straat,unknown,other
+5250,Wielingen straat,unknown,other
+5251,Wiellader straat,unknown,other
+5252,Wierde straat,unknown,other
+5253,Wieringerwaard straat,unknown,other
+5254,Wigbolt Ripperda straat,unknown,other
+5255,Wijde Ekstergang,unknown,other
+5256,Wijde Hei steeg,unknown,Animal
+5257,Wijde Kapel steeg,male,human
+5258,Wijde Kerk steeg,male,human
+5259,Wijde Lombard steeg,male,human
+5260,Wijdegang,unknown,other
+5261,Wijdenesser straat,unknown,other
+5262,Wijde steeg,unknown,other
+5263,Wijen burg,male,human
+5264,Wijker gouw,unknown,other
+5265,Wijmarkt hof,unknown,other
+5266,Wijnand Nuijen straat,male,human
+5267,Wijnkers straat,unknown,other
+5268,Wijnsilopassage,unknown,other
+5269,Wijnsilo straat,unknown,other
+5270,Willem Van Hembyze straat,male,human
+5271,Wijsent kade,male,human
+5272,Wijsmuller straat,unknown,other
+5273,Wijttenbach straat,unknown,other
+5274,Wil De Graaff brug,male,human
+5275,Wilco Jiskoot pad,male,human
+5276,Wildeman,male,human
+5277,Wildenborch,unknown,other
+5278,Wildrijk straat,unknown,other
+5279,Wilgen weg,male,human
+5280,Wilhelmina Bladergroen straat,female,human
+5281,Wilhelmina Blomberg plein,female,human
+5282,Wilhelmina Drucker straat,female,human
+5283,Wilhelmina plantsoen,female,human
+5284,Wilhelmina straat,female,human
+5285,Wilhelmus Leemans straat,male,human
+5286,Willaert straat,male,human
+5287,Willebroek straat,unknown,other
+5288,Willem Augustin straat,male,human
+5289,Willem Baerdesen straat,male,human
+5290,Willem Bartjens hof,male,human
+5291,Willem Bouwhuis pad,male,human
+5292,Willem De Zwijger laan,male,human
+5293,Willem Drees plantsoen,male,human
+5294,Willem Fenenga straat,male,human
+5295,Willem Frederik Hermans brug,male,human
+5296,Willem Frederik Hermans straat,male,human
+5297,Willem Gerrese pad,male,human
+5298,Willem Gertenbach straat,male,human
+5299,Willem Heselaars straat,male,human
+5300,Willem Kes straat,male,human
+5301,Willem Kloos straat,male,human
+5302,Willem Kraan straat,male,human
+5303,Willem Kromhout straat,male,human
+5304,Willem Landré Straat,male,human
+5305,Willem Leevend straat,male,human
+5306,Willem Molengraaff straat,male,human
+5307,Willem Moll hof,male,human
+5308,Willem Mulier hof,male,human
+5309,Willem Nakken straat,male,human
+5310,Willem Noorlander kade,male,human
+5311,Willem Paap hof,male,human
+5312,Willem Parel straat,male,human
+5313,Willem Passtoors straat,male,human
+5314,Willem Pijper straat,male,human
+5315,Willem Roelofs straat,male,human
+5316,Willem Royaards straat,male,human
+5317,Willemskerke straat,unknown,Object
+5318,Willemspark weg,unknown,Plant
+5319,Willems straat,unknown,Plant
+5320,Willeskop straat,unknown,other
+5321,William Booth straat,male,human
+5322,Willink laan,female,human
+5323,Willy Den Ouden brug,male,human
+5324,Willy La Croix straat,male,human
+5325,Willy Mullens kade,male,human
+5326,Willy PéTillon straat,male,human
+5327,Willy Sluiter straat,male,human
+5328,Wilmkebreek pad,unknown,other
+5329,Wiltzangh laan,unknown,other
+5330,Wim Ibo brug,male,human
+5331,Wim Van Est laan,male,human
+5332,Windau brug,male,human
+5333,Windroos kade,male,human
+5334,Windroos plein,unknown,Object
+5335,Windtunnel kade,male,human
+5336,Woestduin straat,unknown,other
+5337,Wingerd weg,male,human
+5338,Winkler Prins hof,male,human
+5339,Winterdijk straat,unknown,Object
+5340,Winterjan pad,unknown,other
+5341,Winter straat,unknown,other
+5342,Winthont straat,unknown,other
+5343,Wisby brug,male,human
+5344,Wismar brug,male,human
+5345,Wisseloord plein,unknown,other
+5346,Wissel straat,male,human
+5347,Wisselwerking,unknown,other
+5348,Witbol straat,unknown,other
+5349,Withoedenveem,unknown,other
+5350,Witte Boog brug,male,human
+5351,Witte De With plein,male,human
+5352,Witte De With straat,male,human
+5353,Witte Kat brug,unknown,other
+5354,Witte Klok,male,human
+5355,Wittenburger gracht,unknown,Object
+5356,Wittenburger kade,male,human
+5357,Wittgenstein laan,female,human
+5358,Wodan straat,male,human
+5359,Zeil brug,female,human
+5360,Wognumer plantsoen,unknown,Plant
+5361,Wognumer straat,unknown,other
+5362,Wolbrantskerk weg,male,human
+5363,Wolderwijd pad,female,human
+5364,Wolfsmelk,unknown,other
+5365,Wolter Brandligt straat,male,human
+5366,Woltera Van Rees straat,male,human
+5367,Wolven straat,unknown,Animal
+5368,Word brug,male,human
+5369,Wormerveer straat,unknown,other
+5370,Woubrugge straat,unknown,Object
+5371,Woudrichem straat,unknown,other
+5372,Woutertje Pieterse straat,unknown,other
+5373,Wouwerman straat,unknown,other
+5374,Wyandotte straat,unknown,other
+5375,Zaagmolen straat,unknown,Object
+5376,Zaaiers weg,male,human
+5377,Zaandammer plein,unknown,Place
+5378,Zeilmaker straat,unknown,Place
+5379,Zaan hof,male,human
+5380,Zaan straat,male,human
+5381,Zacharias Janse straat,male,human
+5382,Zakslootje,unknown,Object
+5383,Zak steeg,male,human
+5384,Zamenhof straat,male,human
+5385,Zand brug,unknown,Place
+5386,Zanddwars straat,unknown,other
+5387,Zandhoek,unknown,Place
+5388,Zandhoeks brug,unknown,Place
+5389,Zand pad-Driemond,female,human
+5390,Zand straat,male,human
+5391,Zandstrooier straat,unknown,other
+5392,Zandvoort straat,unknown,other
+5393,Zaventem weg,male,human
+5394,Zebra brug,unknown,Animal
+5395,Zeeberg weg,male,human
+5396,Zeebrugge plein,unknown,other
+5397,Zeeburger dijk,unknown,other
+5398,Zeeburger kade,unknown,other
+5399,Zeeburger pad,unknown,other
+5400,Zeeburger straat,unknown,other
+5401,Zee dijk,male,human
+5402,Zeemagazijn kade,male,human
+5403,Zeevaart,unknown,other
+5404,Zeevaart hof,unknown,other
+5405,Zeil straat,unknown,other
+5406,Zekering straat,unknown,other
+5407,Zelzate straat,unknown,other
+5408,Zenne hof,male,human
+5409,Zeno straat,male,human
+5410,Zesde Vogel straat,male,human
+5411,Zichem plein,unknown,other
+5412,Ziekentroostersgang,unknown,Plant
+5413,Ziesenis kade,female,human
+5414,Zilver berg,male,human
+5415,Zilvermeeuw pad,female,human
+5416,Zilverplevier straat,unknown,other
+5417,Zilverschoon straat,unknown,other
+5418,Zinnia laan,unknown,Plant
+5419,Zloty laan,unknown,Object
+5420,Zocher straat,unknown,other
+5421,Zomerdijk straat,unknown,Object
+5422,Zomer straat,unknown,other
+5423,Zonhoven straat,unknown,other
+5424,Zonnebeke,unknown,other
+5425,Zonnehoeks pad,unknown,other
+5426,Zonne hof,unknown,other
+5427,Zonne plein,unknown,other
+5428,Zonne weg,unknown,other
+5429,Zonzeel straat,unknown,Place
+5430,Zoom straat,unknown,other
+5431,Zorgzaam,unknown,other
+5432,Zout berg,unknown,other
+5433,Zouthaven brug,unknown,other
+5434,Zoutkeets brug,unknown,Place
+5435,Zoutkeets gracht,unknown,Place
+5436,Zoutkeets plein,unknown,Place
+5437,Zoutman brug,male,human
+5438,Zout steeg,unknown,other
+5439,Zuid-Beveland straat,unknown,Place
+5440,Zuid-Holland straat,unknown,Place
+5441,Zuideinde,unknown,Place
+5442,Zuidelijke Wandel weg,unknown,Place
+5443,Zuivel plein,unknown,Place
+5444,Zunderdorper gouw,unknown,Place
+5445,Zuider Ij dijk,unknown,Place
+5446,Zuideraker weg,unknown,Place
+5447,Zuiderkerk hof,unknown,Place
+5448,Zuidermolen weg,unknown,Place
+5449,Zuiderzee park,unknown,Place
+5450,Zuidewijn,unknown,Place
+5451,Zuidgors straat,unknown,Place
+5452,Zuidoost,unknown,Place
+5453,Zuid plein,unknown,Place
+5454,Zuidwest,unknown,Place
+5455,Zus Braun straat,male,human
+5456,Zutendaal straat,unknown,other
+5457,Zwaag straat,unknown,other
+5458,Zwaardemaker straat,male,human
+5459,Zwaluw laan,unknown,Animal
+5460,Zwaluw straat,unknown,Animal
+5461,Zwanebloem laan,unknown,Plant
+5462,Zwanenburgwal,unknown,other
+5463,Zwanen plein,unknown,other
+5464,Zwarte gouw,unknown,other
+5465,Zwartehand steeg,unknown,other
+5466,Zwartlaken steeg,unknown,other
+5467,Zwenkgras straat,unknown,Plant
+5468,ÖRe hof,unknown,Object
