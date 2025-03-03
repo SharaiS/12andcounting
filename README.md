@@ -51,6 +51,10 @@ I categorized the data set into six distinct classifications: gender (female & m
 For each category, I calculated: the percentage of roads bearing names from that category, the total length of those roads, and the percentage of each road type within that category.
 
 
-##### Sources
+##### Data Sources
 - HDX OSM data, https://data.humdata.org/dataset/hotosm_nld_roads
-- DIVA GIS, https://diva-gis.org/data.html 
+- DIVA GIS, https://diva-gis.org/data.html
+##### Sources
+- AI
+- Road names : https://nl.wikipedia.org/wiki/Lijst_van_straten_in_Amsterdam#Namenlijst
+- Gender API: https://genderize.io/ 
