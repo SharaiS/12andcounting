@@ -55,6 +55,5 @@ For each category, I calculated: the percentage of roads bearing names from that
 - HDX OSM data, https://data.humdata.org/dataset/hotosm_nld_roads
 - DIVA GIS, https://diva-gis.org/data.html
 ##### Sources
-- AI
 - Road names : https://nl.wikipedia.org/wiki/Lijst_van_straten_in_Amsterdam#Namenlijst
 - Gender API: https://genderize.io/ 
